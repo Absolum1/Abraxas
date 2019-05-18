@@ -20,6 +20,6 @@ def generate_password(words, top=2000, k=4, numbers=None, characters=None,
 
 
 if __name__ == '__main__':
-    with open('../lists/english.txt') as f:
+    with open('../lists/Nenglish.txt') as f:
         words = [w.strip() for w in f]
     print(generate_password(words, numbers='0123456789', characters='!@#$%'))
