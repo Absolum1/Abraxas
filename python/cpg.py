@@ -4,7 +4,7 @@ import random
 r = random.SystemRandom()
 
 
-def generate_password(words, top=2000, k=4, numbers=None, characters=None,
+def generate_password(words, top=100000, k=4, numbers=None, characters=None,
                       first_upper=True):
     """Return a random password based on a sorted word list."""
     elements = r.sample(words[:top], k)
@@ -22,4 +22,4 @@ def generate_password(words, top=2000, k=4, numbers=None, characters=None,
 if __name__ == '__main__':
     with open('../lists/Nenglish.txt') as f:
         words = [w.strip() for w in f]
-    print(generate_password(words, numbers='0123456789', characters='!@#$%'))
+    print(generate_password(words, numbers='0123456789', characters='~#$%^&*\[]{}"<>,.?/'))
