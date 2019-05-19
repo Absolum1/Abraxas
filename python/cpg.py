@@ -1,13 +1,16 @@
 import random
-
+from random import randint
 
 r = random.SystemRandom()
 
+# Out list of words to use
+with open('../lists/dutch.txt') as f:
+    words = [w.strip() for w in f]
 
-def generate_password(words, top=100000, k=4, numbers=None, characters=None,
+def generate_password(words, k, numbers=None, characters=None,
                       first_upper=True):
     """Return a random password based on a sorted word list."""
-    elements = r.sample(words[:top], k)
+    elements = r.sample(words, k)
 
     if numbers:
         elements.insert(r.randint(1, len(elements)), r.choice(numbers))
@@ -18,8 +21,7 @@ def generate_password(words, top=100000, k=4, numbers=None, characters=None,
 
     return ''.join(elements)
 
+select = generate_password(words, 3, numbers='0123456789', characters='~#$%^&*\[]{}"<>,.?/')
 
-if __name__ == '__main__':
-    with open('../lists/Nenglish.txt') as f:
-        words = [w.strip() for w in f]
-    print(generate_password(words, numbers='0123456789', characters='~#$%^&*\[]{}"<>,.?/'))
+print(select)
+
