@@ -1,5 +1,3 @@
-#!/usr/bin/python   
-print('Content-type: text/html\r\n\r')
 import random
 from random import randint
 
@@ -40,6 +38,6 @@ splitters = [
 
 gen_without_split = generate_password(words, 3, numbers='0123456789', characters='~#$%^&*\[]{}"<>,.?/')
 password = list(gen_without_split)
-split = password.insert(r.randint(1, len(password)), r.choice(splitters))
-s = ''
-print (s.join(password))
+split= password.insert(r.randint(1, len(password)), r.choice(splitters))
+
+print ''.join(password)
