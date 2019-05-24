@@ -5,7 +5,7 @@ from random import randint
 r = random.SystemRandom()
 
 # Out list of words to use
-with open('../lists/dutch.txt') as f:
+with open('../lists/mixed.txt') as f:
     words = [w.strip() for w in f]
 
 def generate_password(words, k, numbers=None, characters=None,
