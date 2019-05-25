@@ -5,7 +5,7 @@ target="_blank"><br><img width="200" src="https://absolum.nl/assets/images/absol
 <h1 align="center">Client Password Generator</h1>
 
 
-<p align="center">Easy to remember passwords that can be used as a master password, we've made this for our clients but anyone is free to use it.</p>
+<p align="center">Easy to remember passphrase that can be used as a master password, we've made this for our clients but anyone is free to use it.</p>
 
 <p align="center">Soon to be Abraxas.</p>
 
@@ -18,7 +18,7 @@ target="_blank"><br><img width="200" src="https://absolum.nl/assets/images/absol
 
 ## Tags
 - :bulb: Easy to remember
-- :lock: Secure passwords
+- :lock: Secure passphrases
 - 🎉 Open source
 
 ## How to use it?
@@ -30,20 +30,21 @@ passphrases with multiple functions for example:
 - Amount of passphrases to generate
 - Time to hack these passphrases*
 - Adding a personal wordlist (please add these to the repo to share them)*
-We're also converting the python app to a command-line package so everyone can download it from their favorite package manager and generate passwords with flags like -w 4 to use four words instead of the standard three.
+We're also converting the python app to a command-line package so everyone can download it from their favorite package manager and generate passphrases with flags like -w 4 to use four words instead of the standard three.
+
 * = not a priority
 
 #### Guide
 - Clone the repository: ```git clone https://github.com/Absolum1/CPG.git```
 - ```cd``` into the folder ```CPG/python/``` by: ```cd CPG/python```
 - Run the script by: ```python cpg.py```
-- Tip: use the ```repeat x``` (replace x with the amount of passwords you want) command before the run script command ```python cpg.py``` to get multiple passphrases, example ```repeat 10 python cpg.py``` (to get 10 generated passphrases)
+- Tip: use the ```repeat x``` (replace x with the amount of passphrases you want) command before the run script command ```python cpg.py``` to get multiple passphrases, example ```repeat 10 python cpg.py``` (to get 10 generated passphrases)
 
 
 ## Why CPG?
-This tool aims to generate masterpasswords according to our standards for our clients.
+This tool aims to generate secure master passwords according to our standards for our clients.
 
-Some of our clients havent moved on to password managers (like LastPass) yet, and one of the biggest hassles is getting them to pick a secure masterpassword.
+Some of our clients havent moved on to password managers (like LastPass) yet, and one of the biggest hassles is getting them to pick a secure master password.
 
 They go with an easy unsecure password or one thats really easy to guess.
 Here are a few very generous examples (unfortunately they are usually worse) and whats wrong with them:
