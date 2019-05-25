@@ -21,6 +21,24 @@ target="_blank"><br><img width="200" src="https://absolum.nl/assets/images/absol
 - :lock: Secure passwords
 - 🎉 Open source
 
+## How to use it?
+#### Notes
+Currently CPG is only available on the command-line we are working to create a secure website to generate these
+passphrases with multiple functions for example:
+- Choosing a wordlist
+- Number of words used
+- Amount of passphrases to generate
+- Time to hack these passphrases*
+- Adding a personal wordlist (please add these to the repo to share them)*
+We're also converting the python app to a command-line package so everyone can download it from their favorite package manager and generate passwords with flags like -w 4 to use four words instead of the standard three.
+* = not a priority
+
+#### Guide
+- Clone the repository: ```git clone https://github.com/Absolum1/CPG.git```
+- ```cd``` into the folder ```CPG/python/``` by: ```cd CPG/python```
+- Run the script by: ```python cpg.py```
+- Tip: use the ```repeat x``` (replace x with the amount of passwords you want) command before the run script command ```python cpg.py``` to get multiple passphrases, example ```repeat 10 python cpg.py``` (to get 10 generated passphrases)
+
 
 ## Why CPG?
 This tool aims to generate masterpasswords according to our standards for our clients.
