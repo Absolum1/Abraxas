@@ -1,7 +1,5 @@
- ae
  aehiru
  aera
- aha
  ahakoa
  ahaku
  ahana
@@ -25,7 +23,6 @@
  ahera
  ahere
  aheri
- ahi
  ahiahi
  ahiawa
  ahiki
