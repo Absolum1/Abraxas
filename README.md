@@ -2,12 +2,12 @@
 target="_blank"><br><img width="200" src="https://absolum.nl/assets/images/absolum-logo1.svg"></a></p>
 
 
-<h1 align="center">Client Password Generator</h1>
+<h1 align="center">Abraxas</h1>
 
 
-<p align="center">Easy to remember passphrase that can be used as a master password, we've made this for our clients but anyone is free to use it.</p>
+<p align="center">Easy to remember generated passphrase(s) that can be used as a master password(s), we've made this for our clients but anyone is free to use it.</p>
 
-<p align="center">Soon to be Abraxas.</p>
+<p align="center">Formerly CPG</p>
 
 <p align="center"> 
 <a href="https://absolum.nl"><img src="https://img.shields.io/badge/website-absolum.nl-lightgrey.svg" alt="Website"></a>
@@ -35,13 +35,13 @@ We're also converting the python app to a command-line package so everyone can d
 * = not a priority
 
 #### Guide
-- Clone the repository: ```git clone https://github.com/Absolum1/CPG.git```
-- ```cd``` into the folder ```CPG/python/``` by: ```cd CPG/python```
-- Run the script by: ```python cpg.py```
-- Tip: use the ```repeat x``` (replace x with the amount of passphrases you want) command before the run script command ```python cpg.py``` to get multiple passphrases, example ```repeat 10 python cpg.py``` (to get 10 generated passphrases)
+- Clone the repository: ```git clone https://github.com/Absolum1/Abraxas.git```
+- ```cd``` into the folder ```Abraxas/python/``` by: ```cd Abraxas/python```
+- Run the script by: ```python abraxas.py```
+- Tip: use the ```repeat x``` (replace x with the amount of passphrases you want) command before the run script command ```python cpg.py``` to get multiple passphrases, example ```repeat 10 python abraxas.py``` (to get 10 generated passphrases)
 
 
-## Why CPG?
+## Why Abraxas?
 This tool aims to generate secure master passwords according to our standards for our clients.
 
 Some of our clients havent moved on to password managers (like LastPass) yet, and one of the biggest hassles is getting them to pick a secure master password.
