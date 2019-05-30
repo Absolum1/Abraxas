@@ -92,6 +92,8 @@ Tip!: if you speak a dialect or any other language than English use words in tha
 - Bushw*ayYAOURTvargle239&*
 - Zielowva~lmaandJaar(,721
 - beh_indlagvarinlus';008
+- Be~lgen5,%70riepchristusbeelden
+
 
 ### Explanation
 The goal of these rules is to create an easy to remember secure master password.
