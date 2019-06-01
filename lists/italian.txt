@@ -3,7 +3,6 @@
  abbai
  abbaia
  abbaio
- abbi
  abbia
  abbina
  abbini
@@ -11,7 +10,6 @@
  abbona
  abboni
  abbono
- abc
  abdica
  abdico
  abete
@@ -36,7 +34,6 @@
  abusai
  abusi
  abuso
- ac
  accada
  accade
  accasa
@@ -68,7 +65,6 @@
  acute
  acuti
  acuto
- ad
  adagi
  adagia
  adagio
@@ -107,13 +103,10 @@
  adunai
  aduni
  aduno
- ae
  aerea
  aeree
  aerei
  aereo
- af
- afa
  affama
  affami
  affamo
@@ -137,7 +130,6 @@
  afose
  afosi
  afoso
- ag
  agenda
  agende
  agente
@@ -145,23 +137,18 @@
  aggira
  aggiri
  aggiro
- aghi
- agi
  agiata
  agiate
  agiato
  agile
  agili
- agio
  agire
  agisca
  agita
  agitai
  agiti
  agito
- agli
  aglio
- ago
  agonia
  agonie
  agosto
@@ -170,18 +157,11 @@
  aguzza
  aguzzi
  aguzzo
- ah
- ai
  aiuole
  aiuta
  aiutai
  aiuti
  aiuto
- aj
- ak
- al
- alba
- albe
  alberi
  albero
  albina
@@ -190,10 +170,7 @@
  alcuna
  alcune
  alcuni
- alfa
- alga
  alghe
- ali
  aliena
  alieni
  alieno
@@ -201,7 +178,6 @@
  alito
  allaga
  allago
- alle
  allega
  allego
  allena
@@ -210,20 +186,15 @@
  alleva
  allevi
  allevo
- allo
  allora
  allori
  alloro
  alluce
  alluci
  almeno
- alta
  altare
  altari
- alte
  altero
- alti
- alto
  altra
  altre
  altri
@@ -236,7 +207,6 @@
  alunni
  alunno
  alveo
- alza
  alzai
  alzano
  alzare
@@ -246,14 +216,9 @@
  alzava
  alzavi
  alzavo
- alzi
  alzino
- alzo
- am
- ama
  amaca
  amache
- amai
  amammo
  amando
  amano
@@ -293,22 +258,18 @@
  ammira
  ammiri
  ammiro
- amo
  amore
  amorfe
  amorfi
  amorfo
  amori
- ampi
  ampie
  ampio
  ampli
  amplia
  amplio
- an
  anatra
  anatre
- anca
  anche
  ancora
  ancore
@@ -338,10 +299,8 @@
  annate
  annega
  annego
- anni
  annidi
  annido
- anno
  annoda
  annodi
  annodo
@@ -356,22 +315,16 @@
  annuso
  ansia
  ansie
- ante
  antico
  antri
  antro
- anzi
- ao
- ap
  apatia
  apatie
- ape
  aperse
  aperta
  aperte
  aperti
  aperto
- api
  apice
  apici
  appaia
@@ -382,23 +335,15 @@
  appura
  appuri
  appuro
- apra
- apre
- apri
  aprii
  aprile
  aprilo
  aprire
  aprite
  apriva
- apro
  aprono
- aq
  aquila
  aquile
- ar
- ara
- arai
  arammo
  arance
  arando
@@ -417,15 +362,12 @@
  aravi
  arcata
  archi
- arco
  ardore
  ardori
  ardua
  ardue
  ardui
  arduo
- area
- aree
  arerai
  arerei
  argina
@@ -434,21 +376,17 @@
  argute
  arguti
  arguto
- ari
- aria
  ariamo
  ariate
  arida
  aride
  aridi
  arido
- arie
  arino
  ariosa
  ariose
  ariosi
  arioso
- arma
  armadi
  armai
  armano
@@ -461,15 +399,12 @@
  armavi
  armavo
  armeno
- armi
  armino
  arnese
  arnesi
  arnia
- aro
  aroma
  aromi
- arpe
  arreda
  arredi
  arredo
@@ -479,10 +414,6 @@
  arrogo
  arrota
  arroti
- arte
- arti
- arto
- as
  ascia
  asili
  asilo
@@ -498,10 +429,7 @@
  aspre
  aspri
  aspro
- asse
  assedi
- assi
- asso
  associ
  assoda
  assodi
@@ -514,19 +442,16 @@
  astute
  astuti
  astuto
- at
  atleta
  atleti
  atomi
  atomo
- atri
  atrii
  atroce
  atroci
  attesa
  attese
  attesi
- atti
  attimo
  attiri
  attiro
@@ -534,32 +459,26 @@
  attive
  attivi
  attivo
- atto
  attore
  attori
  attua
  attuai
  attui
  attuo
- au
  audace
  audaci
  augura
  auguri
  auguro
- aula
- aule
  auree
  aurei
  aureo
  aurora
  aurore
- auto
  automa
  automi
  autore
  autori
- av
  avalla
  avallo
  avanti
@@ -602,22 +521,14 @@
  avvita
  avviti
  avvito
- aw
- ax
- ay
- az
  azioni
- b
  babbo
  bachi
- baci
  bacia
  baciai
  bacini
  bacino
  bacio
- baco
- bada
  badai
  badano
  badare
@@ -628,21 +539,16 @@
  badava
  badavi
  badavo
- badi
  badia
  badile
  badili
  badino
- bado
  baffi
  baffo
  bagna
  bagnai
  bagni
  bagno
- bah
- baia
- baie
  balena
  balene
  baleni
@@ -666,7 +572,6 @@
  bande
  bandi
  bandii
- bara
  barai
  barano
  barare
@@ -680,16 +585,13 @@
  barbe
  barca
  barche
- bari
  barile
  barili
  barino
  bario
- baro
  baroni
  barra
  barre
- basa
  basare
  basata
  basate
@@ -698,8 +600,6 @@
  basava
  basavi
  basavo
- base
- basi
  basino
  basico
  basito
@@ -716,17 +616,8 @@
  batto
  baule
  bauli
- bava
- bave
  baveri
  bavero
- bb
- bbb
- bbbb
- bc
- bcd
- bd
- be
  beata
  beate
  beati
@@ -745,26 +636,15 @@
  bende
  bendi
  bendo
- bene
- beni
  beone
- bere
  bestia
  bestie
- beva
- beve
  bevete
  beveva
- bevi
  bevilo
  bevine
- bevo
  bevono
  bevuto
- bf
- bg
- bh
- bi
  bianca
  bianco
  bibbia
@@ -773,8 +653,6 @@
  bidone
  bidoni
  biechi
- bile
- bili
  bimba
  bimbe
  bimbi
@@ -790,18 +668,11 @@
  bisce
  bische
  biscia
- bj
- bk
- bl
  blanda
  blande
  blandi
  blando
  blocca
- blu
- bm
- bn
- bo
  bocca
  bocce
  bocche
@@ -828,9 +699,6 @@
  botte
  bozza
  bozze
- bp
- bq
- br
  bracco
  brace
  brama
@@ -857,7 +725,6 @@
  brindi
  brindo
  brine
- brio
  brocca
  brodi
  brodo
@@ -881,18 +748,12 @@
  bruti
  brutti
  brutto
- bs
- bt
- bu
- buca
  bucce
  buccia
  buche
  buchi
- buco
  budini
  budino
- bue
  bufera
  bufere
  buffa
@@ -900,10 +761,8 @@
  buffo
  bugia
  bugie
- buio
  bulbi
  bulbo
- buoi
  buona
  buone
  buoni
@@ -923,12 +782,6 @@
  buttai
  butti
  butto
- bv
- bw
- bx
- by
- bz
- c
  cabina
  cabine
  cacao
@@ -936,7 +789,6 @@
  caccio
  cadde
  caddi
- cade
  cadere
  cadeva
  cadono
@@ -946,7 +798,6 @@
  caduto
  cagna
  cagne
- cala
  calai
  calano
  calare
@@ -963,7 +814,6 @@
  calde
  caldi
  caldo
- cali
  calice
  calici
  calino
@@ -974,7 +824,6 @@
  calme
  calmi
  calmo
- calo
  calore
  calori
  calva
@@ -1000,8 +849,6 @@
  canali
  canapa
  canape
- cane
- cani
  canile
  canili
  canne
@@ -1018,18 +865,13 @@
  canuto
  capace
  capaci
- capi
  capire
  capita
  capito
- capo
  capra
  capre
- cara
- care
  carena
  carene
- cari
  carica
  carico
  carina
@@ -1038,17 +880,12 @@
  carino
  carne
  carni
- caro
  carota
  carote
  carri
  carta
  carte
- casa
  caschi
- case
- casi
- caso
  cassa
  casse
  casta
@@ -1066,7 +903,6 @@
  cauta
  caute
  cauti
- cava
  cavai
  cavano
  cavare
@@ -1076,17 +912,8 @@
  cavava
  cavavi
  cavavo
- cave
  cavoli
  cavolo
- cb
- cc
- ccc
- cccc
- cd
- cde
- ce
- cede
  cedere
  cedola
  cedole
@@ -1112,33 +939,25 @@
  celino
  cella
  celle
- cena
  cenare
  cenata
  cenate
  cenati
  cenava
  cenavi
- cene
  cenere
  ceneri
- ceni
  cenni
  cenno
- ceno
  cento
  centra
  centro
  ceppo
- cera
  cerca
  cerchi
  cerco
- cere
- ceri
  cerini
  cerino
- cero
  certa
  certe
  certi
@@ -1151,10 +970,6 @@
  cesti
  cetra
  cetre
- cf
- cg
- ch
- chi
  chiama
  chiami
  chiamo
@@ -1186,12 +1001,8 @@
  chiusa
  chiusi
  chiuso
- ci
  cialda
  cialde
- ciao
- cibi
- cibo
  cicca
  cicli
  ciclo
@@ -1211,8 +1022,6 @@
  cigola
  cigoli
  cigolo
- cima
- cime
  cimice
  cimici
  cinema
@@ -1229,7 +1038,6 @@
  circo
  cirro
  cisti
- cita
  citai
  citano
  citare
@@ -1240,34 +1048,23 @@
  citava
  citavi
  citavo
- citi
  citino
- cito
  ciuffi
  ciuffo
  ciurma
  ciurme
  civile
  civili
- cj
- ck
- cl
  classe
  classi
  clero
  clima
  climi
- cm
- cn
- co
- coda
- code
  codice
  codici
  cofani
  cofano
  coglie
- cola
  colai
  colano
  colare
@@ -1279,7 +1076,6 @@
  colavi
  colavo
  colera
- coli
  colini
  colino
  colla
@@ -1290,7 +1086,6 @@
  colmai
  colme
  colmo
- colo
  coloni
  colore
  colori
@@ -1321,11 +1116,9 @@
  concia
  concio
  condii
- coni
  conia
  coniai
  conio
- cono
  conta
  contai
  conte
@@ -1342,10 +1135,8 @@
  copro
  corda
  corde
- cori
  corna
  corno
- coro
  corona
  corone
  coroni
@@ -1368,14 +1159,11 @@
  corto
  corvi
  corvo
- cosa
  cosca
  cosce
  coscia
- cose
  coseno
  cosmo
- coso
  costa
  costai
  coste
@@ -1387,7 +1175,6 @@
  cotte
  cotti
  cotto
- cova
  covai
  covano
  covata
@@ -1397,21 +1184,15 @@
  covava
  covavi
  covavo
- covi
  covino
- covo
  cozza
  cozze
  cozzi
  cozzo
- cp
- cq
- cr
  crampi
  crampo
  crani
  cranio
- crea
  creai
  creano
  creare
@@ -1428,14 +1209,12 @@
  credei
  credi
  credo
- crei
  creino
  crema
  cremai
  creme
  cremi
  cremo
- creo
  crepa
  crepe
  crepi
@@ -1466,11 +1245,6 @@
  cruna
  crune
  crusca
- cs
- ct
- cu
- cubi
- cubo
  cucina
  cucine
  cucini
@@ -1493,13 +1267,8 @@
  cuoio
  cuore
  cuori
- cupa
- cupe
- cupi
- cupo
  cupola
  cupole
- cura
  curai
  curano
  curare
@@ -1509,34 +1278,19 @@
  curava
  curavi
  curavo
- cure
- curi
  curino
- curo
  curva
  curvai
  curve
  curvi
  curvo
- cute
- cv
- cw
- cx
- cy
- cz
- d
  dacci
- dadi
- dado
  dagli
- dai
  daini
  daino
  dalla
  dalle
  dallo
- dama
- dame
  dammi
  dannai
  danni
@@ -1545,14 +1299,12 @@
  danze
  danzi
  darai
- dare
  darei
  daremo
  dargli
  darsi
  darti
  darvi
- data
  datai
  datano
  datare
@@ -1563,27 +1315,15 @@
  datava
  datavi
  datavo
- date
  datelo
  datemi
  datevi
- dati
  datino
- dato
  datomi
  datosi
- dava
  davamo
  davano
- davo
  dazio
- db
- dc
- dd
- ddd
- dddd
- de
- dea
  debba
  debiti
  debito
@@ -1602,15 +1342,12 @@
  dedite
  dediti
  dedito
- dee
- def
  degli
  degna
  degnai
  degne
  degni
  degno
- dei
  delega
  delego
  delira
@@ -1663,31 +1400,19 @@
  dette
  detti
  detto
- deve
- devi
- devo
  devono
  devota
  devote
  devoti
  devoto
- df
- dg
- dh
- di
- dia
  diamo
  diano
  diario
- dica
  dicano
  dicasi
  dicci
- dice
  diceva
  dicevo
- dici
- dico
  dicono
  dieci
  diede
@@ -1699,7 +1424,6 @@
  difese
  difesi
  difeso
- diga
  digita
  digiti
  digli
@@ -1731,7 +1455,6 @@
  dirami
  diramo
  dirci
- dire
  direi
  direte
  dirgli
@@ -1756,16 +1479,13 @@
  disti
  disto
  disuso
- dita
  ditale
- dite
  ditelo
  ditemi
  divaga
  divago
  divani
  divano
- dive
  divide
  dividi
  divina
@@ -1778,12 +1498,6 @@
  divora
  divori
  divoro
- dj
- dk
- dl
- dm
- dn
- do
  docce
  doccia
  docile
@@ -1813,7 +1527,6 @@
  domina
  domini
  domino
- dona
  donai
  donare
  donate
@@ -1822,12 +1535,9 @@
  donava
  donavi
  donavo
- doni
  donino
  donna
  donne
- dono
- dopo
  doppia
  doppie
  doppio
@@ -1840,7 +1550,6 @@
  dormo
  dorsi
  dorso
- dosa
  dosai
  dosano
  dosare
@@ -1850,10 +1559,7 @@
  dosato
  dosavi
  dosavo
- dosi
  dosino
- doso
- dota
  dotai
  dotano
  dotare
@@ -1863,14 +1569,10 @@
  dotava
  dotavi
  dotavo
- dote
- doti
  dotino
- doto
  dotta
  dotte
  dotti
- dove
  dovere
  dovete
  doveva
@@ -1881,9 +1583,6 @@
  dovuta
  dovute
  dovuti
- dp
- dq
- dr
  draga
  draghe
  draghi
@@ -1893,22 +1592,14 @@
  drizza
  drizzi
  drizzo
- ds
- dt
- du
  dubbi
  dubbio
  dubita
  dubiti
  dubito
- duca
  duchi
- due
  duello
- duna
- dune
  duomi
- dura
  durai
  durano
  durare
@@ -1919,19 +1610,8 @@
  durava
  duravi
  duravo
- dure
- duri
  durino
- duro
- dv
- dw
- dx
- dy
- dz
- e
- eb
  ebano
- ec
  ecceda
  eccede
  eccedi
@@ -1939,27 +1619,11 @@
  eccita
  ecciti
  eccito
- ecco
- echi
- eco
- ed
  edera
  edere
  educo
- ee
- eee
- eeee
- ef
- efg
- eg
- egli
  eguale
  eguali
- eh
- ei
- ej
- ek
- el
  elegga
  elegge
  eleggi
@@ -1972,7 +1636,6 @@
  eletto
  elevai
  eliche
- ella
  elogi
  elogia
  elogio
@@ -1983,7 +1646,6 @@
  eluse
  elusi
  eluso
- em
  emana
  emanai
  emani
@@ -2008,19 +1670,14 @@
  emulai
  emuli
  emulo
- en
  enfasi
  enigma
  enorme
  enormi
- ente
- enti
  entra
  entrai
  entri
  entro
- eo
- ep
  epica
  epiche
  epici
@@ -2029,16 +1686,7 @@
  epoche
  eppure
  epurai
- eq
- equa
- eque
- equi
- er
- era
  erano
- erba
- erbe
- ere
  eredi
  eresia
  eresie
@@ -2051,8 +1699,6 @@
  erige
  erigi
  erigo
- eroe
- eroi
  errai
  errano
  errare
@@ -2065,7 +1711,6 @@
  errino
  errore
  errori
- es
  esalta
  esalti
  esalto
@@ -2074,10 +1719,6 @@
  esatte
  esatti
  esatto
- esca
- esce
- esci
- esco
  escono
  esegue
  esenti
@@ -2099,12 +1740,8 @@
  espiai
  espii
  espio
- essa
- esse
  essere
  esseri
- essi
- esso
  estate
  estati
  esteri
@@ -2119,16 +1756,11 @@
  esulta
  esulti
  esulto
- et
  etere
  eterna
  eterne
  eterni
  eterno
- etti
- etto
- eu
- ev
  evacua
  evacui
  evacuo
@@ -2139,11 +1771,6 @@
  evito
  evolve
  evviva
- ew
- ex
- ey
- ez
- f
  fabbro
  facce
  faccia
@@ -2155,7 +1782,6 @@
  faggi
  faggio
  fagli
- fai
  falce
  falchi
  falci
@@ -2168,8 +1794,6 @@
  falsa
  false
  falsi
- fama
- fame
  fammi
  famosa
  famose
@@ -2183,12 +1807,10 @@
  fanno
  fanti
  farci
- fare
  farei
  faremo
  farete
  fargli
- fari
  farina
  farine
  farla
@@ -2203,11 +1825,8 @@
  fasci
  fascia
  fascio
- fase
- fata
  fatale
  fatali
- fate
  fateci
  fatela
  fatelo
@@ -2215,26 +1834,19 @@
  fatevi
  fatica
  fatico
- fato
  fatte
  fatti
  fatto
  favola
  favole
  favori
- fb
- fc
- fd
- fe
  febbre
  febbri
  fecero
- fede
  fedele
  fedeli
  federa
  federe
- fedi
  fegati
  fegato
  felice
@@ -2266,18 +1878,10 @@
  fetido
  fetta
  fette
- ff
- fff
- ffff
- fg
- fgh
- fh
- fi
  fiacca
  fiacco
  fiamma
  fichi
- fico
  fidata
  fidate
  fidati
@@ -2294,7 +1898,6 @@
  figlio
  figura
  figure
- fila
  filai
  filano
  filare
@@ -2304,18 +1907,13 @@
  filava
  filavi
  filavo
- file
- fili
  filino
- filo
  filtri
  filtro
  finale
- fine
  finge
  fingi
  fingo
- fini
  finii
  finire
  finita
@@ -2324,7 +1922,6 @@
  finito
  finiva
  finivi
- fino
  finora
  finse
  finsi
@@ -2355,9 +1952,6 @@
  fiutai
  fiuti
  fiuto
- fj
- fk
- fl
  flauti
  flauto
  flotte
@@ -2375,12 +1969,7 @@
  flussi
  flutti
  flutto
- fm
- fn
- fo
- foca
  foche
- foci
  focosa
  focose
  focosi
@@ -2402,7 +1991,6 @@
  fondai
  fondi
  fondo
- fora
  forai
  forano
  forare
@@ -2412,7 +2000,6 @@
  forato
  forava
  foravo
- fori
  forino
  forma
  formai
@@ -2423,7 +2010,6 @@
  forni
  fornii
  forno
- foro
  forse
  forte
  forti
@@ -2438,11 +2024,6 @@
  fossi
  foste
  fosti
- foto
- fp
- fq
- fr
- fra
  frana
  franai
  franco
@@ -2479,14 +2060,10 @@
  frutta
  frutti
  frutto
- fs
- ft
- fu
  fucila
  fucile
  fucili
  fucilo
- fuga
  fugai
  fugano
  fugare
@@ -2500,9 +2077,6 @@
  fugge
  fuggi
  fughe
- fugo
- fui
- fuma
  fumai
  fumano
  fumare
@@ -2513,10 +2087,8 @@
  fumava
  fumavi
  fumavo
- fumi
  fumino
  fummo
- fumo
  funge
  funghi
  fungo
@@ -2531,27 +2103,15 @@
  furori
  furti
  furto
- fusa
  fusaro
- fuse
- fuso
  fusti
  fusto
  futile
  futili
  futuri
  futuro
- fv
- fw
- fx
- fy
- fz
- g
  gabbia
  gabbie
- gaia
- gaie
- gaio
  galera
  galere
  galli
@@ -2563,16 +2123,9 @@
  gamma
  ganci
  gancio
- gara
  garbo
- gare
  garza
  garze
- gb
- gc
- gd
- ge
- gela
  gelai
  gelano
  gelare
@@ -2583,13 +2136,11 @@
  gelava
  gelavi
  gelavo
- geli
  gelida
  gelide
  gelidi
  gelido
  gelino
- gelo
  gelone
  geloni
  gelosa
@@ -2600,10 +2151,8 @@
  gemito
  gemma
  gemme
- gene
  genere
  genero
- geni
  gente
  gerani
  gerghi
@@ -2618,16 +2167,9 @@
  gettai
  getti
  getto
- gf
- gg
- ggg
- gggg
- gh
- ghi
  ghiaia
  ghiaie
  ghisa
- gi
  giacca
  giace
  gialla
@@ -2663,11 +2205,7 @@
  girava
  giravi
  giravo
- giri
  girino
- giro
- gita
- gite
  giugno
  giunco
  giunga
@@ -2686,24 +2224,15 @@
  giuro
  giuste
  giusto
- gj
- gk
- gl
- gli
  globi
  globo
  gloria
- gm
- gn
- go
  gobba
  gobbe
  gobbo
  goccia
  goffi
  goffo
- gola
- gole
  golfi
  golfo
  golose
@@ -2718,9 +2247,6 @@
  gonne
  gorghi
  gorgo
- gp
- gq
- gr
  gradi
  grado
  gradua
@@ -2776,17 +2302,12 @@
  grosse
  grossi
  grosso
- gru
  grucce
  gruppo
- gs
- gt
- gu
  guada
  guadai
  guadi
  guado
- guai
  guaio
  guarda
  guardi
@@ -2796,8 +2317,6 @@
  guasto
  guerra
  guerre
- gufi
- gufo
  guglie
  guida
  guide
@@ -2812,50 +2331,10 @@
  gustai
  gusti
  gusto
- gv
- gw
- gx
- gy
- gz
- h
- hai
- hb
- hc
- hd
- he
- hf
- hg
- hh
- hhh
- hhhh
- hi
- hij
- hj
- hk
- hl
- hm
- hn
- ho
- hp
- hq
- hr
- hs
- ht
- hu
- hv
- hw
- hx
- hy
- hz
- i
- ib
  ibridi
  ibrido
- ic
- id
  ideale
  ideali
- idee
  idioma
  idiomi
  idoli
@@ -2863,12 +2342,6 @@
  idonea
  idonee
  idonei
- ie
- iena
- iene
- ieri
- if
- ig
  igiene
  ignara
  ignare
@@ -2880,14 +2353,6 @@
  ignota
  ignote
  ignoto
- ih
- ii
- iii
- iiii
- ij
- ijk
- ik
- il
  illesa
  illese
  illesi
@@ -2898,7 +2363,6 @@
  illuse
  illusi
  illuso
- im
  imbuti
  imbuto
  imita
@@ -2920,7 +2384,6 @@
  imputa
  imputi
  imputo
- in
  incide
  incisa
  incise
@@ -2955,8 +2418,6 @@
  inizi
  inizia
  inizio
- inni
- inno
  intasa
  intasi
  intaso
@@ -2986,13 +2447,7 @@
  invito
  invoca
  invoco
- io
  iodio
- ip
- iq
- ir
- ira
- ire
  iride
  ironia
  ironie
@@ -3000,7 +2455,6 @@
  irrita
  irriti
  irrito
- is
  isola
  isolai
  isole
@@ -3008,73 +2462,6 @@
  isolo
  istigo
  istmo
- it
- iu
- iv
- ivi
- iw
- ix
- iy
- iz
- j
- jb
- jc
- jd
- je
- jf
- jg
- jh
- ji
- jj
- jjj
- jjjj
- jk
- jkl
- jl
- jm
- jn
- jo
- jp
- jq
- jr
- js
- jt
- ju
- jv
- jw
- jx
- jy
- jz
- k
- kb
- kc
- kd
- ke
- kf
- kg
- kh
- ki
- kj
- kk
- kkk
- kkkk
- kl
- klm
- km
- kn
- ko
- kp
- kq
- kr
- ks
- kt
- ku
- kv
- kw
- kx
- ky
- kz
- l
  labbra
  labbro
  lacche
@@ -3088,27 +2475,22 @@
  ladri
  ladro
  laghi
- lago
  laguna
  lagune
  laica
  laiche
  laici
  laico
- lama
  lambda
  lambii
- lame
  lamina
  lamine
  lampi
  lampo
- lana
  lance
  lancio
  landa
  lande
- lane
  langui
  lanosa
  lanose
@@ -3126,9 +2508,7 @@
  lascio
  lastra
  lastre
- lati
  latini
- lato
  latra
  latrai
  latri
@@ -3136,7 +2516,6 @@
  lattai
  latte
  lauree
- lava
  lavabi
  lavabo
  lavai
@@ -3148,15 +2527,9 @@
  lavava
  lavavi
  lavavo
- lavi
- lavo
  lavora
  lavori
  lavoro
- lb
- lc
- ld
- le
  leale
  leali
  lecca
@@ -3165,11 +2538,7 @@
  leccio
  lecco
  leciti
- lede
  ledere
- ledi
- ledo
- lega
  legai
  legale
  legali
@@ -3193,7 +2562,6 @@
  legno
  legume
  legumi
- lei
  lembi
  lembo
  lenta
@@ -3209,10 +2577,6 @@
  lerci
  lercia
  lercio
- lesa
- lese
- lesi
- leso
  lessa
  lessai
  lesse
@@ -3227,7 +2591,6 @@
  lette
  letti
  letto
- leva
  levai
  levano
  levare
@@ -3237,16 +2600,9 @@
  levava
  levavi
  levavo
- leve
- levi
  leviga
  levigo
  levino
- levo
- lf
- lg
- lh
- li
  liana
  libera
  libere
@@ -3257,7 +2613,6 @@
  libri
  libro
  licei
- lidi
  lieta
  liete
  lieti
@@ -3265,7 +2620,6 @@
  lieve
  lievi
  lilla
- lima
  limita
  limite
  limiti
@@ -3288,11 +2642,8 @@
  lisci
  liscia
  liscio
- liso
  lista
  liste
- lite
- liti
  litiga
  litigo
  litri
@@ -3301,15 +2652,6 @@
  livide
  lividi
  livido
- lj
- lk
- ll
- lll
- llll
- lm
- lmn
- ln
- lo
  locale
  lodai
  lodano
@@ -3320,10 +2662,7 @@
  lodava
  lodavi
  lodavo
- lode
- lodi
  lodino
- lodo
  logica
  logici
  logico
@@ -3343,43 +2682,23 @@
  lotta
  lotti
  lotto
- lp
- lq
- lr
- ls
- lt
- lu
- luce
- luci
  lucida
  lucide
  lucidi
  lucido
  lucore
  luglio
- lui
  lumaca
- lume
- lumi
- luna
  lunga
  lunghe
  lunghi
  lungo
  luoghi
  luogo
- lupi
- lupo
  lussi
  lusso
  lutti
  lutto
- lv
- lw
- lx
- ly
- lz
- m
  macera
  maceri
  macero
@@ -3392,21 +2711,17 @@
  magica
  magici
  magico
- mago
  maglia
  maglie
  magra
  magri
  magro
- mai
  maiale
  malata
  malate
  malati
  malato
- male
  malga
- mali
  malore
  malori
  mamma
@@ -3425,12 +2740,10 @@
  mangi
  mangia
  mangio
- mani
  mania
  manica
  manici
  manie
- mano
  manzi
  manzo
  mappa
@@ -3441,10 +2754,8 @@
  marcia
  marcio
  marco
- mare
  marea
  maree
- mari
  marina
  marini
  marino
@@ -3475,10 +2786,6 @@
  mazze
  mazzi
  mazzo
- mb
- mc
- md
- me
  media
  medici
  medico
@@ -3490,15 +2797,11 @@
  medusa
  meduse
  meglio
- mela
- mele
  meleto
  melma
- melo
  membra
  membri
  membro
- mena
  menai
  menano
  menare
@@ -3509,9 +2812,7 @@
  menava
  menavi
  menavo
- meni
  menino
- meno
  mensa
  mense
  menta
@@ -3526,8 +2827,6 @@
  merito
  merli
  merlo
- mese
- mesi
  messa
  messe
  messi
@@ -3536,7 +2835,6 @@
  mestai
  mesti
  mesto
- mete
  metodi
  metodo
  metri
@@ -3547,11 +2845,6 @@
  mezze
  mezzi
  mezzo
- mf
- mg
- mh
- mi
- mia
  micce
  miccia
  miele
@@ -3564,9 +2857,7 @@
  mille
  milza
  milze
- mina
  minata
- mine
  minima
  minime
  minimi
@@ -3578,7 +2869,6 @@
  minuto
  miope
  miopi
- mira
  mirano
  mirare
  mirata
@@ -3588,16 +2878,11 @@
  mirava
  miravi
  miravo
- mire
- miri
  mirini
  mirino
- miro
- mise
  misera
  misere
  miseri
- misi
  mista
  miste
  misti
@@ -3605,31 +2890,16 @@
  misura
  misuri
  misuro
- miti
  mitiga
  mitigo
- mito
- mj
- mk
- ml
- mm
- mmm
- mmmm
- mn
- mno
- mo
  mobile
  mobili
- moda
- mode
  modera
  moderi
  modero
- modi
  modica
  modici
  modico
- modo
  moduli
  modulo
  mogano
@@ -3637,10 +2907,8 @@
  moglie
  molare
  molari
- moli
  molla
  molle
- molo
  molta
  molte
  molto
@@ -3659,14 +2927,10 @@
  montai
  monte
  monti
- mora
  morali
  morda
- more
- mori
  moria
  morire
- moro
  morra
  morsa
  morse
@@ -3690,19 +2954,12 @@
  mostro
  motivi
  motivo
- moto
  motore
  motori
  mozza
  mozzai
  mozzi
  mozzo
- mp
- mq
- mr
- ms
- mt
- mu
  mucca
  mucchi
  muffa
@@ -3711,7 +2968,6 @@
  mugnai
  mulini
  mulino
- mulo
  multa
  multe
  mummia
@@ -3724,12 +2980,8 @@
  muove
  muovi
  muovo
- mura
- muri
  museo
  musica
- muso
- muta
  mutai
  mutano
  mutare
@@ -3740,23 +2992,10 @@
  mutava
  mutavi
  mutavo
- mute
- muti
  mutino
- muto
- mv
- mw
- mx
- my
- mz
- n
  nacque
  nacqui
  nafta
- nana
- nane
- nani
- nano
  nappa
  narice
  narici
@@ -3767,33 +3006,21 @@
  nasali
  nasce
  nasco
- nasi
- naso
  nastri
- nata
  natale
- nati
  natica
  nativa
  native
  nativi
  nativo
- nato
  natura
  nature
  nausea
  navale
  navali
  navata
- navata
- nave
- navi
  naviga
  navigo
- nb
- nc
- nd
- ne
  nebbia
  nebbie
  negai
@@ -3808,17 +3035,11 @@
  negavo
  neghi
  negli
- nego
  negozi
- nei
  nella
  nelle
  nello
  nemici
- neo
- nere
- neri
- nero
  nervi
  nervo
  neutra
@@ -3826,47 +3047,24 @@
  neutri
  neutro
  nevaio
- neve
  nevica
  nevico
- nf
- ng
- nh
- ni
- nidi
- nido
  niente
  ninfa
  ninfe
  nipote
  nipoti
- nj
- nk
- nl
- nm
- nn
- nnn
- nnnn
- no
  nobile
  nobili
- noce
- noci
  nociva
  nocive
  nocivo
- nodo
- noi
- noia
- noie
  noiosa
  noiose
  noiosi
  noioso
  nomade
  nomadi
- nome
- nomi
  nomina
  nomine
  nomini
@@ -3875,7 +3073,6 @@
  nonne
  nonni
  nonno
- nop
  norma
  norme
  nostra
@@ -3890,30 +3087,16 @@
  notato
  notava
  notavi
- note
- noti
  notino
- noto
  notte
  notti
- nove
  novizi
  nozze
- np
- nq
- nr
- ns
- nt
- nu
  nubile
  nubili
- nuca
  nuche
  nuclei
  nucleo
- nuda
- nudi
- nudo
  nulla
  nullo
  numera
@@ -3933,19 +3116,9 @@
  nutrii
  nuvola
  nuvole
- nv
- nw
- nx
- ny
- nz
- o
- oasi
- ob
  oblia
  oblii
  oblio
- oc
- oca
  occhi
  occhio
  occupa
@@ -3953,11 +3126,6 @@
  occupo
  oceani
  oceano
- oche
- od
- ode
- odi
- odia
  odiai
  odiamo
  odiano
@@ -3968,7 +3136,6 @@
  odiavi
  odiavo
  odino
- odio
  odiosa
  odiose
  odiosi
@@ -3977,8 +3144,6 @@
  odore
  odori
  odoro
- oe
- of
  offesa
  offese
  offesi
@@ -3987,19 +3152,10 @@
  offre
  offri
  offro
- og
- oggi
- ogni
  ognuna
  ognuno
- oh
- oi
- oj
- ok
- ol
  olezzi
  olezzo
- olia
  oliai
  oliamo
  oliare
@@ -4015,10 +3171,7 @@
  olino
  oliva
  olive
- olmi
- olmo
  oltre
- om
  ombra
  ombre
  omeri
@@ -4028,10 +3181,6 @@
  omessi
  omette
  ometto
- on
- once
- onda
- onde
  ondosa
  ondose
  ondosi
@@ -4049,10 +3198,6 @@
  onorai
  onore
  onori
- oo
- ooo
- oooo
- op
  opaca
  opachi
  opaco
@@ -4063,8 +3208,6 @@
  opero
  opinai
  oppure
- opq
- opta
  optai
  optano
  optare
@@ -4075,12 +3218,7 @@
  optava
  optavi
  optavo
- opti
  optino
- opto
- oq
- or
- ora
  orafa
  orafe
  orafi
@@ -4091,9 +3229,6 @@
  orario
  orbite
  orchi
- orco
- orda
- orde
  ordina
  ordine
  ordini
@@ -4114,7 +3249,6 @@
  organi
  organo
  origli
- orla
  orlai
  orlano
  orlare
@@ -4125,12 +3259,7 @@
  orlava
  orlavi
  orlavo
- orli
  orlino
- orlo
- orma
- orme
- orna
  ornai
  ornano
  ornare
@@ -4141,20 +3270,9 @@
  ornava
  ornavi
  ornavo
- orni
- orno
- oro
  orrore
  orrori
- orsa
- orse
- orso
- orti
  ortica
- orto
- os
- osa
- osai
  osammo
  osando
  osano
@@ -4180,31 +3298,22 @@
  oscuro
  oserai
  oserei
- osi
  osiamo
  osiate
  osino
- oso
  ospita
  ospite
  ospiti
  ospito
  ospizi
- ossi
- osso
- osti
  ostile
  ostili
- ot
- otre
- otri
  ottava
  ottici
  ottima
  ottime
  ottimi
  ottimo
- otto
  ottone
  ottura
  otturi
@@ -4213,21 +3322,13 @@
  ottuse
  ottusi
  ottuso
- ou
- ov
  ovale
  ovali
  ovatta
  ovile
  ovvero
- ovvi
  ovvia
  ovvio
- ow
- ox
- oy
- oz
- ozia
  oziai
  oziamo
  oziano
@@ -4237,21 +3338,17 @@
  oziavi
  oziavo
  ozino
- ozio
  oziose
  oziosi
- p
  pacata
  pacate
  pacato
  pacchi
  pacco
- pace
  padre
  padri
  paese
  paesi
- paga
  pagai
  pagana
  pagane
@@ -4269,24 +3366,18 @@
  pagina
  paglia
  paglie
- pago
- paia
- paio
  paiono
  palati
  palato
  palchi
  palco
- pale
  palesa
  palese
  palesi
  paleso
- pali
  palla
  palma
  palme
- palo
  palpa
  palpai
  palpi
@@ -4296,8 +3387,6 @@
  pance
  panche
  pancia
- pane
- pani
  panico
  panini
  panino
@@ -4314,13 +3403,11 @@
  parati
  parchi
  parco
- pare
  parere
  pareri
  paresi
  parete
  pareva
- pari
  parla
  parlai
  parli
@@ -4359,14 +3446,9 @@
  pazzia
  pazzie
  pazzo
- pb
- pc
- pd
- pe
  pecca
  peccai
  pecchi
- pece
  pecore
  pedale
  pedali
@@ -4384,7 +3466,6 @@
  peggio
  pegni
  pegno
- pela
  pelai
  pelano
  pelare
@@ -4394,16 +3475,13 @@
  pelato
  pelava
  pelavi
- peli
  pelino
  pelle
  pelli
- pelo
  pelosa
  pelose
  pelosi
  peloso
- pena
  penai
  penano
  penare
@@ -4426,10 +3504,7 @@
  penosi
  pensa
  pensi
- pera
  perde
- pere
- peri
  perita
  perite
  periti
@@ -4438,11 +3513,9 @@
  perle
  perni
  perno
- pero
  perse
  persi
  perso
- pesa
  pesai
  pesano
  pesare
@@ -4460,10 +3533,7 @@
  peschi
  pesci
  pesco
- pese
- pesi
  pesino
- peso
  peste
  pesti
  pesto
@@ -4475,11 +3545,6 @@
  pezze
  pezzi
  pezzo
- pf
- pg
- ph
- pi
- pia
  piace
  piaci
  piaga
@@ -4506,7 +3571,6 @@
  piazze
  picchi
  picco
- pie
  piede
  piedi
  piega
@@ -4520,23 +3584,17 @@
  piglio
  pigre
  pigro
- pii
- pila
- pile
  pilone
  pilota
  piloti
  pineta
  pinete
- pini
  pinna
  pinne
- pino
  pinta
  pinte
  pinza
  pinze
- pio
  piogge
  piomba
  piombi
@@ -4545,7 +3603,6 @@
  pioppo
  piove
  piovve
- pipa
  pirata
  pirati
  pista
@@ -4557,9 +3614,6 @@
  pizze
  pizzi
  pizzo
- pj
- pk
- pl
  placca
  placco
  plance
@@ -4572,13 +3626,8 @@
  plebi
  plichi
  plico
- pm
- pn
- po
- poca
  poche
  pochi
- poco
  podere
  poderi
  poema
@@ -4588,41 +3637,33 @@
  poeta
  poggi
  poggio
- poi
  poiana
  polare
  polari
- poli
  polipi
  polipo
  pollai
  polli
  pollo
- polo
  polpa
  polpe
  polsi
  polso
  pomata
  pomate
- pomi
  pomice
  pomici
- pomo
  pompa
  pompe
  pompi
  pompo
- pone
  poneva
  ponte
  popola
  popoli
  popolo
  porge
- pori
  porlo
- poro
  porosa
  porose
  poroso
@@ -4636,7 +3677,6 @@
  porte
  porto
  porvi
- posa
  posai
  posare
  posata
@@ -4646,10 +3686,7 @@
  posava
  posavi
  posavo
- pose
- posi
  posino
- poso
  possa
  posso
  posta
@@ -4675,12 +3712,6 @@
  pozze
  pozzi
  pozzo
- pp
- ppp
- pppp
- pq
- pqr
- pr
  pranzi
  pranzo
  prati
@@ -4744,11 +3775,8 @@
  provo
  prugna
  prugne
- ps
  pseudo
  psiche
- pt
- pu
  pudica
  pudici
  pudico
@@ -4777,47 +3805,13 @@
  punte
  punti
  punto
- puoi
- pura
- pure
  purga
  purgai
  purghi
  purgo
- puri
- puro
  puzzai
  puzzi
  puzzo
- pv
- pw
- px
- py
- pz
- q
- qb
- qc
- qd
- qe
- qf
- qg
- qh
- qi
- qj
- qk
- ql
- qm
- qn
- qo
- qp
- qq
- qqq
- qqqq
- qr
- qrs
- qs
- qt
- qu
  quadre
  quadri
  quadro
@@ -4831,7 +3825,6 @@
  quarzo
  quasi
  quasar
- quei
  quella
  quello
  querce
@@ -4839,7 +3832,6 @@
  queste
  questi
  questo
- qui
  quieta
  quiete
  quieti
@@ -4851,24 +3843,14 @@
  quote
  quoti
  quoto
- qv
- qw
- qx
- qy
- qz
- r
  rabbia
  rabbie
- rada
- rade
- radi
  radia
  radiai
  radice
  radici
  radino
  radio
- rado
  raduna
  raduni
  raduno
@@ -4879,16 +3861,12 @@
  ragno
  ramai
  ramaio
- rami
  rampa
  rampe
- rana
  ranci
  rancio
- rane
  ranghi
  rango
- rapa
  rapace
  rapaci
  rapai
@@ -4901,7 +3879,6 @@
  rapava
  rapavi
  rapavo
- rape
  rapida
  rapide
  rapidi
@@ -4915,23 +3892,12 @@
  rapiva
  rapivi
  rapivo
- rapo
- rara
- rare
- rari
- raro
- rasa
- rase
- rasi
- raso
  rasoi
  rasoio
  raspa
  raspai
  raspi
  raspo
- rata
- rate
  ratti
  ratto
  rauca
@@ -4942,11 +3908,6 @@
  razze
  razzi
  razzo
- rb
- rc
- rd
- re
- rea
  reale
  reali
  reati
@@ -4981,7 +3942,6 @@
  redine
  redini
  reduci
- ree
  regala
  regale
  regali
@@ -5001,10 +3961,8 @@
  regole
  regoli
  regolo
- rei
  relega
  relego
- rema
  remai
  remano
  remare
@@ -5015,9 +3973,7 @@
  remava
  remavi
  remavo
- remi
  remino
- remo
  remota
  remote
  remoti
@@ -5026,21 +3982,14 @@
  rende
  rendi
  rendo
- rene
- reni
  renna
  renne
- reo
  reputa
  reputi
  reputo
- resa
- rese
  resero
- resi
  resina
  resine
- reso
  ressa
  resse
  ressi
@@ -5054,18 +4003,12 @@
  resto
  retata
  retate
- rete
- reti
  retro
  retta
  rette
  retto
  revoca
  revoco
- rf
- rg
- rh
- ri
  rialza
  rialzo
  ricada
@@ -5087,26 +4030,21 @@
  ricevi
  ricevo
  ricino
- ride
  ridere
  ridete
  rideva
  ridevo
- ridi
  ridici
- rido
  ridono
  riempi
  riesca
  riesce
  riesci
  riesco
- riga
  righe
  rigide
  rigidi
  rigido
- rigo
  rigore
  rigori
  rilega
@@ -5114,12 +4052,10 @@
  rileva
  rilevi
  rilevo
- rima
  rimane
  rimani
  rimase
  rimasi
- rime
  rimedi
  rimise
  rimisi
@@ -5145,7 +4081,6 @@
  riposi
  riposo
  ripudi
- risa
  risaia
  risana
  risani
@@ -5153,9 +4088,7 @@
  risata
  risate
  rischi
- rise
  risero
- risi
  risma
  risme
  risona
@@ -5163,22 +4096,18 @@
  risono
  rissa
  risse
- riti
  ritira
  ritiri
  ritiro
  ritmi
  ritmo
- rito
  ritta
  ritte
  ritti
  ritto
  riunii
- riva
  rivale
  rivali
- rive
  riveda
  rivede
  rivedi
@@ -5186,16 +4115,9 @@
  rivela
  riveli
  rivelo
- rj
- rk
- rl
- rm
- rn
- ro
  rocce
  roccia
  roghi
- roma
  romba
  rombi
  rombo
@@ -5209,9 +4131,7 @@
  ronzai
  ronzi
  ronzo
- rosa
  rosari
- rose
  rosola
  rosolo
  rospi
@@ -5229,25 +4149,13 @@
  rotte
  rotti
  rotto
- rovi
  rovina
  rovine
  rovini
  rovino
- rovo
  rozza
  rozze
  rozzi
- rp
- rq
- rr
- rrr
- rrrr
- rs
- rst
- rt
- ru
- ruba
  rubai
  rubano
  rubare
@@ -5258,11 +4166,8 @@
  rubava
  rubavi
  rubavo
- rubi
  rubini
  rubino
- rubo
- ruga
  rughe
  rulla
  rullai
@@ -5277,8 +4182,6 @@
  ruolo
  ruota
  ruote
- rupe
- rupi
  rurale
  rurali
  russa
@@ -5288,12 +4191,6 @@
  ruvide
  ruvidi
  ruvido
- rv
- rw
- rx
- ry
- rz
- s
  sabato
  sabbia
  sacca
@@ -5309,8 +4206,6 @@
  saggi
  saggia
  saggio
- sai
- sala
  salai
  salame
  salami
@@ -5326,9 +4221,7 @@
  salde
  saldi
  saldo
- sale
  salga
- sali
  salice
  salici
  salino
@@ -5363,7 +4256,6 @@
  salve
  salvia
  salvo
- sana
  sanai
  sanano
  sanare
@@ -5373,12 +4265,9 @@
  sanava
  sanavi
  sanavo
- sane
  sangue
- sani
  sanino
  sanno
- sano
  santa
  sante
  sapere
@@ -5409,7 +4298,6 @@
  sazie
  sazino
  sazio
- sb
  sbagli
  sballa
  sballi
@@ -5440,7 +4328,6 @@
  sbucci
  sbuffa
  sbuffi
- sc
  scacci
  scada
  scade
@@ -5507,11 +4394,8 @@
  schema
  schemi
  schifo
- sci
- scia
  sciame
  sciami
- scie
  sciupa
  sciupi
  sciupo
@@ -5575,12 +4459,10 @@
  scusai
  scusi
  scuso
- sd
  sdegna
  sdegni
  sdoppi
  sdraie
- se
  secca
  secche
  secchi
@@ -5594,11 +4476,9 @@
  sedato
  sedava
  sedavi
- sede
  sedete
  sedeva
  sedevo
- sedi
  sedia
  sedie
  sedile
@@ -5618,7 +4498,6 @@
  segugi
  seguii
  seguo
- sei
  selci
  selcia
  selcio
@@ -5629,8 +4508,6 @@
  sembra
  sembri
  sembro
- seme
- semi
  semina
  semine
  semini
@@ -5640,9 +4517,7 @@
  senape
  senati
  senato
- seni
  senno
- seno
  sensi
  senso
  senta
@@ -5656,17 +4531,14 @@
  separo
  seppi
  seppie
- sera
  serata
  serba
  serbi
  serbo
- sere
  serena
  serene
  sereni
  sereno
- seri
  seria
  serie
  serio
@@ -5679,8 +4551,6 @@
  servi
  servo
  sessi
- seta
- sete
  setola
  setole
  setta
@@ -5688,7 +4558,6 @@
  severe
  severi
  severo
- sf
  sfama
  sfamai
  sfami
@@ -5736,7 +4605,6 @@
  sforzo
  sfregi
  sfrego
- sg
  sgelo
  sgobba
  sgobbi
@@ -5752,9 +4620,6 @@
  sgrida
  sgridi
  sgrido
- sh
- si
- sia
  siamo
  siano
  siate
@@ -5783,7 +4648,6 @@
  sigaro
  sigla
  sigle
- sii
  silura
  siluri
  siluro
@@ -5792,15 +4656,11 @@
  simula
  simuli
  simulo
- sino
  sipari
  sirene
  situa
  situai
  situo
- sj
- sk
- sl
  slacci
  slanci
  slargo
@@ -5818,7 +4678,6 @@
  sloga
  sloghi
  slogo
- sm
  smacco
  smalta
  smalti
@@ -5859,25 +4718,18 @@
  smuove
  smuovi
  smuovo
- sn
  snoda
  snodai
  snodi
  snodo
- so
  soave
  soavi
  sobri
  sobria
  sobrie
  sobrio
- soci
  socio
- soda
- sode
- sodi
  sodio
- sodo
  soffi
  soffia
  soffio
@@ -5888,15 +4740,12 @@
  sognai
  sogni
  sogno
- sola
  solai
  solaio
  solca
  solcai
  solchi
  solco
- sole
- soli
  solida
  solide
  solidi
@@ -5904,7 +4753,6 @@
  solite
  soliti
  solito
- solo
  somma
  somme
  sommi
@@ -5916,7 +4764,6 @@
  sondo
  sonni
  sonno
- sono
  sonora
  sonore
  sonori
@@ -5940,7 +4787,6 @@
  sosti
  sosto
  sotto
- sp
  spacca
  spade
  spaghi
@@ -6014,13 +4860,11 @@
  spezza
  spezzi
  spezzo
- spia
  spiana
  spiani
  spiano
  spicca
  spicco
- spie
  spiedi
  spiedo
  spiega
@@ -6083,17 +4927,10 @@
  sputa
  sputi
  sputo
- sq
  squali
  squalo
  squama
  squame
- sr
- ss
- sss
- ssss
- st
- sta
  stacca
  stacco
  stadi
@@ -6102,7 +4939,6 @@
  staffe
  stagni
  stagno
- stai
  stalla
  stalle
  stammi
@@ -6170,7 +5006,6 @@
  stessi
  stesso
  stette
- stia
  stiano
  stile
  stili
@@ -6191,7 +5026,6 @@
  stive
  stivo
  stizza
- sto
  stoffa
  stoffe
  stola
@@ -6224,7 +5058,6 @@
  strido
  strofa
  strofe
- stu
  stucca
  stucco
  studi
@@ -6236,12 +5069,9 @@
  stupii
  sturai
  sturo
- su
- sua
  subito
  succhi
  succo
- suda
  sudai
  sudano
  sudare
@@ -6251,24 +5081,18 @@
  sudava
  sudavi
  sudavo
- sudi
  sudice
  sudici
  sudino
- sudo
  sudore
  sudori
- sue
  sugli
- sui
  suini
  suino
  sulla
  sulle
  sullo
  sunto
- suo
- suoi
  suola
  suole
  suona
@@ -6287,7 +5111,6 @@
  susine
  sutura
  suture
- sv
  svaga
  svagai
  svaghi
@@ -6301,7 +5124,6 @@
  svelto
  sverni
  sverno
- svia
  sviai
  sviamo
  sviare
@@ -6310,7 +5132,6 @@
  sviato
  sviava
  sviavi
- svio
  svisa
  svisai
  svisi
@@ -6332,21 +5153,13 @@
  svuota
  svuoti
  svuoto
- sw
- sx
- sy
- sz
- t
- tac
  tacchi
  taccia
  taccio
  tacco
- tace
  tacere
  taceva
  tacevo
- taci
  tacita
  tacite
  taciti
@@ -6358,13 +5171,9 @@
  taglia
  taglie
  talco
- tale
- tali
  talpa
  talpe
  talune
- tana
- tane
  tanfo
  tanga
  tanta
@@ -6375,7 +5184,6 @@
  tappe
  tappi
  tappo
- tara
  tarata
  tarate
  tarati
@@ -6383,7 +5191,6 @@
  tardai
  tardi
  tardo
- tare
  targa
  targhe
  tarpa
@@ -6408,13 +5215,8 @@
  tavoli
  tazza
  tazze
- tb
- tc
- td
- te
  teatri
  teatro
- tedi
  tedia
  tediai
  tedino
@@ -6424,13 +5226,7 @@
  tegole
  teiera
  teiere
- tela
  telai
- tele
- teli
- telo
- tema
- temi
  tempi
  tempia
  tempie
@@ -6491,9 +5287,6 @@
  teschi
  tesina
  tesla
- tese
- tesi
- teso
  tesori
  tesoro
  tessa
@@ -6511,16 +5304,11 @@
  tetro
  tetti
  tetto
- tf
- tg
- th
- ti
  tibia
  tibie
  tiene
  tieni
  tienti
- tifo
  tifone
  tifoni
  tigli
@@ -6538,19 +5326,12 @@
  timone
  timore
  timori
- tini
- tino
  tinta
  tinte
  tinti
  tinto
- tipa
- tipe
- tipi
  tipica
  tipici
- tipo
- tira
  tirai
  tirare
  tirata
@@ -6560,28 +5341,18 @@
  tiravi
  tiravo
  tirchi
- tiri
  tirino
- tiro
  tisana
  tisane
  titoli
  titolo
- tizi
  tizia
  tizie
  tizio
- tj
- tk
- tl
- tm
- tn
- to
  tocca
  toccai
  tocchi
  tocco
- toga
  toghe
  togli
  toglie
@@ -6603,7 +5374,6 @@
  tondi
  tonfi
  tonfo
- toni
  tonni
  tonno
  tonta
@@ -6611,7 +5381,6 @@
  tonti
  tonto
  topazi
- topo
  toppa
  toppe
  torace
@@ -6621,7 +5390,6 @@
  torce
  torchi
  torcia
- tori
  torna
  tornai
  torne
@@ -6632,13 +5400,11 @@
  tornii
  tornio
  torno
- toro
  torre
  torta
  torte
  torti
  torto
- tosa
  tosai
  tosano
  tosare
@@ -6649,9 +5415,7 @@
  tosava
  tosavi
  tosavo
- tosi
  tosino
- toso
  tosse
  tossi
  tossii
@@ -6666,14 +5430,9 @@
  tozza
  tozze
  tozzo
- tp
- tq
- tr
- tra
  tracce
  tracci
  tradii
- trae
  traevo
  traina
  traini
@@ -6699,7 +5458,6 @@
  travi
  travia
  travio
- tre
  tregua
  trema
  tremai
@@ -6750,13 +5508,6 @@
  truffo
  truppa
  truppe
- ts
- tt
- ttt
- tttt
- tu
- tua
- tuba
  tubano
  tubare
  tubata
@@ -6765,17 +5516,12 @@
  tubavo
  tuberi
  tubero
- tubi
  tubino
- tubo
- tue
  tuffa
  tuffi
  tuffo
- tufo
  tuguri
  tulle
- tuo
  tuona
  tuoni
  tuono
@@ -6797,36 +5543,16 @@
  tutte
  tutti
  tutto
- tuv
- tv
- tw
- tx
- ty
- tz
- u
- ub
- uc
- ud
  udendo
- udii
  udire
  udirla
  udita
  udite
  uditi
  udivo
- ue
- uf
  uffici
- ufo
- ug
  uguale
  uguali
- uh
- ui
- uj
- uk
- ul
  ultima
  ultime
  ultimi
@@ -6834,7 +5560,6 @@
  ulula
  ululi
  ululo
- um
  umane
  umani
  umano
@@ -6848,17 +5573,12 @@
  umilio
  umore
  umori
- un
- una
  uncini
  uncino
  unendo
- unge
  ungere
  unghia
  unghie
- ungi
- ungo
  ungono
  uniamo
  uniate
@@ -6866,7 +5586,6 @@
  uniche
  unici
  unico
- unii
  unione
  unioni
  unirai
@@ -6884,22 +5603,11 @@
  unito
  univa
  univo
- uno
- unta
- unte
- unti
- unto
- uo
  uomini
- uomo
- up
- uq
- ur
  urbana
  urbane
  urbani
  urbano
- urla
  urlai
  urlano
  urlare
@@ -6910,12 +5618,7 @@
  urlava
  urlavi
  urlavo
- urli
  urlino
- urlo
- urna
- urne
- urta
  urtano
  urtare
  urtata
@@ -6925,11 +5628,6 @@
  urtava
  urtavi
  urtavo
- urti
- urto
- us
- usa
- usai
  usando
  usano
  usanza
@@ -6946,7 +5644,6 @@
  usava
  usavi
  usavo
- usci
  uscii
  uscio
  uscire
@@ -6958,10 +5655,8 @@
  uscivo
  userai
  userei
- usi
  usiamo
  usiate
- uso
  usuale
  usuali
  usura
@@ -6969,7 +5664,6 @@
  usure
  usurpi
  usurpo
- ut
  utente
  utenti
  utenza
@@ -6977,22 +5671,8 @@
  utili
  utopia
  utopie
- uu
- uuu
- uuuu
- uv
- uve
- uvw
- uw
- ux
- uy
- uz
- v
  vacche
- vada
  vadano
- vado
- vaga
  vagano
  vagare
  vagata
@@ -7018,7 +5698,6 @@
  vagoni
  vaioli
  vaiolo
- vale
  valere
  valeva
  valga
@@ -7037,22 +5716,16 @@
  valute
  valuto
  vampa
- vana
- vane
  vanga
  vanghi
  vango
- van
- vani
  vanno
- vano
  vanta
  vantai
  vanti
  vanto
  vapore
  vapori
- vara
  varare
  varate
  varati
@@ -7062,7 +5735,6 @@
  varavo
  varchi
  varco
- vari
  variai
  varie
  varino
@@ -7070,28 +5742,19 @@
  vasaio
  vasca
  vasche
- vaso
  vassoi
  vasta
  vaste
  vasti
  vasto
- vb
- vc
- vd
- ve
  vecchi
- veda
  vedano
- vede
  vedere
  vedete
  vedeva
  vedevi
  vedevo
- vedi
  vedili
- vedo
  vedono
  vedova
  vedove
@@ -7109,7 +5772,6 @@
  vegli
  veglia
  veglio
- vela
  velai
  velano
  velare
@@ -7119,15 +5781,11 @@
  velava
  velavi
  velavo
- vele
- veli
  velina
  veline
  velino
- velo
  veloce
  veloci
- vena
  venale
  venali
  venda
@@ -7153,15 +5811,12 @@
  venute
  venuti
  venuto
- vera
  verbi
  verbo
  verde
  verdi
- vere
  verga
  verghe
- veri
  verme
  vermi
  verrei
@@ -7180,14 +5835,9 @@
  veste
  vesti
  vesto
- veti
  vetri
  vetta
  vette
- vf
- vg
- vh
- vi
  viaggi
  viale
  viali
@@ -7201,13 +5851,11 @@
  vicino
  vicoli
  vicolo
- vide
  video
  videro
  vidima
  vidimi
  vidimo
- vie
  viene
  vieni
  vieta
@@ -7220,15 +5868,12 @@
  vigne
  vigore
  vigori
- vile
  villa
  ville
  vimini
  vinaio
  vinci
  vinco
- vini
- vino
  vinta
  vinte
  vinto
@@ -7239,7 +5884,6 @@
  violo
  vipera
  vipere
- vira
  virano
  virata
  virate
@@ -7250,12 +5894,10 @@
  viravo
  virile
  virili
- visi
  visita
  visite
  visiti
  visito
- viso
  visone
  visoni
  vispa
@@ -7268,39 +5910,22 @@
  viste
  visti
  visto
- vita
  vitale
  vitali
- vite
- viti
- viva
  vivace
  vivaci
  vivaio
  vivano
- vive
  vivere
  vivete
  viveva
  vivevi
  vivevo
- vivi
- vivo
  vivono
- vizi
  vizia
  vizio
- vj
- vk
- vl
- vm
- vn
- vo
  vocale
  vocali
- voce
- voci
- voga
  vogai
  vogano
  vogata
@@ -7312,8 +5937,6 @@
  voglia
  voglie
  voglio
- vogo
- voi
  volai
  volano
  volare
@@ -7329,10 +5952,8 @@
  volevi
  volge
  volgo
- voli
  volino
  volli
- volo
  volpe
  volpi
  volse
@@ -7351,119 +5972,15 @@
  vorrai
  vorrei
  vostro
- voti
  votiva
  votive
  votivi
  votivo
- voto
- vp
- vq
- vr
- vs
- vt
- vu
- vuoi
  vuole
  vuota
  vuotai
  vuoti
  vuoto
- vv
- vvv
- vvvv
- vw
- vwx
- vx
- vy
- vz
- w
- wb
- wc
- wd
- we
- wf
- wg
- wh
- wi
- wj
- wk
- wl
- wm
- wn
- wo
- wp
- wq
- wr
- ws
- wt
- wu
- wv
- ww
- www
- wwww
- wx
- wxy
- wy
- wz
- x
- xb
- xc
- xd
- xe
- xf
- xg
- xh
- xi
- xj
- xk
- xl
- xm
- xn
- xo
- xp
- xq
- xr
- xs
- xt
- xu
- xv
- xw
- xx
- xxx
- xxxx
- xy
- xyz
- xz
- y
- yb
- yc
- yd
- ye
- yf
- yg
- yh
- yi
- yj
- yk
- yl
- ym
- yn
- yo
- yp
- yq
- yr
- ys
- yt
- yu
- yv
- yw
- yx
- yy
- yyy
- yyyy
- yz
- z
  zaino
  zampa
  zampe
@@ -7471,38 +5988,16 @@
  zappai
  zappi
  zappo
- zb
- zc
- zd
- ze
  zecca
- zelo
  zeppa
  zeppe
  zeppi
  zeppo
- zeri
- zf
- zg
- zh
- zi
- zia
- zie
- zii
- zio
  zitta
  zitti
  zitto
- zj
- zk
- zl
- zm
- zn
- zo
  zolfo
  zolla
- zona
- zone
  zoppa
  zoppe
  zoppi
@@ -7510,22 +6005,9 @@
  zotica
  zotici
  zotico
- zp
- zq
- zr
- zs
- zt
- zu
  zucca
  zucche
  zuffa
  zuffe
  zuppa
  zuppe
- zv
- zw
- zx
- zy
- zz
- zzz
- zzzz

@@ -5,12 +5,9 @@
 	abagune
 	abaildu
 	abako
-	abao
-	abar
 	abarka
 	abaro
 	abatz
-	abc
 	abegi
 	abendu
 	abenka
@@ -24,9 +21,7 @@
 	abian
 	abiatu
 	abiatze
-	abil
 	abilki
-	abio
 	abioi
 	abisatu
 	abisu
@@ -40,50 +35,38 @@
 	aburu
 	abuztu
 	abzisa
-	ac
-	ad
 	adabaki
 	adagio
 	adaje
 	adaki
-	adar
 	adarka
 	adats
 	adausi
 	adaxka
-	adei
 	adeitsu
-	adia
 	adiaka
 	adibide
 	adiera
 	adigai
 	adimen
-	adin
 	adina
 	adinako
 	adineko
 	adinon
 	adintsu
-	adio
 	aditu
 	aditz
 	aditze
 	adizki
 	adoratu
 	adore
-	ados
 	adreilu
 	aduana
-	adur
-	ae
-	af
 	afaldu
 	afari
 	afera
 	afixa
 	afrikar
-	ag
 	agata
 	ageri
 	agerian
@@ -98,21 +81,17 @@
 	agiraka
 	agiri
 	agonia
-	agor
 	agorril
 	agorte
 	agortu
 	agudo
-	agur
 	agure
 	agurtu
-	ah
 	ahabia
 	ahago
 	ahaide
 	ahaire
 	ahakar
-	ahal
 	ahala
 	ahalaz
 	ahaldun
@@ -129,26 +108,19 @@
 	ahats
 	ahazte
 	ahaztu
-	ahi
 	ahitu
 	ahizpa
-	aho
 	aholku
 	ahotan
 	ahots
 	ahotz
-	ahoz
 	ahozko
 	ahuku
-	ahul
 	ahuldu
 	ahuntz
-	ahur
 	ahuspez
 	ahutz
-	ai
 	aiduru
-	aiei
 	aienatu
 	aiene
 	aieru
@@ -162,16 +134,10 @@
 	aingura
 	aintza
 	aintzat
-	aio
 	aipamen
 	aipatu
-	aipu
 	airatu
-	aire
 	aireko
-	aisa
-	aise
-	aita
 	aitaren
 	aitatu
 	aitatxi
@@ -187,8 +153,6 @@
 	aizkora
 	aizto
 	aiztur
-	aj
-	ak
 	akabatu
 	akabera
 	akabo
@@ -198,26 +162,20 @@
 	akats
 	akazia
 	akeita
-	aker
 	aketz
 	akitu
 	akorde
 	akordio
 	akort
-	akta
 	aktibo
-	akto
 	aktore
 	akuilu
 	akura
 	akuri
 	akusatu
 	akzio
-	al
-	ala
 	alaba
 	alafede
-	alai
 	alaitu
 	alanbre
 	alargun
@@ -225,7 +183,6 @@
 	alatu
 	albait
 	albiste
-	albo
 	album
 	aldaera
 	aldagai
@@ -239,7 +196,6 @@
 	aldats
 	aldatu
 	aldatze
-	alde
 	aldeko
 	aldendu
 	aldera
@@ -247,41 +203,30 @@
 	aldetik
 	aldez
 	aldeztu
-	aldi
 	aldiri
 	aldiz
 	aldizka
 	aldundi
-	ale
 	alegera
 	alegia
 	aleman
 	alergia
 	alfer
 	algara
-	alha
 	alhatu
 	alimale
 	aljebra
 	alkate
 	alkohol
 	almute
-	aloe
 	aloger
-	alor
 	alpapa
 	alper
-	alta
-	altu
 	altuera
 	altxatu
 	altxor
 	altzari
 	altzo
-	alu
-	am
-	ama
-	amai
 	amaiera
 	amaitu
 	amama
@@ -294,7 +239,6 @@
 	amateur
 	amatxi
 	ameba
-	amen
 	amestu
 	amets
 	ametz
@@ -305,9 +249,7 @@
 	amodio
 	amona
 	amorru
-	amu
 	amultsu
-	an
 	anaia
 	anaidi
 	analisi
@@ -332,7 +274,6 @@
 	antsia
 	antxeta
 	antxume
-	antz
 	antza
 	antzara
 	antze
@@ -342,13 +283,10 @@
 	antzo
 	antzoki
 	antzu
-	ao
 	aorta
-	ap
 	apain
 	apaindu
 	apaiz
-	apal
 	apaldu
 	apalki
 	aparatu
@@ -356,30 +294,23 @@
 	aparte
 	apenas
 	apeta
-	apez
 	apiar
 	apika
 	apiril
-	apo
 	apote
 	apropos
 	apuko
-	apur
 	apurka
 	apurtu
 	apustu
-	aq
-	ar
 	arabar
 	arabera
 	arabiar
 	arakatu
-	aran
 	arantza
 	arasa
 	aratxe
 	aratz
-	arau
 	araudi
 	arautu
 	arazle
@@ -387,55 +318,41 @@
 	araztu
 	arbaso
 	arbel
-	arbi
 	arbola
 	arbuio
 	ardatz
-	ardi
 	ardit
-	ardo
 	ardura
-	are
-	area
 	areago
 	arean
 	arerio
 	areto
 	argal
 	argazki
-	argi
 	argiro
 	argitsu
 	argitu
 	argudio
 	ariketa
 	arima
-	arin
 	arindu
 	arinka
 	arinki
 	aritu
-	arka
 	arkabuz
 	arkaiko
 	arkatz
-	arku
 	arkume
 	arkupe
-	arlo
 	arlote
-	arma
 	armada
 	armairu
 	armarri
 	armatu
 	arnasa
 	arnegu
-	arno
-	aro
 	arotz
 	arpoi
-	arra
 	arraba
 	arrada
 	arragoa
@@ -453,7 +370,6 @@
 	arraun
 	arraza
 	arrazoi
-	arre
 	arreba
 	arren
 	arrenka
@@ -461,7 +377,6 @@
 	arretaz
 	arrimu
 	arrisku
-	arro
 	arroa
 	arroila
 	arroka
@@ -470,12 +385,10 @@
 	arrotz
 	arroz
 	arrunt
-	arta
 	artalde
 	artale
 	artatu
 	artazi
-	arte
 	artean
 	artega
 	artegi
@@ -489,52 +402,36 @@
 	artisau
 	artista
 	artizar
-	arto
 	artxibo
 	artzain
-	as
 	asaba
 	asaldu
-	ase
 	asebete
 	aseezin
 	aseguru
 	asfalto
 	asiar
-	aska
 	askari
 	askatu
-	aske
-	aski
-	asko
 	askotan
 	askotxo
-	asma
 	asmatu
-	asmo
 	asmotan
 	asots
 	aspaldi
 	aspektu
 	aspertu
-	aste
 	astero
-	asti
 	astigar
 	astindu
 	astiro
-	asto
 	astro
 	astun
-	asun
 	aszeta
-	at
 	atabal
 	ataka
-	atal
 	atari
 	atarte
-	ate
 	atera
 	ateri
 	aterki
@@ -543,7 +440,6 @@
 	atezain
 	atlas
 	atleta
-	atoi
 	atomiko
 	atomo
 	atondo
@@ -553,10 +449,7 @@
 	atseden
 	atsegin
 	atsitu
-	atso
 	atsotu
-	atun
-	atx
 	atxiki
 	atxilo
 	atximur
@@ -564,7 +457,6 @@
 	atzapar
 	atzarri
 	atzazal
-	atze
 	atzeman
 	atzen
 	atzendu
@@ -572,16 +464,12 @@
 	atzerri
 	atzitu
 	atzizki
-	atzo
 	atzoko
-	au
 	auhen
 	aukera
 	aukeran
 	aulki
-	auma
 	aunitz
-	aupa
 	aupada
 	aupatu
 	aurka
@@ -605,39 +493,26 @@
 	ausiki
 	auska
 	auskalo
-	auto
 	autobia
 	autobus
 	autore
-	autu
 	autuan
 	auzapez
-	auzi
-	auzo
 	auzoko
 	auzolan
 	auzotar
 	auzune
-	av
-	aw
-	ax
-	axal
 	axanpa
 	axioma
 	axola
 	axolatu
 	axuant
 	axuri
-	ay
-	az
-	aza
-	azal
 	azaldu
 	azaleko
 	azalera
 	azalpen
 	azantz
-	azao
 	azaro
 	azartu
 	azazkal
@@ -646,7 +521,6 @@
 	azido
 	azienda
 	azieta
-	azio
 	azkar
 	azkarki
 	azkartu
@@ -657,7 +531,6 @@
 	azkura
 	azoka
 	azote
-	azpi
 	azpiki
 	azpiko
 	azpil
@@ -667,27 +540,18 @@
 	aztarna
 	azteka
 	aztertu
-	azti
 	aztore
 	aztura
 	azukre
-	b
-	baba
 	babes
 	babesle
 	babestu
-	babo
-	bada
 	badia
 	bafada
-	baga
 	bagil
 	bagoi
-	bahe
 	bahetu
-	bahi
 	bahitu
-	bai
 	baietz
 	baiezko
 	baiki
@@ -707,12 +571,10 @@
 	bakarka
 	bakarti
 	bakartu
-	bake
 	baketsu
 	baketu
 	bakoitz
 	bakun
-	bala
 	balada
 	balaku
 	balazta
@@ -733,7 +595,6 @@
 	baltiko
 	baltsa
 	baltzu
-	bana
 	banaka
 	banako
 	banan
@@ -748,9 +609,7 @@
 	bankari
 	banku
 	banpiro
-	bapo
 	bapore
-	bar
 	baranda
 	barano
 	baratu
@@ -760,7 +619,6 @@
 	barbaro
 	barda
 	bardo
-	bare
 	baretu
 	barik
 	bariku
@@ -786,22 +644,17 @@
 	barrura
 	barruti
 	barruz
-	bart
 	bartz
 	barur
-	basa
 	basaki
 	basati
 	basatu
-	base
 	baserri
-	baso
 	basotu
 	basta
 	bastoi
 	basur
 	basurde
-	bat
 	bataila
 	bataio
 	batasun
@@ -811,7 +664,6 @@
 	batera
 	batere
 	bateria
-	batu
 	batura
 	batza
 	batzar
@@ -819,7 +671,6 @@
 	batzoki
 	batzuk
 	baxera
-	baxu
 	bazar
 	bazilo
 	bazka
@@ -828,20 +679,11 @@
 	bazkide
 	bazkun
 	bazter
-	bb
-	bbb
-	bbbb
-	bc
-	bcd
-	bd
-	be
 	bebarru
 	bedera
 	bederen
-	begi
 	begiko
 	begira
-	beha
 	behako
 	behar
 	beharri
@@ -850,11 +692,9 @@
 	behatz
 	behatze
 	behazun
-	behe
 	beheiti
 	behera
 	behere
-	behi
 	behiala
 	behiki
 	behin
@@ -866,7 +706,6 @@
 	beira
 	beiraki
 	beita
-	beka
 	bekadun
 	bekain
 	bekaitz
@@ -874,7 +713,6 @@
 	bekatu
 	bekoki
 	bekozko
-	bela
 	belai
 	belaki
 	belar
@@ -885,9 +723,7 @@
 	belaze
 	beldar
 	beldur
-	bele
 	beltz
-	belu
 	belus
 	belutu
 	belztu
@@ -897,8 +733,6 @@
 	beneno
 	benetan
 	benta
-	ber
-	bera
 	berandu
 	berant
 	beratu
@@ -911,7 +745,6 @@
 	berde
 	berdel
 	berdin
-	bere
 	berebat
 	berein
 	bereiz
@@ -931,7 +764,6 @@
 	berme
 	berna
 	berniz
-	bero
 	beroki
 	berori
 	berotu
@@ -953,7 +785,6 @@
 	bertze
 	berun
 	besape
-	beso
 	besoko
 	besta
 	beste
@@ -961,20 +792,16 @@
 	bestela
 	bestera
 	bestia
-	beta
 	betan
 	betazal
-	bete
 	betegin
 	beteko
 	betetze
-	beti
 	betiere
 	betiko
 	betikoz
 	betile
 	betizu
-	beto
 	betroi
 	betun
 	bezain
@@ -984,12 +811,6 @@
 	bezpera
 	bezti
 	beztitu
-	bf
-	bg
-	bh
-	bi
-	biao
-	biba
 	bibaka
 	bibote
 	bidaia
@@ -999,20 +820,17 @@
 	bidaro
 	bidatu
 	bidazti
-	bide
 	bideko
 	bideo
 	bider
 	bidexka
 	bidez
 	bidezko
-	biga
 	bigira
 	bigun
 	bigundu
 	bihar
 	biharko
-	bihi
 	bihika
 	bihitu
 	bihotz
@@ -1021,15 +839,11 @@
 	bihurtu
 	bikain
 	bikario
-	bike
-	biki
 	bikini
-	biko
 	bikoitz
 	bikote
 	biktima
 	bikun
-	bila
 	bilaka
 	bilari
 	bilatu
@@ -1048,7 +862,6 @@
 	bilkura
 	billar
 	billete
-	bilo
 	biloba
 	biltegi
 	biltoki
@@ -1058,7 +871,6 @@
 	biluz
 	biluzi
 	biluzik
-	bina
 	binaka
 	binako
 	binper
@@ -1067,13 +879,11 @@
 	biolin
 	bipera
 	bipil
-	bira
 	biraka
 	biran
 	birao
 	biraoka
 	biratu
-	biri
 	biribil
 	birika
 	biriki
@@ -1093,18 +903,15 @@
 	bista
 	bistako
 	bisuts
-	bit
 	bitan
 	bitar
 	bitarte
-	bits
 	bitxi
 	bitzuk
 	bixika
 	bixkotx
 	bizar
 	bizeps
-	bizi
 	bizidun
 	bizien
 	biziera
@@ -1119,43 +926,28 @@
 	bizki
 	bizkor
 	biztu
-	bj
-	bk
-	bl
-	blai
 	blaitu
-	blok
 	bloke
 	blusa
-	bm
-	bn
-	bo
-	boa
 	bobeda
 	bobina
-	boga
 	bogatu
 	boikot
 	bokal
 	bokale
 	bokata
 	bokazio
-	bola
 	bolada
 	bolbora
 	bolero
-	boli
-	bolu
 	bolumen
 	bonba
 	bonet
-	bonu
 	borda
 	borla
 	borobil
 	borrero
 	borroka
-	bort
 	borta
 	bortitz
 	bortu
@@ -1163,28 +955,19 @@
 	bortxaz
 	bortz
 	bosna
-	bost
 	bosteko
 	bosten
-	bota
 	botaka
 	botatze
-	bote
 	botere
 	botika
 	botila
-	boto
 	botoi
 	boxeo
-	boz
 	bozkatu
 	bozketa
-	bp
-	bq
-	br
 	branka
 	brasa
-	brea
 	bretoi
 	brida
 	brigada
@@ -1195,9 +978,6 @@
 	brontze
 	brotxa
 	brusa
-	bs
-	bt
-	bu
 	budin
 	buelta
 	bufalo
@@ -1205,7 +985,6 @@
 	bufoi
 	buhame
 	buhatu
-	buia
 	buiatu
 	buila
 	bukaera
@@ -1230,7 +1009,6 @@
 	burlaz
 	burmuin
 	burtsa
-	buru
 	buruil
 	buruki
 	buruko
@@ -1244,47 +1022,9 @@
 	butroi
 	buztan
 	buztin
-	bv
-	bw
-	bx
-	by
-	bz
-	c
 	campus
-	cb
-	cc
-	ccc
-	cccc
-	cd
-	cde
-	ce
-	cf
-	cg
-	ch
-	ci
-	cj
-	ck
-	cl
-	cm
-	cn
-	co
 	corpus
-	cp
-	cq
-	cr
-	cs
-	ct
-	cu
-	cv
-	cw
-	cx
-	cy
-	cz
-	d
-	dado
 	dalia
-	dama
-	damu
 	damurik
 	damutu
 	danba
@@ -1296,23 +1036,13 @@
 	dardara
 	dardo
 	dastatu
-	data
 	datibo
 	datil
-	datu
-	db
-	dc
-	dd
-	ddd
-	dddd
-	de
 	deabru
 	debalde
 	debeku
 	debozio
-	def
 	defizit
-	dei
 	deiadar
 	deialdi
 	deiez
@@ -1322,12 +1052,9 @@
 	deitura
 	dekano
 	dekretu
-	dela
 	delako
 	delta
-	dema
 	demonio
-	dena
 	denbora
 	denda
 	dendari
@@ -1337,16 +1064,10 @@
 	desio
 	desira
 	deslai
-	deun
 	deunga
-	deus
 	deusez
 	deusik
 	dezente
-	df
-	dg
-	dh
-	di
 	dibisa
 	dibisio
 	diedro
@@ -1356,7 +1077,6 @@
 	digital
 	diktatu
 	dilema
-	dina
 	dinako
 	dinamo
 	diodo
@@ -1364,20 +1084,12 @@
 	diploma
 	dirdai
 	dirdira
-	diru
 	dirudun
 	dirutan
 	dirutza
 	disko
 	distira
-	dj
-	dk
-	dl
-	dm
-	dn
-	do
 	doako
-	doan
 	doarik
 	doblatu
 	doble
@@ -1385,7 +1097,6 @@
 	dohain
 	dohatsu
 	dohatu
-	doi
 	doilor
 	doinu
 	doitu
@@ -1393,7 +1104,6 @@
 	dolar
 	dolare
 	dolore
-	dolu
 	dolumin
 	dolutu
 	domaia
@@ -1401,51 +1111,30 @@
 	domina
 	domino
 	donado
-	done
 	donge
 	dontsu
 	dorpe
 	dorre
 	dortoka
-	dosi
 	dosier
-	dote
 	dotore
 	dotrina
 	dozena
-	dp
-	dq
-	dr
 	dragoi
 	draia
 	drain
 	drama
 	droga
-	ds
-	dt
-	du
-	duda
 	dudako
 	dudan
 	dudatu
-	duin
 	dukat
-	duke
 	dukesa
 	dunba
-	dupa
 	dupin
-	duro
 	durundi
 	dutxa
 	dutxatu
-	dv
-	dw
-	dx
-	dy
-	dz
-	e
-	eb
 	ebakera
 	ebaki
 	ebasgo
@@ -1455,12 +1144,9 @@
 	ebatzi
 	ebazle
 	ebazpen
-	ec
-	ed
 	edade
 	edadetu
 	edale
-	edan
 	edaran
 	edari
 	edarra
@@ -1468,15 +1154,12 @@
 	edateko
 	edatun
 	edeki
-	eden
-	eder
 	ederki
 	ederto
 	edertu
 	edesti
 	ediren
 	edizio
-	edo
 	edonola
 	edonon
 	edonor
@@ -1487,23 +1170,14 @@
 	edozein
 	edozer
 	eduki
-	ee
-	eee
-	eeee
-	ef
-	efe
 	efektu
-	efg
-	eg
 	egarri
-	egia
 	egiatan
 	egiati
 	egiaz
 	egiazki
 	egiazko
 	egile
-	egin
 	egintza
 	egitate
 	egite
@@ -1517,7 +1191,6 @@
 	egoki
 	egokiro
 	egokitu
-	egon
 	egonean
 	egonkor
 	egosi
@@ -1526,52 +1199,38 @@
 	egotzi
 	eguen
 	eguerdi
-	egun
 	egunaz
 	egundo
 	egundu
 	eguneko
 	egunero
 	egungo
-	egur
 	egurats
 	egurtu
 	egutegi
 	eguzki
-	eh
 	ehaile
-	ehe
 	ehiza
 	ehizan
 	ehizatu
-	eho
 	ehortzi
 	ehule
-	ehun
 	ehuna
 	ehundu
 	ehuneko
 	ehunen
 	ehunka
 	ehunki
-	ei
 	eihar
 	eihera
-	eiki
-	eite
-	ej
-	ek
-	ekai
 	ekain
 	ekaitz
 	ekandu
 	ekarle
 	ekarpen
 	ekarri
-	eki
 	ekialde
 	ekidin
-	ekin
 	ekintza
 	eklipse
 	ekoitzi
@@ -1579,20 +1238,15 @@
 	ekoiztu
 	ekuazio
 	ekuru
-	el
-	elai
 	elaire
 	elbarri
 	elder
-	ele
 	eledun
 	elegia
 	eleka
 	eleketa
 	elerti
 	elesta
-	elge
-	eli
 	elikatu
 	elipse
 	eliza
@@ -1608,31 +1262,24 @@
 	elorrio
 	eltxo
 	eltze
-	elur
 	elurte
-	em
 	emagin
 	emaile
 	emaitza
 	emakoi
 	emakume
-	eman
 	emankor
 	emari
 	emaro
 	ematu
 	emazte
-	eme
 	emeki
 	emendio
 	emozio
-	en
 	enara
 	enbata
 	enbido
 	enbor
-	enda
-	ene
 	energia
 	enetxo
 	enfasi
@@ -1648,23 +1295,14 @@
 	entzule
 	entzun
 	entzute
-	eo
-	ep
-	epai
 	epail
 	epaile
 	epaitu
-	epe
 	epeka
-	epel
 	epeldu
-	eper
 	eperki
 	epika
 	epiko
-	eq
-	er
-	era
 	erabaki
 	erabat
 	erabili
@@ -1693,20 +1331,15 @@
 	eratu
 	erausi
 	erauzi
-	eraz
 	eraztun
 	erbatz
 	erbeste
-	erbi
 	erdara
 	erdeinu
-	erdi
 	erditsu
 	erditu
 	erditze
 	erdizka
-	erdu
-	ere
 	eredu
 	eregi
 	ereile
@@ -1715,8 +1348,6 @@
 	eresi
 	eretz
 	ergel
-	ergi
-	eri
 	erietxe
 	erikor
 	eritegi
@@ -1727,7 +1358,6 @@
 	erkide
 	erkin
 	erlazio
-	erle
 	erliebe
 	erlijio
 	erlikia
@@ -1737,9 +1367,7 @@
 	ernaldu
 	ernari
 	ernatu
-	erne
 	ernegu
-	ero
 	eroale
 	eroan
 	eroetxe
@@ -1753,7 +1381,6 @@
 	eroso
 	erosta
 	erotu
-	erpe
 	erpin
 	erpuru
 	errabia
@@ -1770,7 +1397,6 @@
 	erraz
 	errazki
 	erraztu
-	erre
 	erreal
 	erregai
 	errege
@@ -1794,7 +1420,6 @@
 	errime
 	erritmo
 	erritu
-	erro
 	erroi
 	errolda
 	erromes
@@ -1803,7 +1428,6 @@
 	errore
 	errota
 	errotu
-	erru
 	errudun
 	errugbi
 	erruki
@@ -1811,24 +1435,19 @@
 	errute
 	erruz
 	ertain
-	erti
-	ertz
 	ertzain
-	es
 	esaera
 	esaka
 	esakune
 	esaldi
 	esale
 	esamesa
-	esan
 	esanahi
 	esaneko
 	esapide
 	esatari
 	esate
 	esateko
-	ese
 	eseki
 	eseri
 	esetsi
@@ -1843,7 +1462,6 @@
 	eskastu
 	eskatu
 	eskaut
-	eske
 	eskean
 	eskegi
 	eskeko
@@ -1852,11 +1470,9 @@
 	eskerga
 	eskertu
 	eskez
-	eski
 	eskiatu
 	esklabo
 	eskola
-	esku
 	eskuera
 	eskuila
 	eskuin
@@ -1867,11 +1483,8 @@
 	eskupe
 	eskutik
 	esleitu
-	esna
 	esnatu
-	esne
 	esneki
-	espa
 	espal
 	espaloi
 	espantu
@@ -1897,7 +1510,6 @@
 	esteka
 	estepa
 	esteta
-	esti
 	estilo
 	estimu
 	estira
@@ -1905,50 +1517,37 @@
 	estola
 	estolda
 	estres
-	estu
 	estudio
 	estuki
 	estura
 	estutu
-	et
-	eta
 	etapa
 	etekin
-	eten
-	eter
 	etika
 	etiketa
 	etimo
 	etnia
-	etoi
 	etorki
 	etorkin
 	etorri
 	etortze
 	etsai
 	etsaigo
-	etsi
 	etsipen
 	etsitu
 	etxadi
 	etxalde
 	etxarte
-	etxe
 	etxeko
 	etxepe
 	etxola
 	etzan
-	etzi
 	etziko
 	etzin
-	eu
-	euli
 	eultze
 	eultzi
 	eunuko
-	eup
 	eurak
-	euri
 	eurite
 	euritsu
 	europar
@@ -1957,13 +1556,8 @@
 	euskara
 	eusko
 	eutsi
-	ev
-	ew
-	ex
 	exkax
 	exotiko
-	ey
-	ez
 	ezabatu
 	ezagun
 	ezagutu
@@ -1978,13 +1572,10 @@
 	ezbaian
 	ezbehar
 	ezdeus
-	eze
 	ezean
 	ezegoki
 	ezein
 	ezelan
-	ezen
-	ezer
 	ezerez
 	ezertxo
 	ezetsi
@@ -1993,8 +1584,6 @@
 	ezezko
 	ezgai
 	ezgauza
-	ezik
-	ezin
 	ezindu
 	ezinean
 	ezineko
@@ -2006,9 +1595,7 @@
 	ezkel
 	ezker
 	ezkero
-	ezki
 	ezkila
-	ezko
 	ezkondu
 	ezkor
 	ezkotu
@@ -2018,7 +1605,6 @@
 	ezongi
 	ezordu
 	ezoren
-	ezpa
 	ezpada
 	ezpain
 	ezpal
@@ -2033,7 +1619,6 @@
 	eztegu
 	eztei
 	ezten
-	ezti
 	eztiki
 	eztitu
 	eztul
@@ -2041,7 +1626,6 @@
 	ezune
 	ezurte
 	ezuste
-	f
 	fabore
 	faborez
 	fabrika
@@ -2052,23 +1636,15 @@
 	falta
 	faltatu
 	faltsu
-	fama
 	famatu
 	familia
 	faraoi
 	fardel
 	fariseu
-	fase
 	fauna
 	fauno
-	fax
 	faxismo
 	faxista
-	fb
-	fc
-	fd
-	fe
-	fede
 	fededun
 	federal
 	fenix
@@ -2078,26 +1654,15 @@
 	ferra
 	ferratu
 	festa
-	fetu
 	feudal
-	ff
-	fff
-	ffff
-	fg
-	fgh
-	fh
-	fi
 	fidatu
 	fidel
 	fideo
-	fier
 	fierki
 	figura
 	fijiar
 	fikzio
-	film
 	filmatu
-	fin
 	final
 	findu
 	finitu
@@ -2107,13 +1672,8 @@
 	fiordo
 	fisika
 	fisiko
-	fite
-	fits
 	fitsik
 	fitxa
-	fj
-	fk
-	fl
 	flakia
 	flako
 	flasko
@@ -2123,12 +1683,7 @@
 	flora
 	florin
 	fluor
-	fm
-	fn
-	fo
 	fobia
-	foka
-	foku
 	fondo
 	fonema
 	foral
@@ -2138,13 +1693,8 @@
 	formatu
 	formula
 	fortuna
-	foru
 	fosil
-	foto
 	fotoi
-	fp
-	fq
-	fr
 	fraide
 	franko
 	freno
@@ -2156,12 +1706,7 @@
 	frontoi
 	fruitu
 	fruta
-	fs
-	ft
-	fu
 	fuera
-	fuga
-	fula
 	fundatu
 	funditu
 	funski
@@ -2171,21 +1716,11 @@
 	fusil
 	futbol
 	futxo
-	fv
-	fw
-	fx
-	fy
-	fz
-	g
 	gabarra
-	gabe
 	gabezia
-	gabi
 	gabon
-	gai
 	gailen
 	gailur
-	gain
 	gaindi
 	gaindu
 	gainean
@@ -2199,8 +1734,6 @@
 	gaizki
 	gaizo
 	gaizto
-	gajo
-	gako
 	gakotu
 	galai
 	galant
@@ -2241,7 +1774,6 @@
 	gantz
 	gantzu
 	gapoin
-	gar
 	garabi
 	garagar
 	garai
@@ -2259,10 +1791,8 @@
 	garbitu
 	garden
 	garesti
-	gari
 	garil
 	garmin
-	garo
 	garondo
 	garraio
 	garrasi
@@ -2270,7 +1800,6 @@
 	gartu
 	gartxu
 	garun
-	gas
 	gasdun
 	gaskoi
 	gasna
@@ -2279,18 +1808,14 @@
 	gastu
 	gatazka
 	gatibu
-	gatu
-	gatz
 	gatzatu
 	gatzil
 	gatzun
-	gau
 	gaualdi
 	gauaro
 	gauaz
 	gauerdi
 	gauero
-	gaur
 	gaurko
 	gaurkoz
 	gautar
@@ -2298,9 +1823,7 @@
 	gauza
 	gauzaki
 	gauzatu
-	gaza
 	gazela
-	gazi
 	gaziki
 	gazitu
 	gazta
@@ -2312,16 +1835,10 @@
 	gaztetu
 	gaztigu
 	gazur
-	gb
-	gc
-	gd
-	ge
-	gehi
 	gehiago
 	gehiegi
 	gehien
 	gehitu
-	gela
 	gelari
 	gelaxka
 	geldi
@@ -2341,7 +1858,6 @@
 	gerlari
 	gerli
 	gernu
-	gero
 	geroago
 	gerok
 	geroko
@@ -2356,47 +1872,29 @@
 	gertu
 	geruza
 	gesal
-	geu
-	geun
 	geundu
 	geure
 	geurtz
-	geza
 	gezatu
-	gezi
 	gezur
 	gezurti
-	gf
-	gg
-	ggg
-	gggg
-	gh
-	ghi
-	gi
-	gia
 	gibel
 	giboi
-	gida
 	gidari
 	gidatu
 	gider
 	gihar
-	gila
 	gilbor
 	giltza
-	gin
 	ginear
 	ginga
 	gingil
 	ginoan
 	giputz
 	girgil
-	giro
 	girotu
-	gisa
 	gisako
 	gisats
-	gisu
 	gisuki
 	gitarra
 	gizadi
@@ -2409,23 +1907,15 @@
 	gizon
 	gizondu
 	gizotso
-	gj
-	gk
-	gl
 	gloria
 	glosa
-	gm
-	gn
-	go
 	goait
 	gobada
 	gobernu
-	godo
 	gogaitu
 	gogamen
 	gogara
 	gogatu
-	gogo
 	gogoeta
 	gogoko
 	gogor
@@ -2434,7 +1924,6 @@
 	gogotik
 	gogotsu
 	gogoz
-	goi
 	goialde
 	goibel
 	goien
@@ -2445,22 +1934,15 @@
 	goitiko
 	goititu
 	goitu
-	goiz
 	goizero
 	goizik
-	gol
 	golde
-	golf
 	golko
-	goma
 	gomit
 	gomuta
-	gona
 	gonbit
 	gontz
 	gopor
-	gor
-	gora
 	goraki
 	goraldi
 	gorapen
@@ -2473,7 +1955,6 @@
 	goren
 	gorengo
 	goretsi
-	gori
 	gorila
 	goritu
 	gorosti
@@ -2486,10 +1967,8 @@
 	gorte
 	gortina
 	gortu
-	goru
 	gosaldu
 	gosari
-	gose
 	goserik
 	gosete
 	goseti
@@ -2499,15 +1978,10 @@
 	gotortu
 	gotzain
 	goxatu
-	goxo
 	gozamen
 	gozatu
-	gozo
 	gozoki
 	gozoro
-	gp
-	gq
-	gr
 	grabatu
 	gradu
 	grafia
@@ -2520,21 +1994,13 @@
 	greziar
 	grina
 	gripe
-	gris
-	gs
-	gt
-	gu
 	guarda
 	guardia
 	gubia
-	guda
 	gudari
-	gudu
 	guduka
 	guhaur
-	gune
 	gupida
-	gura
 	guraize
 	gurako
 	gurari
@@ -2544,7 +2010,6 @@
 	gurdi
 	guren
 	guretu
-	guri
 	gurin
 	guritu
 	gurpen
@@ -2558,29 +2023,19 @@
 	gustuko
 	gustura
 	gutar
-	guti
 	gutizia
 	gutun
 	gutxi
 	gutxika
 	gutxitu
-	guzi
 	guzti
 	guztian
 	guztira
 	guztiz
-	gv
-	gw
-	gx
-	gy
-	gz
-	h
 	haatik
-	habe
 	habia
 	haboro
 	habuin
-	haga
 	hagin
 	haginka
 	hagitz
@@ -2588,7 +2043,6 @@
 	hagun
 	haidor
 	haikatu
-	hain
 	hainbat
 	haitada
 	haitz
@@ -2596,7 +2050,6 @@
 	haize
 	haizete
 	haizpe
-	hala
 	halaber
 	halako
 	halatsu
@@ -2608,7 +2061,6 @@
 	hamalau
 	hamar
 	hamasei
-	han
 	handi
 	handiki
 	handitu
@@ -2618,8 +2070,6 @@
 	hanpatu
 	hantu
 	hantura
-	har
-	hara
 	haragi
 	harago
 	harakin
@@ -2629,7 +2079,6 @@
 	harbide
 	harea
 	hargin
-	hari
 	haril
 	haritz
 	harjo
@@ -2651,18 +2100,11 @@
 	hartu
 	hartz
 	hartze
-	has
 	haserre
-	hasi
 	hasiera
 	haste
 	hastio
-	hats
-	hatu
 	hatxe
-	hatz
-	hau
-	haur
 	haurdun
 	haurtu
 	haurtxo
@@ -2681,11 +2123,9 @@
 	hautu
 	hautuz
 	hauxe
-	haxe
 	hazama
 	hazbete
 	hazgai
-	hazi
 	hazil
 	hazka
 	hazkor
@@ -2694,14 +2134,9 @@
 	hazta
 	haztatu
 	hazte
-	hb
-	hc
-	hd
-	he
 	hebain
 	hedapen
 	hedatu
-	hede
 	hegada
 	hegaka
 	hegal
@@ -2714,13 +2149,7 @@
 	hegatz
 	hegaz
 	hegazti
-	hegi
 	hegigo
-	hego
-	heia
-	hein
-	hel
-	hela
 	helbide
 	helburu
 	helde
@@ -2730,7 +2159,6 @@
 	heltze
 	hemen
 	hemengo
-	hera
 	herabe
 	herbal
 	herdoil
@@ -2752,26 +2180,16 @@
 	hertsi
 	hertu
 	hertze
-	hesi
 	hesitu
 	hesola
 	hespil
 	heste
 	hetika
 	hetsi
-	heu
 	heure
-	heze
 	hezetu
-	hezi
 	hezle
 	hezur
-	hf
-	hg
-	hh
-	hhh
-	hhhh
-	hi
 	hiato
 	hiena
 	higanot
@@ -2780,10 +2198,7 @@
 	higitu
 	higuin
 	hihaur
-	hij
-	hika
 	hikako
-	hil
 	hilarri
 	hilaur
 	hildako
@@ -2803,14 +2218,9 @@
 	himno
 	hindi
 	hipnosi
-	hira
-	hire
 	hiretu
-	hiri
 	hiritar
-	hiro
 	hirotu
-	hiru
 	hiruki
 	hiruko
 	hiruna
@@ -2818,8 +2228,6 @@
 	hisia
 	histu
 	hitano
-	hits
-	hitz
 	hitzeko
 	hizka
 	hizkera
@@ -2829,29 +2237,18 @@
 	hizpide
 	hiztegi
 	hiztun
-	hj
-	hk
-	hl
-	hm
-	hn
-	ho
 	hobari
-	hobe
 	hobeki
 	hoben
 	hoberen
 	hobeto
 	hobetsi
 	hobetu
-	hobi
 	hodei
-	hodi
 	hogei
-	hola
 	holako
 	holaxe
 	holtz
-	hona
 	honaino
 	honako
 	honantz
@@ -2862,11 +2259,9 @@
 	honela
 	honen
 	hontz
-	hor
 	horail
 	hordi
 	horditu
-	hori
 	horitu
 	horixe
 	horixka
@@ -2887,30 +2282,18 @@
 	hortz
 	hosto
 	hotel
-	hots
-	hotz
 	hotzik
 	hotzil
-	hozi
 	hozitu
 	hozka
 	hozki
 	hozpil
 	hozte
 	hoztu
-	hp
-	hq
-	hr
-	hs
-	ht
-	hu
 	hunki
 	hunkitu
 	huntz
-	hupa
 	hupatu
-	hur
-	hura
 	huraxe
 	hurbil
 	hurko
@@ -2922,32 +2305,16 @@
 	hurrup
 	hurrupa
 	hustu
-	huts
 	hutsal
 	hutsean
 	hutsik
 	hutsune
-	hv
-	hw
-	hx
-	hy
-	hz
-	i
-	iaio
-	iaz
-	ib
-	ibai
 	ibaika
-	ibar
 	iberiar
-	ibi
 	ibilera
 	ibili
 	ibilki
-	ibis
 	ibitu
-	ic
-	id
 	idatzi
 	idazki
 	idazlan
@@ -2955,66 +2322,43 @@
 	idazti
 	ideal
 	ideia
-	idi
 	idiki
 	idisko
-	idoi
 	idoki
 	idolo
-	idor
 	idorki
 	idoro
 	idorte
 	idortu
 	idulki
-	idun
 	iduneko
 	iduri
-	ie
-	iel
 	ieldu
-	if
-	ig
 	igali
-	igan
 	igande
 	igarle
 	igaro
 	igarri
-	igel
 	igeltsu
 	igeri
 	igerian
 	igita
 	igitai
-	iglu
-	igo
 	igoera
 	igorle
 	igorri
 	igotze
-	igun
 	iguriki
 	igurtzi
-	ih
 	ihakin
-	ihar
 	ihartu
 	ihausi
-	ihes
 	ihesi
 	iheska
 	iheskor
-	ihi
 	ihintz
 	ihizi
-	ii
-	iii
-	iiii
-	ij
 	ijito
-	ijk
-	ik
 	ikara
 	ikaran
 	ikaratu
@@ -3030,11 +2374,9 @@
 	ikerlan
 	ikertu
 	ikertze
-	ikol
 	ikoldu
 	ikono
 	ikoti
-	ikur
 	ikurrin
 	ikusgai
 	ikusi
@@ -3046,41 +2388,32 @@
 	ikuste
 	ikuzi
 	ikuzle
-	il
 	ilagin
 	ilaje
-	ilar
 	ilara
 	ilargi
 	ilaun
 	ilberri
 	ilbete
-	ildo
-	ile
 	iledun
 	ileki
 	ileorde
 	iletsu
 	ilgora
 	ilinti
-	ilki
 	iloba
 	iltzatu
 	iltze
-	ilun
 	ilundu
 	ilunik
 	ilunki
 	ilunpe
 	iluntze
 	ilusio
-	im
 	imajina
-	iman
 	imandu
 	imina
 	imitatu
-	in
 	inausi
 	inaute
 	inbasio
@@ -3103,10 +2436,8 @@
 	inoizko
 	inola
 	inolako
-	inon
 	inondik
 	inongo
-	inor
 	inora
 	inortxo
 	inozo
@@ -3116,18 +2447,11 @@
 	intziri
 	inude
 	inurri
-	io
-	ioi
-	ip
-	ipar
 	ipini
 	ipotx
 	ipuin
 	ipurdi
 	ipuru
-	iq
-	ir
-	ira
 	irabazi
 	irabio
 	iradoki
@@ -3154,25 +2478,18 @@
 	irazi
 	irazki
 	ireki
-	iren
 	irendu
 	irentsi
-	iri
 	irian
-	irin
 	irindu
-	iris
 	iritsi
 	iritzi
-	irla
-	irmo
 	irmoki
 	irmotu
 	ironia
 	irozo
 	irrada
 	irrati
-	irri
 	irrika
 	irrikan
 	irrikaz
@@ -3188,15 +2505,12 @@
 	iruditu
 	irudiz
 	irule
-	irun
 	iruntz
 	iruzkin
 	iruzur
-	is
 	isats
 	iseka
 	isekari
-	isil
 	isildu
 	isilean
 	isileko
@@ -3207,11 +2521,9 @@
 	isiotu
 	isipu
 	iskilu
-	isla
 	islara
 	islatu
 	islatze
-	iso
 	isolatu
 	ispilu
 	istant
@@ -3219,27 +2531,23 @@
 	istilu
 	istorio
 	istripu
-	isun
 	isuri
 	isurki
 	isurle
 	isurtze
 	isuski
-	it
 	italiar
 	itaun
 	itaundu
 	itaxur
 	itegi
 	iteuli
-	ito
 	itogin
 	itoka
 	itomen
 	itsaso
 	itsaspe
 	itsatsi
-	itsu
 	itsuka
 	itsuki
 	itsura
@@ -3247,12 +2555,10 @@
 	itsuski
 	itsustu
 	itsutu
-	itun
 	itundu
 	iturgin
 	iturri
 	itxaron
-	itxi
 	itxiera
 	itxoin
 	itxura
@@ -3264,39 +2570,23 @@
 	itzalpe
 	itzarri
 	itzartu
-	itze
 	itzel
 	itzuli
 	itzuri
-	iu
-	iv
-	iw
-	ix
-	ixa
-	ixi
-	ixo
-	iy
-	iz
 	izadi
 	izaera
-	izai
 	izain
 	izaki
-	izan
-	izar
 	izara
 	izari
 	izartu
 	izate
 	izatez
 	izeba
-	izei
 	izeki
 	izeko
-	izen
 	izenpe
 	izerdi
-	izi
 	izkina
 	izkira
 	izkribu
@@ -3307,35 +2597,27 @@
 	izozte
 	izoztu
 	izpar
-	izpi
 	izpika
 	izpil
 	izpirik
 	iztai
 	izter
 	iztupa
-	izu
 	izukor
-	izur
 	izurde
 	izurri
 	izurtu
 	izuti
 	izutu
-	j
 	jabal
 	jabaldu
-	jabe
 	jabego
 	jabetu
 	jabetza
-	jada
 	jadanik
-	jagi
 	jagole
 	jagon
 	jaguar
-	jai
 	jaialdi
 	jaidura
 	jaiegun
@@ -3343,22 +2625,17 @@
 	jaiero
 	jaiki
 	jainko
-	jaio
 	jaiotza
 	jaiotze
 	jaitsi
-	jaka
-	jaki
 	jakile
 	jakin
 	jakina
 	jakite
 	jakitun
-	jale
 	jalgi
 	jalki
 	jalkin
-	jan
 	janaldi
 	janari
 	janbo
@@ -3370,7 +2647,6 @@
 	janzki
 	jaramon
 	jardun
-	jare
 	jaregin
 	jargia
 	jargoi
@@ -3380,12 +2656,9 @@
 	jarrai
 	jarrera
 	jarri
-	jas
-	jasa
 	jasan
 	jaseko
 	jasmin
-	jaso
 	jasotze
 	jaspe
 	jateko
@@ -3394,11 +2667,9 @@
 	jator
 	jatordu
 	jatorri
-	jats
 	jatun
 	jaugin
 	jaulki
-	jaun
 	jaundu
 	jauntxo
 	jauntzi
@@ -3413,15 +2684,8 @@
 	jauzte
 	jazarle
 	jazarri
-	jazo
 	jazoera
-	jazz
-	jb
-	jc
-	jd
-	je
 	jeinu
-	jela
 	jelatu
 	jelosia
 	jendaki
@@ -3434,88 +2698,47 @@
 	jesarri
 	jesuita
 	jetzi
-	jf
-	jg
-	jh
-	ji
-	jin
 	jipoi
 	jipoitu
-	jira
 	jirafa
 	jiraka
 	jiratu
-	jite
-	jj
-	jjj
-	jjjj
-	jk
-	jkl
-	jl
-	jm
-	jn
-	jo
 	joaki
 	joaldi
 	joaldun
-	joan
 	joare
 	joera
 	jogurt
-	joia
 	joile
-	joka
 	jokaera
 	jokaldi
 	jokatu
-	joko
 	jolas
 	jolastu
-	jole
 	jomuga
 	joniko
-	jopu
 	joran
-	jori
 	joritu
 	jornal
 	jorra
 	jorrai
 	jorran
 	jorratu
-	josi
 	josle
 	jostatu
 	joste
 	josteta
 	jostun
-	jota
 	jotze
-	jp
-	jq
-	jr
-	js
-	jt
-	ju
 	judegu
 	judizio
-	judo
-	judu
-	juez
 	juizio
 	jujatu
-	juje
 	juntatu
 	justu
 	justuki
 	juzgatu
 	juzgu
-	jv
-	jw
-	jx
-	jy
-	jz
-	k
 	kabala
 	kabaret
 	kabiar
@@ -3523,7 +2746,6 @@
 	kabina
 	kabitu
 	kable
-	kabo
 	kabuxa
 	kabuz
 	kaden
@@ -3531,35 +2753,27 @@
 	kadete
 	kadira
 	kadmio
-	kafe
 	kafesne
 	kahaka
-	kai
 	kaier
 	kaiku
 	kailu
 	kaiman
-	kaio
 	kaiola
 	kaisar
 	kaixo
 	kaizu
-	kaka
 	kakao
 	kakati
 	kakazu
 	kakeri
-	kako
 	kakola
 	kakotu
 	kakotx
 	kaktus
-	kala
 	kalaka
 	kalamu
-	kale
 	kaletar
-	kali
 	kalifa
 	kalipu
 	kalitu
@@ -3577,7 +2791,6 @@
 	kamioi
 	kamustu
 	kamuts
-	kana
 	kanadar
 	kanal
 	kandela
@@ -3605,8 +2818,6 @@
 	kantuz
 	kaoba
 	kaolin
-	kaos
-	kapa
 	kapar
 	kapare
 	kapela
@@ -3616,21 +2827,17 @@
 	kapital
 	kapoi
 	kapusai
-	kar
-	kara
 	karaka
 	karate
 	karbono
 	karda
 	kardu
-	kare
 	karel
 	karen
 	karesa
 	karga
 	kargatu
 	kargu
-	kari
 	kario
 	kariotu
 	karkara
@@ -3647,9 +2854,7 @@
 	kartel
 	kartoi
 	kartsu
-	karu
 	karutu
-	kasa
 	kasaka
 	kasatu
 	kaserna
@@ -3661,10 +2866,8 @@
 	kasketa
 	kasko
 	kasta
-	kasu
 	katalan
 	katar
-	kate
 	kateatu
 	katedra
 	kateme
@@ -3672,7 +2875,6 @@
 	katigu
 	katilu
 	katodo
-	katu
 	katutu
 	kausa
 	kausal
@@ -3680,14 +2882,9 @@
 	kautan
 	kauter
 	kautxu
-	kaxa
 	kazeta
 	kazike
 	kazola
-	kb
-	kc
-	kd
-	ke
 	kealdi
 	kebide
 	kedar
@@ -3696,28 +2893,18 @@
 	keinuka
 	kemen
 	kemin
-	ken
 	kendu
 	kenketa
 	kenyar
 	kereila
 	kereta
-	keta
 	ketsu
-	ketu
 	ketzal
-	kexa
 	kexati
 	kexatu
-	kexu
 	kezka
 	kezkati
 	kezkatu
-	kf
-	kg
-	kh
-	ki
-	kide
 	kideko
 	kidetu
 	kiebra
@@ -3727,21 +2914,16 @@
 	kilika
 	kilima
 	kilker
-	kilo
-	kima
 	kimatu
 	kimera
 	kimika
 	kimiko
 	kimono
-	kimu
-	kina
 	kiniela
 	kinina
 	kinka
 	kintal
 	kintze
-	kio
 	kiosko
 	kipula
 	kirastu
@@ -3757,18 +2939,9 @@
 	kisketa
 	kiskil
 	kitatu
-	kito
 	kitxua
-	kiwi
 	kizki
 	kizkur
-	kj
-	kk
-	kkk
-	kkkk
-	kl
-	klan
-	klar
 	klarion
 	klarki
 	klaru
@@ -3776,27 +2949,19 @@
 	klasiko
 	klaska
 	klera
-	klik
 	klima
 	klinika
 	kliniko
 	kliska
 	klixe
-	klm
 	kloro
-	klub
-	km
-	kn
-	ko
 	koadro
 	koala
-	koba
 	kobla
 	kobra
 	kobratu
 	kobre
 	kobru
-	kode
 	kodetu
 	kodoin
 	kofoin
@@ -3807,18 +2972,14 @@
 	koiote
 	koipe
 	koitadu
-	kojo
-	koka
 	kokaina
 	kokatu
 	kokin
-	koko
 	kokolo
 	kokospe
 	kokote
 	kokots
 	koktel
-	kola
 	kolaio
 	kolatu
 	koldar
@@ -3836,7 +2997,6 @@
 	kolpez
 	koltxoi
 	koltza
-	koma
 	komedia
 	komentu
 	komeria
@@ -3854,7 +3014,6 @@
 	koniko
 	konketa
 	konkor
-	kono
 	konorte
 	konpas
 	konplot
@@ -3867,7 +3026,6 @@
 	kontu
 	kontuz
 	kontxo
-	kopa
 	kopau
 	kopeta
 	kopia
@@ -3891,9 +3049,7 @@
 	korta
 	kortse
 	kortxo
-	koru
 	kosinu
-	kosk
 	koska
 	koskor
 	kosmos
@@ -3901,15 +3057,10 @@
 	kostata
 	kostatu
 	kostu
-	kota
 	kotoi
 	kotxe
 	koxkor
-	koxu
 	kozkor
-	kp
-	kq
-	kr
 	kraba
 	kraka
 	krako
@@ -3931,20 +3082,12 @@
 	kromo
 	kronika
 	kroniko
-	kros
 	kroska
 	krudel
-	ks
-	kt
-	ku
 	kuartel
 	kubatar
 	kubiko
-	kubo
 	kudeatu
-	kui
-	kuia
-	kuku
 	kukuka
 	kukula
 	kukuma
@@ -3956,8 +3099,6 @@
 	kultura
 	kulunka
 	kuluxka
-	kuma
-	kume
 	kumino
 	kuota
 	kupel
@@ -3974,7 +3115,6 @@
 	kurrilo
 	kurritu
 	kurtso
-	kusi
 	kusku
 	kutsatu
 	kutsu
@@ -3983,40 +3123,28 @@
 	kuxian
 	kuxin
 	kuzkur
-	kv
-	kw
-	kx
-	ky
-	kz
-	l
-	laba
 	labain
 	labaki
 	labana
 	labar
-	labe
 	labore
 	laborri
 	labur
 	laburki
 	laburtu
-	laga
 	lagin
 	lagun
 	lagundi
 	lagundu
 	lahar
-	laia
 	laiari
 	laiatu
 	laido
 	laiko
-	lain
 	laino
 	lainotu
 	laiotz
 	laira
-	laka
 	lakar
 	lakari
 	lakatu
@@ -4024,12 +3152,8 @@
 	laket
 	laketu
 	lakio
-	lako
-	laku
-	lama
 	lamada
 	lamina
-	lan
 	lanabes
 	lanaldi
 	lanbide
@@ -4058,7 +3182,6 @@
 	lantu
 	lantza
 	lanuzte
-	lapa
 	lapati
 	lapats
 	lapatx
@@ -4066,7 +3189,6 @@
 	lapitz
 	lapur
 	lapurtu
-	lar
 	laranja
 	laratz
 	larba
@@ -4081,7 +3203,6 @@
 	larru
 	larrutu
 	lartxo
-	laru
 	larutu
 	lasai
 	lasaiki
@@ -4089,13 +3210,9 @@
 	laster
 	lastima
 	lasto
-	lata
 	latex
 	latin
 	latorri
-	lats
-	latz
-	lau
 	lauburu
 	laudatu
 	lauki
@@ -4111,21 +3228,15 @@
 	lauza
 	lauzka
 	laxatu
-	laxo
 	laxoki
 	lazki
 	laztan
 	laztu
 	lazun
-	lb
-	lc
-	ld
-	le
 	lebitar
 	legamia
 	legar
 	legatz
-	lege
 	legedi
 	legen
 	legeria
@@ -4143,38 +3254,30 @@
 	lehor
 	lehorte
 	lehortu
-	lei
 	leial
 	leiar
 	leiho
 	leinu
 	leitu
 	leize
-	leka
 	lekaio
 	lekari
 	lekaro
 	lekat
 	lekatu
 	lekora
-	leku
 	lekuan
 	lekuko
 	lekune
 	lekutan
 	lekutu
-	lelo
 	lelotu
-	lema
 	lemari
 	lente
 	lentoi
-	lepo
 	lepoko
 	lepondo
 	lepra
-	ler
-	lera
 	lerde
 	lerden
 	lerdoi
@@ -4187,17 +3290,11 @@
 	letoi
 	letra
 	letxe
-	leun
 	leundu
 	leunki
 	lexiko
-	lez
 	lezka
 	lezoi
-	lf
-	lg
-	lh
-	li
 	libera
 	liberal
 	libiar
@@ -4208,9 +3305,6 @@
 	libreki
 	libro
 	liburu
-	liga
-	liho
-	lika
 	likatsu
 	likatu
 	liken
@@ -4218,11 +3312,9 @@
 	likin
 	likistu
 	likits
-	lili
 	lilipa
 	lilitu
 	lilura
-	lima
 	limoi
 	limosna
 	limuri
@@ -4233,9 +3325,7 @@
 	linea
 	lineal
 	linfa
-	lino
 	lipar
-	lira
 	lirain
 	lirika
 	liriko
@@ -4247,7 +3337,6 @@
 	listu
 	litio
 	litro
-	lits
 	litxar
 	lixiba
 	lizar
@@ -4256,18 +3345,7 @@
 	liztor
 	lizun
 	lizundu
-	lj
-	lk
-	ll
-	lll
-	llll
-	lm
-	lmn
-	ln
-	lo
 	loaldi
-	loba
-	lodi
 	lodiera
 	loditu
 	loeri
@@ -4276,11 +3354,9 @@
 	logika
 	logiko
 	logura
-	lohi
 	lohitsu
 	lohitu
 	loina
-	loka
 	lokabe
 	lokal
 	lokarri
@@ -4288,58 +3364,39 @@
 	lokatu
 	lokatz
 	lokatza
-	loki
 	lokia
 	lokotx
 	lopide
-	lor
 	lorail
 	loratu
-	lore
 	loria
 	loriatu
 	lorios
-	loro
 	lorpen
 	lorratz
 	lorrin
 	lortu
 	lotan
 	loteria
-	loti
-	loto
 	lotsa
 	lotsari
 	lotsati
 	lotsatu
 	lotsor
-	lotu
 	lotune
 	lotura
 	lozorro
-	lp
-	lq
-	lr
-	ls
-	lt
-	lu
 	lubaki
-	ludi
 	lugin
 	luizi
-	luki
 	lukur
 	lukuru
-	luma
 	lumadi
 	lumaje
 	lumatu
 	lumera
-	lupa
 	lupetz
 	lupia
-	lupu
-	lur
 	lurbira
 	lurkoi
 	lurmen
@@ -4349,7 +3406,6 @@
 	lurtar
 	lurtu
 	lusuil
-	luto
 	lutxo
 	luzanga
 	luzapen
@@ -4357,22 +3413,14 @@
 	luzaro
 	luzatu
 	luzaz
-	luze
 	luzeki
 	luzera
-	lv
-	lw
-	lx
-	ly
-	lz
-	m
 	madari
 	madura
 	magal
 	magia
 	magiko
 	magina
-	mago
 	magyar
 	mahai
 	mahaiko
@@ -4396,11 +3444,9 @@
 	maitatu
 	maite
 	maitez
-	maiz
 	maizko
 	maizter
 	maiztu
-	majo
 	makako
 	makal
 	makaldu
@@ -4412,7 +3458,6 @@
 	makets
 	makila
 	makina
-	mako
 	makola
 	makotu
 	makulu
@@ -4437,14 +3482,10 @@
 	maltzur
 	malur
 	maluta
-	mama
 	mamala
-	mami
 	mamitsu
 	mamitu
-	mamu
 	mamut
-	mana
 	manak
 	manatu
 	mandatu
@@ -4461,9 +3502,7 @@
 	mantu
 	mantxa
 	mantxu
-	manu
 	maoista
-	mapa
 	maratz
 	marbre
 	mardo
@@ -4473,7 +3512,6 @@
 	margo
 	margotu
 	margul
-	mari
 	marian
 	marina
 	marinel
@@ -4502,7 +3540,6 @@
 	martxa
 	martxo
 	maruga
-	masa
 	masail
 	masaje
 	maska
@@ -4518,25 +3555,17 @@
 	mataza
 	matela
 	materia
-	mato
 	matoi
 	matrail
 	matraka
 	matxino
 	matxura
-	mau
 	mauka
 	maximo
 	mazal
 	mazela
-	mazi
 	mazopa
 	mazpil
-	mb
-	mc
-	md
-	me
-	mea
 	meategi
 	meatze
 	medaila
@@ -4549,7 +3578,6 @@
 	mehats
 	mehatu
 	mehatxu
-	mehe
 	meheki
 	mehetu
 	mekano
@@ -4559,7 +3587,6 @@
 	memelo
 	memento
 	memoria
-	men
 	menda
 	mendate
 	mende
@@ -4578,19 +3605,15 @@
 	ments
 	mentu
 	mentura
-	menu
-	mera
 	merezi
 	merio
 	meritu
 	merkatu
 	merke
 	merla
-	mero
 	mesede
 	mesedez
 	mesias
-	meta
 	metaka
 	metal
 	metano
@@ -4599,30 +3622,19 @@
 	metro
 	metxa
 	mexikar
-	meza
-	mezu
 	mezutu
-	mf
-	mg
-	mh
-	mi
 	miaka
 	miaketa
 	miatu
-	miau
 	miauka
 	miaztu
-	mihi
 	mihilu
 	mihise
 	mihura
 	mihuri
-	mika
 	mikatz
-	miko
 	mikra
 	mikroi
-	mila
 	milaka
 	milako
 	milia
@@ -4632,7 +3644,6 @@
 	militar
 	milizia
 	mimosa
-	min
 	minbera
 	minbizi
 	mindu
@@ -4652,7 +3663,6 @@
 	minus
 	minutu
 	miopia
-	mira
 	mirabe
 	mirail
 	mirari
@@ -4663,7 +3673,6 @@
 	mirra
 	mirrin
 	mirto
-	miru
 	misera
 	miseria
 	misio
@@ -4672,36 +3681,21 @@
 	miter
 	mitiko
 	mitin
-	mito
 	mitra
 	mizkin
 	mizto
-	mj
-	mk
-	ml
-	mm
-	mmm
-	mmmm
-	mn
-	mno
-	mo
-	moda
 	modal
 	modelo
 	moderno
-	modu
 	moduko
 	modulu
 	moduzko
 	moila
-	moja
 	mokadu
 	moketa
 	mokil
-	moko
 	mokoka
 	mokor
-	mol
 	moldatu
 	molde
 	moleta
@@ -4714,26 +3708,20 @@
 	monje
 	moral
 	mordo
-	more
 	moretu
 	morfema
 	morfina
-	moro
 	morroi
 	mortero
 	mortsa
 	mortu
 	mosaiko
-	mota
 	motel
 	moteldu
 	motibo
-	moto
 	motor
 	motots
-	motu
 	motxila
-	motz
 	moxal
 	mozketa
 	mozki
@@ -4743,14 +3731,7 @@
 	mozolo
 	mozorro
 	moztu
-	mp
-	mq
-	mr
-	ms
-	mt
-	mu
 	mudatu
-	muga
 	mugako
 	mugalde
 	mugarri
@@ -4761,10 +3742,8 @@
 	mugita
 	mugitu
 	mugon
-	muin
 	muino
 	muker
-	muki
 	mukizu
 	mukur
 	mukuru
@@ -4783,8 +3762,6 @@
 	murritz
 	murru
 	murtik
-	mus
-	musa
 	musde
 	museo
 	musika
@@ -4793,7 +3770,6 @@
 	muskulu
 	muslari
 	mustra
-	musu
 	musuka
 	musuri
 	mutazio
@@ -4801,7 +3777,6 @@
 	mutil
 	mutin
 	mutiri
-	mutu
 	mutur
 	muturtu
 	mututu
@@ -4811,20 +3786,12 @@
 	muxika
 	muzin
 	muztio
-	mv
-	mw
-	mx
-	my
-	mz
-	n
-	naba
 	nabala
 	nabar
 	nabari
 	nabasi
 	nafar
 	nafta
-	nagi
 	nagiki
 	nagitu
 	nagusi
@@ -4832,7 +3799,6 @@
 	nahasle
 	nahaste
 	nahastu
-	nahi
 	nahiera
 	nahiez
 	nahiko
@@ -4840,13 +3806,10 @@
 	nahita
 	nahiz
 	nakar
-	nano
 	narda
 	nardatu
 	nardo
-	nare
 	naretu
-	naro
 	naroki
 	naroro
 	narotu
@@ -4854,29 +3817,20 @@
 	narras
 	narrio
 	narru
-	nasa
 	nasai
 	nasaiki
 	naski
 	natura
 	natural
 	nausa
-	naza
-	nazi
 	nazio
 	nazismo
 	nazka
 	nazkatu
-	nb
-	nc
-	nd
-	ne
-	neba
 	negar
 	negarti
 	negel
 	negozio
-	negu
 	negute
 	negutu
 	nehoiz
@@ -4885,7 +3839,6 @@
 	nehor
 	nekaldi
 	nekatu
-	neke
 	nekepe
 	neketsu
 	nekez
@@ -4897,58 +3850,35 @@
 	neska
 	neskame
 	neskato
-	net
-	neu
 	neure
 	neurona
 	neurri
 	neurtu
 	neutral
 	neutro
-	nf
-	ng
-	nh
-	ni
 	nibel
 	nihaur
 	nikel
 	niketz
 	ninfa
-	nini
 	ninika
 	niretu
 	nitro
-	nj
-	nk
-	nl
-	nm
-	nn
-	nnn
-	nnnn
-	no
 	nobela
 	noble
-	noel
-	noiz
 	noizko
 	noiztik
-	noka
 	noketa
-	nola
 	nolako
 	nolatan
 	nolaz
 	nomada
-	non
 	nonbait
 	nondar
 	nondik
 	nongo
 	nonius
 	nontsu
-	nop
-	nor
-	nora
 	noraino
 	norako
 	norantz
@@ -4961,96 +3891,57 @@
 	nortu
 	nortzuk
 	noski
-	nota
 	notario
 	notizia
 	nozitu
-	np
-	nq
-	nr
-	ns
-	nt
-	nu
 	nuklear
 	nukleo
-	nulu
 	numero
-	nv
-	nw
-	nx
-	ny
 	nylon
-	nz
-	o
-	oasi
-	ob
-	obal
 	obalo
 	obeditu
 	objektu
-	obra
 	obratu
-	obus
-	oc
-	od
-	oda
-	odol
 	odoldu
 	odolki
 	odoltsu
-	oe
-	of
 	ofizial
 	ofizio
-	og
 	ogale
 	ogasun
-	ogen
-	ogi
 	ogibide
 	ogidun
 	ogitsu
-	oh
 	ohaide
 	ohako
 	ohantze
-	ohar
 	oharmen
 	oharpen
 	oharti
 	ohartu
 	ohatu
 	ohatze
-	ohe
 	ohepe
 	oheratu
-	ohi
 	ohiko
-	ohil
 	ohildu
 	ohitu
 	ohitura
 	ohizko
 	ohoin
-	ohol
 	oholtza
 	ohoratu
 	ohore
-	oi
-	oies
 	oihal
 	oihan
 	oiher
-	oihu
 	oihuka
 	oihuz
 	oilaki
 	oilar
 	oilasko
-	oilo
 	oiloki
 	oilotu
-	oin
 	oinarri
 	oinatz
 	oinaze
@@ -5062,9 +3953,6 @@
 	oinorde
 	oinpe
 	oinuts
-	oj
-	ok
-	oka
 	okada
 	okaila
 	okapi
@@ -5072,40 +3960,28 @@
 	okasio
 	okatu
 	okela
-	oker
 	okerka
 	okerki
 	okertu
-	okil
-	okin
 	okitu
 	okume
 	okupatu
-	ol
-	ola
 	olata
 	olatu
 	oldar
 	oldartu
-	olde
 	olerki
 	olerti
-	oles
 	oleska
 	olgatu
 	olgeta
 	olgetan
 	oliatu
 	oliba
-	olio
-	olo
-	om
-	omen
 	omendu
 	omenez
 	omenka
 	omonier
-	on
 	onarpen
 	onartu
 	onbera
@@ -5115,7 +3991,6 @@
 	ondasun
 	onddo
 	ondiko
-	ondo
 	ondoan
 	ondoez
 	ondoko
@@ -5126,7 +4001,6 @@
 	ondotik
 	ondotxo
 	ondra
-	ondu
 	oneratu
 	oneski
 	onesle
@@ -5134,13 +4008,10 @@
 	onest
 	onetsi
 	ongarri
-	ongi
 	ongile
 	ongin
 	ongitu
 	ongitxo
-	onik
-	onil
 	onize
 	ontasun
 	ontsa
@@ -5150,11 +4021,6 @@
 	ontzako
 	ontzi
 	onura
-	oo
-	ooo
-	oooo
-	op
-	opa
 	opagai
 	opaka
 	opaku
@@ -5166,16 +4032,10 @@
 	opera
 	operatu
 	opetsi
-	opil
 	opildu
-	opio
-	opor
 	opots
-	opq
 	optika
 	optiko
-	oq
-	or
 	orain
 	oraingo
 	oraino
@@ -5188,7 +4048,6 @@
 	orbita
 	orburu
 	ordain
-	orde
 	ordea
 	ordean
 	ordeka
@@ -5200,36 +4059,27 @@
 	ordeztu
 	ordoki
 	ordots
-	ordu
 	orduan
 	orduka
 	orduko
 	ordutik
-	ore
 	orein
 	oreka
 	orekan
 	orekatu
-	oren
 	orezta
-	orga
 	organo
 	orgari
 	orgasmo
 	orgia
-	orin
 	oritz
 	oriya
-	orka
 	orkatz
 	orkoi
 	orkoro
 	orkume
 	orlegi
-	orno
-	oro
 	orobat
-	oroi
 	oroimen
 	oroipen
 	oroit
@@ -5239,45 +4089,33 @@
 	orotar
 	orotara
 	orots
-	orpo
 	orratz
 	orraze
 	orrazi
 	orraztu
-	orre
-	orri
-	orro
 	orroka
-	ortu
 	ortzi
 	orube
-	os
 	osaba
 	osaera
 	osagai
 	osasun
 	osatu
-	osin
 	oskarbi
-	oski
 	oskol
 	oskorri
 	osloar
 	osmosi
-	oso
 	osoki
 	osoko
 	osorik
 	osoro
 	osotu
-	ospa
 	ospatu
-	ospe
 	ospel
 	ospetsu
 	ostaler
 	ostatu
-	oste
 	ostean
 	ostegun
 	osteka
@@ -5290,18 +4128,12 @@
 	ostots
 	ostra
 	ostruka
-	ostu
-	ot
 	otadi
 	otamen
-	otar
 	otardi
 	otarre
-	ote
 	oteme
-	oti
 	otitis
-	otoi
 	otoika
 	otoitu
 	otoitz
@@ -5311,55 +4143,38 @@
 	otsail
 	otsein
 	otseme
-	otso
 	otsoko
-	otu
 	otzan
 	otzara
-	ou
-	ov
-	ow
-	ox
 	oxala
 	oxido
 	oxigeno
-	oy
-	oz
-	ozar
 	ozarki
 	ozartu
 	ozeano
-	ozen
 	ozendu
 	ozenki
 	ozono
 	ozpin
 	ozpindu
-	ozta
 	oztopo
-	p
 	pabana
 	pabiloi
 	padera
 	padura
 	paella
-	pafa
-	paga
 	pagadi
 	pagano
 	pagatu
-	pago
 	pagoda
 	pagoki
 	pagotxa
-	pagu
 	pailazo
 	pairatu
 	pairu
 	paisaia
 	paita
 	pakete
-	pala
 	palanka
 	palari
 	palazio
@@ -5367,12 +4182,9 @@
 	paleta
 	palma
 	palote
-	palu
-	pana
 	panda
 	pandero
 	paneka
-	panp
 	panpina
 	panpox
 	panteoi
@@ -5382,13 +4194,10 @@
 	paparo
 	paper
 	papiro
-	papo
 	papur
-	para
 	parada
 	paraje
 	paratu
-	pare
 	parean
 	pareko
 	parera
@@ -5402,11 +4211,9 @@
 	partidu
 	partitu
 	partxe
-	pasa
 	pasaka
 	pasarte
 	pasatu
-	pase
 	paseatu
 	paseo
 	pasibo
@@ -5414,7 +4221,6 @@
 	pasillo
 	pasio
 	pasmo
-	paso
 	pasta
 	pastel
 	patar
@@ -5426,9 +4232,7 @@
 	patio
 	patrika
 	patroi
-	pats
 	pattar
-	patu
 	patxada
 	pauma
 	pausatu
@@ -5436,18 +4240,11 @@
 	pausu
 	pazia
 	pazko
-	pb
-	pc
-	pd
-	pe
 	pedal
 	pegar
 	peitu
-	peka
 	pekada
 	pekari
-	peko
-	pena
 	penalti
 	penatu
 	pendiz
@@ -5455,7 +4252,6 @@
 	pentsio
 	pentsu
 	pentze
-	peoi
 	peonia
 	pepino
 	perfume
@@ -5471,44 +4267,28 @@
 	pertz
 	pesia
 	peskiza
-	peso
 	petalo
-	peto
 	petral
 	petunia
 	petxa
-	peza
 	pezako
 	pezeta
 	pezoi
-	pezu
-	pf
-	pg
-	ph
-	pi
 	piano
 	pieza
 	pigmeo
 	pijama
-	pijo
-	pik
-	pika
 	pikaro
 	pikart
 	pikatu
-	pike
-	piko
 	pikoi
 	pikor
 	pikota
 	pikotx
-	piku
-	pila
 	pilaka
 	pilare
 	pilatu
 	pilda
-	pilo
 	pilota
 	pilotu
 	pilpira
@@ -5524,24 +4304,18 @@
 	pintura
 	pintz
 	pintzel
-	pinu
 	pinudi
-	pipa
 	pipatu
 	piper
-	pipi
 	pipil
 	pipita
 	pirata
 	pirita
-	piro
-	piru
 	piruka
 	pisatu
 	pista
 	pistoi
 	pistola
-	pisu
 	pisutsu
 	pisutu
 	pitar
@@ -5552,7 +4326,6 @@
 	pitxer
 	pitxo
 	pitzatu
-	pixa
 	pixar
 	pixka
 	pixkana
@@ -5561,20 +4334,15 @@
 	piztia
 	piztu
 	pizza
-	pj
-	pk
-	pl
 	plagio
 	plaka
 	plama
-	plan
 	planeta
 	plano
 	planta
 	planto
 	plantxa
 	plasma
-	plat
 	plater
 	plato
 	plaust
@@ -5588,10 +4356,6 @@
 	pleura
 	plomu
 	plural
-	plus
-	pm
-	pn
-	po
 	pobre
 	pobretu
 	poderio
@@ -5611,16 +4375,12 @@
 	poliza
 	polizia
 	polka
-	polo
 	poltsa
 	ponpa
 	ponte
-	popa
-	pope
 	populu
 	pordoi
 	porlan
-	poro
 	porro
 	porrot
 	porru
@@ -5633,21 +4393,15 @@
 	postari
 	postu
 	postura
-	pot
-	pota
 	potasa
-	pote
 	potin
 	potka
-	poto
 	potolo
 	potret
 	potro
 	pottoka
 	poxelu
-	poxi
 	poxika
-	poz
 	pozaldi
 	pozbide
 	pozik
@@ -5655,12 +4409,6 @@
 	pozoi
 	pozoitu
 	poztu
-	pp
-	ppp
-	pppp
-	pq
-	pqr
-	pr
 	praka
 	praxi
 	prediku
@@ -5699,144 +4447,62 @@
 	prosa
 	protoi
 	prozesu
-	ps
 	psike
-	pt
-	pu
 	publiko
-	puda
 	puies
 	pultsu
-	puma
 	punpa
 	punpaka
 	punta
 	puntu
-	pure
 	purga
 	purpura
 	purra
-	puru
 	pusaka
 	pusatu
 	puska
 	puskatu
 	pusketa
 	pusla
-	puta
 	putar
 	putiko
 	putre
-	putz
 	putzu
 	puxika
 	puzka
 	puzker
 	puztu
 	puzzle
-	pv
-	pw
-	px
-	py
-	pz
-	q
-	qb
-	qc
-	qd
-	qe
-	qf
-	qg
-	qh
-	qi
-	qj
-	qk
-	ql
-	qm
-	qn
-	qo
-	qp
-	qq
-	qqq
-	qqqq
-	qr
-	qrs
-	qs
-	qt
-	qu
 	quasar
 	quorum
-	qv
-	qw
-	qx
-	qy
-	qz
-	r
 	radar
 	radio
-	raja
 	rally
 	ramadan
-	rb
-	rc
-	rd
-	re
 	renio
-	rf
-	rg
-	rh
-	ri
 	riadar
-	rj
-	rk
-	rl
-	rm
-	rn
-	ro
 	robot
 	rodio
-	rol
-	ron
-	rp
-	rq
-	rr
-	rrr
-	rrrr
-	rs
-	rst
-	rt
-	ru
-	rv
-	rw
-	rx
-	ry
-	rz
-	s
 	sabai
 	sabel
-	sabi
 	sable
 	sadiko
 	safari
 	sagar
 	sagara
 	sagardo
-	sagu
 	saguzar
 	saharar
 	sahats
-	sai
 	saialdi
 	saiatu
 	saieta
 	saihets
-	sail
 	sailean
 	sailka
 	saindu
-	saio
 	sakan
 	sakatu
-	sake
 	sakela
 	sakon
 	sakondu
@@ -5844,7 +4510,6 @@
 	sakratu
 	sakre
 	sakro
-	sala
 	salami
 	salati
 	salatu
@@ -5864,7 +4529,6 @@
 	saltoka
 	saltoki
 	saltsa
-	sama
 	samalda
 	samar
 	samartu
@@ -5874,15 +4538,12 @@
 	samoar
 	samur
 	samurtu
-	san
 	sanba
 	sandia
 	sandu
 	sango
-	sano
 	santa
 	santu
-	sapa
 	sapar
 	saratu
 	sarbide
@@ -5890,12 +4551,10 @@
 	sarde
 	sardina
 	sardio
-	sare
 	sareta
 	saretu
 	sargia
 	sargori
-	sari
 	saritu
 	sarkor
 	saroi
@@ -5903,7 +4562,6 @@
 	sarri
 	sartu
 	sartze
-	sasi
 	sasidi
 	sasiko
 	sasipe
@@ -5918,16 +4576,9 @@
 	satira
 	satiro
 	sator
-	sats
 	satsu
 	sauna
 	saxofoi
-	sb
-	sc
-	sd
-	se
-	sebo
-	sega
 	segada
 	segail
 	segatu
@@ -5942,26 +4593,20 @@
 	segurki
 	seguru
 	sehaska
-	sehi
-	sei
 	seiehun
 	seiko
 	seilu
-	sein
 	seina
 	seinale
 	seira
 	seiren
-	seko
 	sekretu
 	sekta
 	sektore
 	sekula
 	sekular
 	sekzio
-	seme
 	semetxo
-	sen
 	senar
 	senatu
 	sendatu
@@ -5986,25 +4631,18 @@
 	sesamo
 	sesio
 	seska
-	seta
 	setati
 	setatsu
 	setatu
 	setiatu
 	setio
 	setoso
-	sexu
 	sexual
-	sf
-	sg
-	sh
-	si
 	siesta
 	sifili
 	sikate
 	sikatu
 	siklo
-	siku
 	silaba
 	silize
 	silueta
@@ -6021,38 +4659,24 @@
 	sintaxi
 	sintesi
 	sintoma
-	sinu
 	sirats
 	sirena
 	siriar
 	sistema
-	sits
-	sj
-	sk
-	sl
 	slogan
-	sm
-	sn
-	so
 	sobera
 	sobiet
 	sobra
-	soda
 	sodiko
 	sodio
-	sofa
 	sofiar
 	sofista
-	soil
 	soildu
 	soilik
 	soilki
-	soin
 	soinean
 	soineko
 	soinu
-	soja
-	soka
 	sokil
 	sokorri
 	solairu
@@ -6062,18 +4686,15 @@
 	solfeo
 	soliba
 	solido
-	solo
 	solomo
 	solte
 	soluzio
 	somier
-	sona
 	sonar
 	sonata
 	sonatu
 	soneto
 	soprano
-	sor
 	soraio
 	sorburu
 	sorgin
@@ -6083,34 +4704,20 @@
 	sorki
 	sorleku
 	sormen
-	soro
 	sorrera
 	sorta
 	sortatu
 	sortu
 	sortze
-	sos
 	sosdun
 	sosegu
 	soska
 	soslai
 	sotana
 	sotil
-	soto
 	sozial
 	sozio
-	sp
-	sq
-	sr
-	ss
-	sss
-	ssss
-	st
-	stop
-	stu
-	su
 	sualdi
-	suan
 	subil
 	sudun
 	sudur
@@ -6121,29 +4728,22 @@
 	sufritu
 	sugai
 	sugar
-	suge
 	suhar
 	suharki
-	suhi
-	suil
 	suite
 	suitzar
 	sujet
 	sukalde
 	sukar
-	suko
 	sukoi
 	sukor
 	sultan
-	suma
 	sumatu
 	sumendi
 	sumin
 	sumindu
 	sunda
 	supitu
-	sura
-	surf
 	surmur
 	susara
 	susmatu
@@ -6154,27 +4754,17 @@
 	sutako
 	sutan
 	sutara
-	sute
 	sutegi
 	sutik
 	sutondo
 	sutsu
-	sutu
 	sutzar
 	suziri
-	sv
-	sw
-	sx
-	sy
-	sz
-	t
 	tabako
 	taberna
-	tabu
 	tagalo
 	tailer
 	tailu
-	taka
 	takar
 	taket
 	takoi
@@ -6187,7 +4777,6 @@
 	talentu
 	talka
 	talko
-	talo
 	tamaina
 	tamal
 	tamalez
@@ -6203,8 +4792,6 @@
 	tantai
 	tantaka
 	tanto
-	tanu
-	tapa
 	tapaki
 	tapatu
 	tapitu
@@ -6220,33 +4807,22 @@
 	tarteka
 	tarteko
 	tasun
-	tato
 	tatxa
 	taula
 	taulen
 	taupada
 	taupaka
-	taxi
-	taxu
 	taxutu
 	taxuz
-	tb
-	tc
-	td
-	te
 	teatro
-	tegi
 	teila
 	teilatu
-	teiu
 	teiutu
 	tekla
 	teknika
 	tekniko
-	tela
 	telex
 	telugu
-	tema
 	temati
 	tematsu
 	tematu
@@ -6276,36 +4852,24 @@
 	terral
 	terraza
 	terrore
-	tesi
 	tesoro
-	test
 	testigu
 	testu
 	tetele
-	tf
-	tg
-	th
-	ti
 	tifoi
 	tifus
 	tigre
 	tilape
-	timo
-	tina
 	tinbal
 	tinbre
 	tindatu
 	tindu
-	tini
-	tink
 	tinkatu
 	tinki
 	tinko
 	tinta
 	tipiko
-	tipo
 	tipula
-	tira
 	tirain
 	tiraka
 	tiraldi
@@ -6313,33 +4877,20 @@
 	tirano
 	tirari
 	tiratu
-	tiro
 	tiroka
 	tirria
 	tirrin
 	tirrit
-	tisi
 	tisiko
-	tita
 	titare
-	titi
 	titiko
 	titulu
 	tiuta
-	tj
-	tk
-	tl
-	tm
-	tn
-	to
 	tobera
 	togoar
-	toil
 	toildu
-	toka
 	tokatu
 	toketa
-	toki
 	tokika
 	tokilo
 	tokitan
@@ -6347,21 +4898,14 @@
 	tolestu
 	tolet
 	tomate
-	tomo
-	tona
 	tonatu
 	tonba
 	tonto
 	tontor
-	tonu
-	topa
 	topatu
-	tope
 	topeka
 	topiko
-	topo
 	torax
-	tori
 	torloju
 	tornu
 	torta
@@ -6373,14 +4917,9 @@
 	totel
 	totelka
 	totem
-	toto
 	totolo
-	toxa
 	toxiko
 	toxina
-	tp
-	tq
-	tr
 	traba
 	trabatu
 	trabes
@@ -6409,7 +4948,6 @@
 	trefla
 	tregoa
 	tremes
-	tren
 	trenpu
 	trepeta
 	tresna
@@ -6440,7 +4978,6 @@
 	trufa
 	trufatu
 	trufaz
-	truk
 	trukatu
 	truke
 	trukean
@@ -6448,16 +4985,9 @@
 	trumoi
 	trust
 	truxu
-	ts
-	tsar
-	tt
 	ttantta
 	ttipi
-	ttt
-	tttt
-	tu
 	tuaxa
-	tuka
 	tulipa
 	tunel
 	tunika
@@ -6465,7 +4995,6 @@
 	tuntun
 	tuntur
 	tuntux
-	tupa
 	tupiki
 	tupina
 	turismo
@@ -6475,14 +5004,8 @@
 	turroi
 	turrut
 	turuta
-	tute
 	tutik
 	tutore
-	tutu
-	tuv
-	tv
-	tw
-	tx
 	txabola
 	txadar
 	txahal
@@ -6509,7 +5032,6 @@
 	txapa
 	txapel
 	txapin
-	txar
 	txara
 	txarki
 	txarro
@@ -6551,9 +5073,7 @@
 	txingor
 	txinta
 	txintik
-	txio
 	txioka
-	txip
 	txipa
 	txipi
 	txirla
@@ -6564,12 +5084,10 @@
 	txirula
 	txiste
 	txistu
-	txit
 	txita
 	txitan
 	txitxi
 	txiza
-	txo
 	txofer
 	txoil
 	txoko
@@ -6591,23 +5109,12 @@
 	txota
 	txotx
 	txotxo
-	txu
 	txukun
 	txuleta
 	txurro
-	ty
-	tz
-	tzar
-	u
-	ub
-	ubel
 	ubeldu
 	ubera
 	ubide
-	uc
-	ud
-	uda
-	udal
 	udalde
 	udaldi
 	udaleku
@@ -6616,14 +5123,10 @@
 	udate
 	udatiar
 	udazken
-	ue
-	uf
-	ufa
 	ufada
 	ufaka
 	ufako
 	ufatu
-	ug
 	ugalde
 	ugaldu
 	ugaltze
@@ -6632,37 +5135,26 @@
 	ugatz
 	ugazaba
 	ugaztun
-	uger
 	ugerdo
 	ugertu
-	uh
 	uhaga
 	uhaitz
-	uhal
-	uhar
 	uharka
 	uharte
-	uher
 	uhertu
-	uhin
 	uholde
 	uhuri
-	ui
-	uj
-	uk
 	ukabil
 	ukaezin
 	ukakor
 	ukaldi
 	ukamen
-	ukan
 	ukapen
 	ukarai
 	ukatu
 	ukatze
 	ukazio
 	ukendu
-	uki
 	ukiera
 	ukiezin
 	ukigai
@@ -6670,51 +5162,34 @@
 	ukipen
 	ukitu
 	ukitze
-	uko
 	ukondo
 	ukuilu
 	ukurtu
-	ul
 	ulermen
 	ulertu
 	ulitxa
-	ulu
 	uluka
-	um
 	umatu
-	ume
 	umedun
 	umeki
-	umel
 	umeldu
 	umerri
 	umetoki
 	umetu
 	umetxo
-	umil
 	umildu
 	umilki
-	umo
 	umoki
 	umore
 	umotu
-	un
 	unada
-	unai
 	unaldi
 	unama
 	unatu
-	une
 	unide
 	unitate
 	untxi
-	uo
-	up
-	upa
 	upagin
-	upel
-	uq
-	ur
 	urakan
 	uraldi
 	uranio
@@ -6729,43 +5204,33 @@
 	urdaki
 	urdama
 	urdanga
-	urde
 	urdeki
 	urdetu
 	urdin
 	urdindu
-	urdu
 	urdun
 	urduri
 	urgazle
 	urguilu
 	urgun
-	urin
-	urka
 	urkabe
 	urkatu
 	urketa
-	urki
 	urkidi
 	urkila
 	urkitz
 	urkor
 	urlia
 	urmael
-	uro
 	uroilo
-	uros
 	uroski
 	urpeko
 	urpetu
-	urra
 	urrako
 	urrats
 	urratu
 	urratze
-	urre
 	urrezko
-	urri
 	urriki
 	urril
 	urrilo
@@ -6782,17 +5247,13 @@
 	urtar
 	urtaro
 	urtatu
-	urte
 	urtebi
 	urtegi
 	urtero
 	urtsu
-	urtu
 	urtume
 	urtze
 	urzale
-	urzo
-	us
 	usadio
 	usaia
 	usaiako
@@ -6802,52 +5263,31 @@
 	usaindu
 	usapal
 	usatu
-	usin
-	usna
 	usnatu
-	uso
 	usoki
 	uspel
-	uste
 	usteko
 	ustel
 	usteldu
 	ustez
 	ustezko
 	ustiatu
-	usu
 	usuki
 	usutu
-	ut
 	utikan
 	utopia
 	utopiko
-	utzi
-	uu
-	uuu
-	uuuu
-	uv
-	uve
-	uvw
-	uw
-	ux
 	uxadan
 	uxaldu
 	uxara
 	uxarka
 	uxatu
-	uxo
 	uxter
-	uy
-	uz
 	uzbeko
-	uzi
 	uzker
-	uzki
 	uzkin
 	uzkur
 	uzkurtu
-	uzta
 	uztai
 	uztail
 	uztar
@@ -6855,92 +5295,25 @@
 	uztarri
 	uztartu
 	uztatu
-	uzte
-	v
-	vb
-	vc
-	vd
-	ve
 	vediko
 	versus
-	vf
-	vg
-	vh
-	vi
 	vienar
-	vj
-	vk
-	vl
-	vm
-	vn
-	vo
 	vodka
-	volt
 	voyeur
-	vp
-	vq
-	vr
-	vs
-	vt
-	vu
-	vv
-	vvv
-	vvvv
-	vw
-	vwx
-	vx
-	vy
-	vz
-	w
-	watt
-	wb
-	wc
-	wd
-	we
 	western
-	wf
-	wg
-	wh
 	whiski
-	wi
-	wj
-	wk
-	wl
-	wm
-	wn
-	wo
-	wp
-	wq
-	wr
-	ws
-	wt
-	wu
-	wv
-	ww
-	www
-	wwww
-	wx
-	wxy
-	wy
-	wz
-	x
 	xabal
 	xaboi
 	xabor
 	xafla
-	xah
 	xahako
 	xahar
-	xahu
 	xahuki
 	xahutu
 	xahutze
-	xai
-	xake
 	xakel
 	xakur
 	xalant
-	xalo
 	xaloki
 	xamar
 	xamur
@@ -6951,7 +5324,6 @@
 	xantre
 	xarbo
 	xarbot
-	xare
 	xarma
 	xarmant
 	xarmatu
@@ -6959,21 +5331,14 @@
 	xatar
 	xaxari
 	xaxatu
-	xb
-	xc
-	xd
-	xe
 	xedapen
 	xedatu
-	xede
 	xedera
 	xehatu
-	xehe
 	xeheka
 	xeheki
 	xehero
 	xeila
-	xeke
 	xelebre
 	xenda
 	xendra
@@ -6984,10 +5349,6 @@
 	xerra
 	xerri
 	xextra
-	xf
-	xg
-	xh
-	xi
 	xidor
 	xiismo
 	xiita
@@ -6999,88 +5360,28 @@
 	xinple
 	xiringa
 	xirio
-	xitu
 	xixare
 	xixpa
 	xixta
-	xj
-	xk
-	xl
-	xm
-	xn
-	xo
-	xoko
 	xoratu
-	xoro
 	xorrotx
 	xorta
-	xotx
-	xp
-	xq
-	xr
-	xs
-	xt
-	xu
 	xuhur
 	xukatu
-	xuko
-	xume
 	xumetu
 	xurgatu
-	xut
 	xuxen
 	xuxurla
-	xv
-	xw
-	xx
-	xxx
-	xxxx
-	xy
-	xyz
-	xz
-	y
 	yanki
 	yarda
-	yb
-	yc
-	yd
-	ye
-	yen
-	yf
-	yg
-	yh
-	yi
 	yiddish
-	yj
-	yk
-	yl
-	ym
-	yn
-	yo
-	yoga
-	yogi
-	yp
-	yq
-	yr
-	ys
-	yt
-	yu
 	yuppie
-	yv
-	yw
-	yx
-	yy
-	yyy
-	yyyy
-	yz
-	z
 	zabal
 	zabaldi
 	zabaldu
 	zabalik
 	zabar
 	zabor
-	zabu
 	zabuka
 	zafiro
 	zafla
@@ -7091,12 +5392,8 @@
 	zaharo
 	zahartu
 	zahato
-	zahi
-	zaia
-	zail
 	zaildu
 	zailki
-	zain
 	zaindu
 	zaingo
 	zaintza
@@ -7107,7 +5404,6 @@
 	zakatz
 	zakil
 	zakote
-	zaku
 	zakuka
 	zakuki
 	zakur
@@ -7116,43 +5412,34 @@
 	zaldi
 	zaldiko
 	zaldun
-	zale
 	zaletu
-	zali
 	zalke
-	zalu
 	zaluki
 	zalutu
-	zama
 	zamaka
 	zamar
 	zamari
 	zamatu
 	zamau
-	zamo
 	zamuka
 	zanbro
 	zanga
 	zangar
 	zango
-	zank
 	zankez
 	zanpatu
 	zanpez
 	zantar
 	zantzo
 	zantzu
-	zapa
 	zapaka
 	zapal
 	zapaldu
 	zapart
 	zapata
 	zapatu
-	zapi
 	zapla
 	zaplada
-	zapo
 	zapore
 	zapotz
 	zaputz
@@ -7164,20 +5451,16 @@
 	zarbo
 	zardai
 	zarden
-	zare
 	zarika
 	zarma
 	zarpa
 	zarpail
 	zarratu
-	zart
 	zarta
 	zartada
 	zartako
 	zartatu
-	zata
 	zatar
-	zati
 	zatika
 	zatiki
 	zatitu
@@ -7189,14 +5472,9 @@
 	zaurtu
 	zazpi
 	zazpiko
-	zb
-	zc
-	zd
-	ze
 	zealdo
 	zebatu
 	zebra
-	zebu
 	zedarri
 	zeden
 	zedro
@@ -7209,28 +5487,22 @@
 	zehatz
 	zehazki
 	zehaztu
-	zehe
-	zeia
 	zeihar
-	zein
 	zeinen
 	zeinu
 	zekale
 	zeken
 	zekor
-	zela
 	zelai
 	zelako
 	zelan
 	zelata
 	zelatan
 	zelatu
-	zelo
 	zelta
 	zelula
 	zemai
 	zementu
-	zen
 	zenbait
 	zenbaki
 	zenbat
@@ -7244,15 +5516,10 @@
 	zentro
 	zentsu
 	zentzu
-	zepa
-	zepo
-	zer
-	zera
 	zeratu
 	zerba
 	zerbait
 	zerbeza
-	zere
 	zeregin
 	zeren
 	zeresan
@@ -7261,7 +5528,6 @@
 	zerio
 	zerki
 	zernahi
-	zero
 	zeroi
 	zerok
 	zerori
@@ -7273,16 +5539,13 @@
 	zertan
 	zertsu
 	zertu
-	zeru
 	zerupe
 	zerutar
 	zesio
 	zesto
-	zeta
 	zetabe
 	zetaka
 	zetro
-	zeu
 	zeuek
 	zeuen
 	zeure
@@ -7290,13 +5553,8 @@
 	zezel
 	zezen
 	zezin
-	zf
-	zg
-	zh
-	zi
 	ziaboga
 	ziape
-	ziba
 	zibil
 	zibota
 	zidor
@@ -7309,7 +5567,6 @@
 	zigortu
 	ziguin
 	zihatu
-	ziho
 	zikin
 	zikindu
 	zikiro
@@ -7318,14 +5575,12 @@
 	ziklope
 	zikoina
 	zikoitz
-	zil
 	zilar
 	zilbor
 	zilbot
 	zildai
 	zildu
 	zilegi
-	zilo
 	zimel
 	zimeldu
 	zimendu
@@ -7334,10 +5589,8 @@
 	zimitz
 	zimur
 	zimurtu
-	zin
 	zinbal
 	zindo
-	zine
 	zinema
 	zinez
 	zinezko
@@ -7345,7 +5598,6 @@
 	zingira
 	ziniko
 	zinismo
-	zink
 	zinka
 	zinki
 	zinpeko
@@ -7353,19 +5605,15 @@
 	zintz
 	zintzo
 	zintzur
-	zio
 	zipla
 	ziplo
 	zipote
 	zipotz
 	zipres
-	zipu
-	zira
 	ziraia
 	ziratu
 	ziraun
 	zirga
-	ziri
 	zirika
 	ziriku
 	zirin
@@ -7375,7 +5623,6 @@
 	zirrara
 	zirri
 	zirritu
-	zirt
 	zirta
 	zirto
 	zirtzil
@@ -7383,19 +5630,14 @@
 	zisku
 	zisma
 	zisne
-	zita
 	zital
 	zitara
 	zitatu
 	zitori
-	zitu
-	ziur
 	ziurki
-	ziza
 	zizare
 	zizel
 	zizpa
-	zizt
 	zizta
 	ziztada
 	ziztatu
@@ -7403,39 +5645,22 @@
 	ziztor
 	ziztrin
 	ziztu
-	zj
-	zk
-	zl
-	zm
-	zn
-	zo
 	zohar
-	zohi
-	zoko
 	zokondo
 	zokor
-	zola
 	zolatu
 	zolda
 	zoldu
-	zoli
 	zolitu
 	zomorro
-	zona
-	zoo
-	zoom
-	zopa
 	zopatu
-	zor
 	zorabio
 	zoramen
 	zoratu
 	zordun
-	zori
 	zorion
 	zoritu
 	zorne
-	zoro
 	zoroki
 	zorpetu
 	zorri
@@ -7443,28 +5668,16 @@
 	zorrotz
 	zorte
 	zortzi
-	zoru
 	zorzor
 	zotal
 	zotin
 	zotinka
 	zotuku
-	zotz
 	zozketa
-	zozo
 	zozoki
 	zozotu
 	zoztor
-	zp
-	zq
-	zr
-	zs
-	zt
-	zu
-	zubi
 	zubipe
-	zudu
-	zuek
 	zuhail
 	zuhain
 	zuhaitz
@@ -7472,29 +5685,22 @@
 	zuhaur
 	zuhur
 	zuhurki
-	zuin
-	zuka
 	zuketa
-	zuku
 	zukutu
 	zulatu
 	zuldar
-	zulo
 	zumar
 	zumardi
-	zume
 	zumitz
 	zunda
 	zuntoi
 	zuntz
-	zur
 	zuraje
 	zurbil
 	zurda
 	zuresi
 	zuretu
 	zurgin
-	zuri
 	zuriko
 	zuritu
 	zuritze
@@ -7504,12 +5710,10 @@
 	zurrun
 	zurrut
 	zurruta
-	zurt
 	zurtoin
 	zurtu
 	zurtz
 	zurubi
-	zut
 	zutabe
 	zutarri
 	zutik
@@ -7519,24 +5723,12 @@
 	zuzen
 	zuzendu
 	zuzenki
-	zuzi
 	zuzitu
 	zuztar
-	zv
-	zw
-	zx
-	zy
-	zz
-	zzz
-	zzzz
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA
-
-   a
-   aa
    aaa
    aaaa
-   ab
    aba
    abaco
    abade
@@ -7579,7 +5771,6 @@ Hash: SHA
    abusar
    abuso
    abutre
-   ac
    acabar
    acacia
    acai
@@ -7628,7 +5819,6 @@ Hash: SHA
    acude
    acudir
    acusar
-   ad
    ada
    adaga
    adagio
@@ -7657,10 +5847,8 @@ Hash: SHA
    adulto
    adunco
    advir
-   ae
    aerea
    aereo
-   af
    afa
    afagar
    afago
@@ -7693,7 +5881,6 @@ Hash: SHA
    afro
    afta
    aftosa
-   ag
    aga
    agarrar
    agata
@@ -7724,8 +5911,6 @@ Hash: SHA
    agudo
    aguia
    agulha
-   ah
-   ai
    aia
    aids
    aimore
@@ -7734,14 +5919,11 @@ Hash: SHA
    aipim
    aipo
    airoso
-   aj
    ajeitar
    ajuda
    ajudar
    ajustar
    ajuste
-   ak
-   al
    ala
    alado
    alagar
@@ -7836,7 +6018,6 @@ Hash: SHA
    alvara
    alvo
    alvura
-   am
    ama
    amado
    amador
@@ -7880,7 +6061,6 @@ Hash: SHA
    ampola
    amuado
    amuar
-   an
    ana
    anagua
    anais
@@ -7939,11 +6119,9 @@ Hash: SHA
    anular
    anus
    anzol
-   ao
    aonde
    aorta
    aos
-   ap
    apache
    apagar
    apara
@@ -7986,14 +6164,12 @@ Hash: SHA
    apurar
    apuro
    apuros
-   aq
    aquela
    aquele
    aquem
    aqui
    aquilo
    aquoso
-   ar
    arabe
    arado
    aragem
@@ -8064,7 +6240,6 @@ Hash: SHA
    artigo
    artrite
    arvore
-   as
    asa
    asceta
    ascii
@@ -8087,7 +6262,6 @@ Hash: SHA
    astral
    astro
    astuto
-   at
    ata
    atacar
    atache
@@ -8136,7 +6310,6 @@ Hash: SHA
    atuar
    atum
    aturar
-   au
    au-au
    audaz
    audio
@@ -8152,7 +6325,6 @@ Hash: SHA
    autor
    autos
    autuar
-   av
    aval
    avanco
    avante
@@ -8179,15 +6351,11 @@ Hash: SHA
    avoado
    avocar
    avulso
-   aw
-   ax
    axe
    axial
    axila
    axilar
    axioma
-   ay
-   az
    azar
    azarao
    azarar
@@ -8200,7 +6368,6 @@ Hash: SHA
    azoto
    azul
    azulao
-   b
    baba
    babaca
    babacu
@@ -8321,13 +6488,9 @@ Hash: SHA
    bavaro
    bazar
    bazuca
-   bb
    bbb
    bbbb
-   bc
    bcd
-   bd
-   be
    beat
    beata
    beato
@@ -8378,10 +6541,6 @@ Hash: SHA
    betula
    betume
    bexiga
-   bf
-   bg
-   bh
-   bi
    bibelo
    biblia
    biboca
@@ -8444,15 +6603,9 @@ Hash: SHA
    bitola
    bitter
    bituca
-   bj
-   bk
-   bl
    bloco
    blusa
    blusao
-   bm
-   bn
-   bo
    boa
    boa-fe
    boas
@@ -8553,9 +6706,6 @@ Hash: SHA
    boto
    bovino
    boxe
-   bp
-   bq
-   br
    brabo
    braca
    bracal
@@ -8616,9 +6766,6 @@ Hash: SHA
    bruto
    bruxa
    bruxo
-   bs
-   bt
-   bu
    bucha
    bucho
    buda
@@ -8655,12 +6802,6 @@ Hash: SHA
    buzina
    buzio
    buzios
-   bv
-   bw
-   bx
-   by
-   bz
-   c
    caaba
    cabaco
    cabal
@@ -8892,13 +7033,9 @@ Hash: SHA
    cavilha
    cavo
    caxias
-   cb
-   cc
    ccc
    cccc
-   cd
    cde
-   ce
    cear
    cebola
    ceco
@@ -8956,9 +7093,6 @@ Hash: SHA
    cevada
    cevado
    cevar
-   cf
-   cg
-   ch
    cha
    chabu
    chador
@@ -9035,7 +7169,6 @@ Hash: SHA
    chute
    chuva
    chuvao
-   ci
    ciciar
    cicio
    ciclo
@@ -9084,9 +7217,6 @@ Hash: SHA
    civel
    civico
    civil
-   cj
-   ck
-   cl
    cla
    clamar
    clamor
@@ -9115,9 +7245,6 @@ Hash: SHA
    close
    clt
    clube
-   cm
-   cn
-   co
    coacao
    coador
    coagir
@@ -9283,10 +7410,7 @@ Hash: SHA
    coxo
    cozer
    cozido
-   cp
    cpu
-   cq
-   cr
    cracha
    crack
    cranio
@@ -9337,9 +7461,6 @@ Hash: SHA
    cruz
    cruzar
    cruzes
-   cs
-   ct
-   cu
    cuba
    cubano
    cubica
@@ -9408,14 +7529,8 @@ Hash: SHA
    cutelo
    cutia
    cutis
-   cv
-   cw
-   cx
-   cy
-   cz
    czar
    czarina
-   d
    dablio
    dacha
    dacota
@@ -9446,12 +7561,8 @@ Hash: SHA
    datar
    datcha
    dativo
-   db
-   dc
-   dd
    ddd
    dddd
-   de
    deao
    debaixo
    debate
@@ -9549,10 +7660,6 @@ Hash: SHA
    dez
    dezena
    dezoito
-   df
-   dg
-   dh
-   di
    dia
    diabo
    diacho
@@ -9607,12 +7714,6 @@ Hash: SHA
    dizer
    dizima
    dizimo
-   dj
-   dk
-   dl
-   dm
-   dn
-   do
    doacao
    doado
    doador
@@ -9672,9 +7773,6 @@ Hash: SHA
    doutor
    doutro
    doze
-   dp
-   dq
-   dr
    dracar
    dracma
    draga
@@ -9694,9 +7792,6 @@ Hash: SHA
    dropes
    druida
    druso
-   ds
-   dt
-   du
    dual
    duas
    dubio
@@ -9730,18 +7825,10 @@ Hash: SHA
    durou
    duvida
    duzia
-   dv
-   dw
-   dx
-   dy
-   dz
-   e
-   eb
    ebano
    ebcdic
    ebrio
    eburneo
-   ec
    eca
    ecg
    ecler
@@ -9749,7 +7836,6 @@ Hash: SHA
    eco
    ecoar
    eczema
-   ed
    edema
    eden
    edicao
@@ -9760,10 +7846,8 @@ Hash: SHA
    edito
    editor
    educar
-   ee
    eee
    eeee
-   ef
    efe
    efeito
    efendi
@@ -9771,25 +7855,19 @@ Hash: SHA
    eficaz
    efigie
    efusao
-   eg
    egide
    ego
    egoismo
    egregio
    egua
-   eh
-   ei
    eia
    eira
    eis
    eivar
    eixo
    eixos
-   ej
    ejecao
    ejetar
-   ek
-   el
    ela
    elas
    ele
@@ -9806,7 +7884,6 @@ Hash: SHA
    elmo
    elo
    elogio
-   em
    ema
    e-mail
    emanar
@@ -9824,7 +7901,6 @@ Hash: SHA
    empate
    empuxo
    emular
-   en
    encaixe
    encher
    enduro
@@ -9869,20 +7945,16 @@ Hash: SHA
    enxame
    enxuto
    enzima
-   eo
    eolico
-   ep
    epica
    epico
    epoca
    epoxi
    epsom
    epura
-   eq
    equino
    equipar
    equipe
-   er
    era
    eram
    erario
@@ -9910,7 +7982,6 @@ Hash: SHA
    erupcao
    erva
    ervilha
-   es
    esbelto
    esboco
    escada
@@ -9987,7 +8058,6 @@ Hash: SHA
    estudo
    estufa
    esvair
-   et
    eta
    etano
    etanol
@@ -10004,20 +8074,16 @@ Hash: SHA
    etnia
    etnico
    etos
-   eu
    eunuco
    eureca
    euro
    europa
-   ev
    evadir
    evasao
    evasivo
    evento
    evitar
    evocar
-   ew
-   ex
    exalar
    exaltar
    exame
@@ -10048,9 +8114,6 @@ Hash: SHA
    extra
    exu
    exumar
-   ey
-   ez
-   f
    fab
    fabril
    fabula
@@ -10139,10 +8202,6 @@ Hash: SHA
    faxina
    faz
    fazer
-   fb
-   fc
-   fd
-   fe
    feb
    febem
    febrao
@@ -10209,13 +8268,9 @@ Hash: SHA
    feudal
    feudo
    fezes
-   ff
    fff
    ffff
-   fg
    fgh
-   fh
-   fi
    fia
    fiacao
    fiada
@@ -10289,9 +8344,6 @@ Hash: SHA
    fixar
    fixo
    fiz
-   fj
-   fk
-   fl
    fla
    flagra
    flama
@@ -10319,9 +8371,6 @@ Hash: SHA
    flush
    flute
    fluxo
-   fm
-   fn
-   fo
    f.o.b.
    fobia
    fobias
@@ -10387,9 +8436,6 @@ Hash: SHA
    foto
    foton
    foz
-   fp
-   fq
-   fr
    fraca
    fracao
    fraco
@@ -10446,9 +8492,6 @@ Hash: SHA
    frutas
    fruto
    frutos
-   fs
-   ft
-   fu
    fuba
    fuca
    fucar
@@ -10498,12 +8541,6 @@ Hash: SHA
    fuxico
    fuzil
    fuzue
-   fv
-   fw
-   fx
-   fy
-   fz
-   g
    gabar
    gabiru
    gado
@@ -10575,10 +8612,6 @@ Hash: SHA
    gaze
    gazela
    gazeta
-   gb
-   gc
-   gd
-   ge
    geada
    gear
    geiser
@@ -10615,13 +8648,9 @@ Hash: SHA
    gesso
    gestao
    gesto
-   gf
-   gg
    ggg
    gggg
-   gh
    ghi
-   gi
    gibao
    gibi
    gigolo
@@ -10636,9 +8665,6 @@ Hash: SHA
    girl
    giro
    giz
-   gj
-   gk
-   gl
    glace
    gladio
    glande
@@ -10656,12 +8682,9 @@ Hash: SHA
    glutao
    gluten
    gluteo
-   gm
-   gn
    gnomo
    gnose
    gnu
-   go
    goela
    gogo
    goi
@@ -10701,9 +8724,6 @@ Hash: SHA
    gozado
    gozar
    gozo
-   gp
-   gq
-   gr
    graal
    graca
    gracas
@@ -10757,9 +8777,6 @@ Hash: SHA
    grupo
    grupos
    gruta
-   gs
-   gt
-   gu
    guache
    guapo
    guara
@@ -10788,12 +8805,6 @@ Hash: SHA
    guri
    guru
    gusa
-   gv
-   gw
-   gx
-   gy
-   gz
-   h
    habil
    habito
    hacker
@@ -10816,10 +8827,6 @@ Hash: SHA
    haste
    havana
    haver
-   hb
-   hc
-   hd
-   he
    hebreu
    hegira
    hein
@@ -10835,12 +8842,8 @@ Hash: SHA
    heroina
    herpes
    hertz
-   hf
-   hg
-   hh
    hhh
    hhhh
-   hi
    hiato
    hidra
    hiena
@@ -10855,12 +8858,6 @@ Hash: SHA
    hit
    hitita
    hiv
-   hj
-   hk
-   hl
-   hm
-   hn
-   ho
    hobby
    hoje
    holismo
@@ -10888,12 +8885,6 @@ Hash: SHA
    hostil
    hot
    hotel
-   hp
-   hq
-   hr
-   hs
-   ht
-   hu
    hum
    humana
    humano
@@ -10905,12 +8896,6 @@ Hash: SHA
    hurra
    husky
    hutu
-   hv
-   hw
-   hx
-   hy
-   hz
-   i
    iaia
    ianque
    iansa
@@ -10918,12 +8903,9 @@ Hash: SHA
    iara
    iataga
    iate
-   ib
    ibis
-   ic
    icar
    icone
-   id
    ida
    idade
    ideal
@@ -10938,11 +8920,8 @@ Hash: SHA
    idoneo
    idos
    idoso
-   ie
    ien
    iene
-   if
-   ig
    igapo
    igara
    iglu
@@ -10952,14 +8931,9 @@ Hash: SHA
    igreja
    igual
    iguana
-   ih
-   ii
    iii
    iiii
-   ij
    ijk
-   ik
-   il
    ilacao
    ilegal
    ileso
@@ -10969,7 +8943,6 @@ Hash: SHA
    iludido
    iludir
    ilusao
-   im
    ima
    imagem
    imbu
@@ -10991,7 +8964,6 @@ Hash: SHA
    impuro
    imundo
    imune
-   in
    inabil
    inacao
    inalar
@@ -11042,7 +9014,6 @@ Hash: SHA
    invasor
    inveja
    inves
-   io
    iodado
    iodar
    iodo
@@ -11055,10 +9026,7 @@ Hash: SHA
    ionico
    ioruba
    iota
-   ip
    ipe
-   iq
-   ir
    ira
    irado
    irar
@@ -11072,7 +9040,6 @@ Hash: SHA
    irra
    irreal
    ir-se
-   is
    isbn
    isca
    isento
@@ -11085,19 +9052,11 @@ Hash: SHA
    isso
    istmo
    isto
-   it
    italia
    item
    iterar
    itrio
-   iu
    iuane
-   iv
-   iw
-   ix
-   iy
-   iz
-   j
    jaba
    jaburu
    jabuti
@@ -11133,10 +9092,6 @@ Hash: SHA
    jazida
    jazigo
    jazz
-   jb
-   jc
-   jd
-   je
    jeca
    jegue
    jeitao
@@ -11148,24 +9103,14 @@ Hash: SHA
    jersei
    jesus
    jetom
-   jf
-   jg
-   jh
-   ji
    jiboia
    jihad
    jilo
    jingle
    jipe
-   jj
    jjj
    jjjj
-   jk
    jkl
-   jl
-   jm
-   jn
-   jo
    joana
    joao
    job
@@ -11190,12 +9135,6 @@ Hash: SHA
    joule
    jovem
    jovial
-   jp
-   jq
-   jr
-   js
-   jt
-   ju
    juba
    jubilo
    judeu
@@ -11234,41 +9173,9 @@ Hash: SHA
    justo
    juta
    juvenil
-   jv
-   jw
-   jx
-   jy
-   jz
-   k
-   kb
-   kc
-   kd
-   ke
-   kf
-   kg
-   kh
-   ki
-   kj
-   kk
    kkk
    kkkk
-   kl
    klm
-   km
-   kn
-   ko
-   kp
-   kq
-   kr
-   ks
-   kt
-   ku
-   kv
-   kw
-   kx
-   ky
-   kz
-   l
    labaro
    labia
    labial
@@ -11352,10 +9259,6 @@ Hash: SHA
    lavrado
    lavrar
    lazer
-   lb
-   lc
-   ld
-   le
    leal
    leao
    lebre
@@ -11419,13 +9322,9 @@ Hash: SHA
    levita
    lexema
    lexico
-   lf
-   lg
-   lh
    lhama
    lhe
    lhufas
-   li
    liame
    libelo
    libero
@@ -11496,15 +9395,9 @@ Hash: SHA
    lixar
    lixeiro
    lixo
-   lj
-   lk
-   ll
    lll
    llll
-   lm
    lmn
-   ln
-   lo
    lob
    lobby
    lobo
@@ -11552,12 +9445,6 @@ Hash: SHA
    lousa
    louvar
    louvor
-   lp
-   lq
-   lr
-   ls
-   lt
-   lu
    lua
    luar
    lucido
@@ -11593,12 +9480,6 @@ Hash: SHA
    luxar
    luxo
    luz
-   lv
-   lw
-   lx
-   ly
-   lz
-   m
    maca
    macaco
    macada
@@ -11747,11 +9628,7 @@ Hash: SHA
    maxixe
    mazela
    mazorca
-   mb
-   mc
-   md
    mdc
-   me
    meada
    meado
    mece
@@ -11834,10 +9711,6 @@ Hash: SHA
    mexer
    mexida
    mexido
-   mf
-   mg
-   mh
-   mi
    miado
    miar
    miau
@@ -11903,16 +9776,10 @@ Hash: SHA
    miudo
    miudos
    mixar
-   mj
-   mk
-   ml
-   mm
    mmc
    mmm
    mmmm
-   mn
    mno
-   mo
    moagem
    mobile
    moca
@@ -12007,12 +9874,6 @@ Hash: SHA
    movel
    movem
    mover
-   mp
-   mq
-   mr
-   ms
-   mt
-   mu
    muamba
    muar
    muarra
@@ -12062,12 +9923,6 @@ Hash: SHA
    mutua
    mutuca
    mutuo
-   mv
-   mw
-   mx
-   my
-   mz
-   n
    nababo
    nabo
    nacao
@@ -12119,10 +9974,6 @@ Hash: SHA
    navio
    navios
    nazi
-   nb
-   nc
-   nd
-   ne
    neca
    necas
    nectar
@@ -12164,11 +10015,7 @@ Hash: SHA
    nevoa
    newton
    nexo
-   nf
-   ng
-   nh
    nhoque
-   ni
    niaia
    nicho
    nife
@@ -12190,14 +10037,8 @@ Hash: SHA
    nitrilo
    nivel
    nivoso
-   nj
-   nk
-   nl
-   nm
-   nn
    nnn
    nnnn
-   no
    nobre
    nocao
    nocivo
@@ -12241,12 +10082,6 @@ Hash: SHA
    novico
    novo
    noz
-   np
-   nq
-   nr
-   ns
-   nt
-   nu
    nuanca
    nubente
    nubio
@@ -12267,15 +10102,8 @@ Hash: SHA
    nutrir
    nuvem
    nuvens
-   nv
-   nw
-   nx
-   ny
-   nz
-   o
    oab
    oasis
-   ob
    oba
    obcecar
    obeso
@@ -12292,7 +10120,6 @@ Hash: SHA
    obtuso
    obus
    obvio
-   oc
    oca
    ocapi
    ocara
@@ -12310,16 +10137,13 @@ Hash: SHA
    oculos
    oculto
    ocupar
-   od
    ode
    odiar
    odio
    odioso
    odor
-   oe
    oea
    oeste
-   of
    ofegar
    ofensa
    oferta
@@ -12327,20 +10151,14 @@ Hash: SHA
    oficio
    ofidico
    ofidio
-   og
    ogiva
    ogum
-   oh
    ohm
-   oi
    oigale
    oit
    oitava
    oitavo
    oito
-   oj
-   ok
-   ol
    ola
    olaria
    ole
@@ -12358,14 +10176,12 @@ Hash: SHA
    olimpo
    olmo
    olor
-   om
    ombro
    ombros
    omega
    omisso
    omitir
    omolu
-   on
    onca
    onda
    ondas
@@ -12378,10 +10194,8 @@ Hash: SHA
    onu
    onus
    onze
-   oo
    ooo
    oooo
-   op
    opa
    opaco
    opala
@@ -12400,8 +10214,6 @@ Hash: SHA
    optar
    optico
    opus
-   oq
-   or
    ora
    oracao
    orador
@@ -12421,7 +10233,6 @@ Hash: SHA
    orla
    ornar
    ornato
-   os
    oscar
    osco
    osculo
@@ -12433,13 +10244,11 @@ Hash: SHA
    osso
    ossudo
    ostra
-   ot
    otario
    otica
    otico
    otimo
    otite
-   ou
    oua
    ouricar
    ourico
@@ -12457,7 +10266,6 @@ Hash: SHA
    ouvi
    ouvido
    ouvir
-   ov
    ova
    ovacao
    oval
@@ -12469,18 +10277,13 @@ Hash: SHA
    ovo
    ovos
    ovulo
-   ow
-   ox
    oxala
    oxente
    oxidar
    oxido
    oxiuro
    oxossi
-   oy
-   oz
    ozonio
-   p
    paca
    pacas
    pacato
@@ -12631,10 +10434,6 @@ Hash: SHA
    paz
    pazada
    pazes
-   pb
-   pc
-   pd
-   pe
    peao
    peca
    pecado
@@ -12735,11 +10534,7 @@ Hash: SHA
    peteca
    petiz
    pezada
-   pf
-   pg
-   ph
    philips
-   pi
    pia
    piada
    piado
@@ -12834,9 +10629,6 @@ Hash: SHA
    pixel
    pixote
    pizza
-   pj
-   pk
-   pl
    pla
    placa
    placar
@@ -12861,11 +10653,8 @@ Hash: SHA
    pluma
    plural
    plutao
-   pm
-   pn
    pnb
    pneu
-   po
    pobre
    pobres
    poca
@@ -12975,12 +10764,9 @@ Hash: SHA
    povinho
    povo
    povoar
-   pp
    ppp
    pppp
-   pq
    pqr
-   pr
    pra
    praca
    prado
@@ -13058,13 +10844,10 @@ Hash: SHA
    proveta
    provir
    prumo
-   ps
    psi
    psique
    psit
    psiu
-   pt
-   pu
    pub
    pubere
    pubico
@@ -13112,35 +10895,9 @@ Hash: SHA
    puxar
    puxe
    puzzle
-   pv
-   pw
-   px
-   py
-   pz
-   q
-   qb
-   qc
-   qd
-   qe
-   qf
-   qg
-   qh
-   qi
-   qj
-   qk
-   ql
-   qm
-   qn
-   qo
-   qp
-   qq
    qqq
    qqqq
-   qr
    qrs
-   qs
-   qt
-   qu
    qua
    quadra
    quadro
@@ -13195,12 +10952,6 @@ Hash: SHA
    quo
    quorum
    quota
-   qv
-   qw
-   qx
-   qy
-   qz
-   r
    rabada
    rabano
    rabeca
@@ -13284,10 +11035,6 @@ Hash: SHA
    rato
    ravina
    razao
-   rb
-   rc
-   rd
-   re
    reaca
    reacao
    reagir
@@ -13409,10 +11156,6 @@ Hash: SHA
    rezado
    rezar
    rezas
-   rf
-   rg
-   rh
-   ri
    riacho
    ribeiro
    ricaco
@@ -13455,12 +11198,6 @@ Hash: SHA
    ritual
    rival
    rixa
-   rj
-   rk
-   rl
-   rm
-   rn
-   ro
    robalo
    robe
    robo
@@ -13530,15 +11267,9 @@ Hash: SHA
    roupas
    roxo
    royal
-   rp
-   rq
-   rr
    rrr
    rrrr
-   rs
    rst
-   rt
-   ru
    rua
    ruas
    rubi
@@ -13583,12 +11314,6 @@ Hash: SHA
    russia
    russo
    rutilar
-   rv
-   rw
-   rx
-   ry
-   rz
-   s
    sabado
    sabao
    saber
@@ -13694,12 +11419,8 @@ Hash: SHA
    sax
    saxao
    sazonal
-   sb
-   sc
    screen
    script
-   sd
-   se
    seara
    sebe
    sebo
@@ -13800,15 +11521,11 @@ Hash: SHA
    sexto
    sexual
    sexy
-   sf
-   sg
-   sh
    shalom
    sheik
    shevat
    short
    show
-   si
    siames
    sicrano
    sida
@@ -13856,14 +11573,8 @@ Hash: SHA
    sitio
    situar
    sivan
-   sj
-   sk
-   sl
    slide
    slogan
-   sm
-   sn
-   so
    soado
    soalho
    soante
@@ -13940,7 +11651,6 @@ Hash: SHA
    sovado
    sovar
    sovina
-   sp
    spa
    spaniel
    spin
@@ -13948,12 +11658,8 @@ Hash: SHA
    spray
    spread
    sprint
-   sq
-   sr
-   ss
    sss
    ssss
-   st
    staff
    stand
    star
@@ -13961,7 +11667,6 @@ Hash: SHA
    stf
    stress
    stu
-   su
    sua
    suadar
    suado
@@ -14041,13 +11746,7 @@ Hash: SHA
    sutil
    sutra
    sutura
-   sv
-   sw
    swing
-   sx
-   sy
-   sz
-   t
    taba
    tabaco
    tabefe
@@ -14130,13 +11829,9 @@ Hash: SHA
    taxado
    taxar
    taxi
-   tb
-   tc
    tcha
    tchau
    tcheco
-   td
-   te
    tear
    teaser
    teatro
@@ -14224,10 +11919,6 @@ Hash: SHA
    texto
    texugo
    tez
-   tf
-   tg
-   th
-   ti
    tia
    tiara
    tibia
@@ -14285,12 +11976,6 @@ Hash: SHA
    tititi
    titulo
    tive
-   tj
-   tk
-   tl
-   tm
-   tn
-   to
    toada
    toalha
    toante
@@ -14370,9 +12055,6 @@ Hash: SHA
    touro
    toxico
    toxina
-   tp
-   tq
-   tr
    trabuco
    traca
    tracao
@@ -14476,11 +12158,8 @@ Hash: SHA
    trupe
    truque
    truta
-   ts
-   tt
    ttt
    tttt
-   tu
    tuba
    tubo
    tubos
@@ -14517,42 +12196,24 @@ Hash: SHA
    tutsi
    tutu
    tuv
-   tv
-   tw
-   tx
-   ty
-   tz
-   u
    uai
    uau
-   ub
    ubere
-   uc
    ucp
-   ud
-   ue
-   uf
    ufa
    ufanar
    ufania
    ufo
-   ug
    ugrico
-   uh
-   ui
    uisque
    uiste
    uivar
    uivo
-   uj
-   uk
-   ul
    ulcera
    ulema
    ultima
    ultimo
    ulular
-   um
    uma
    umbanda
    umbigo
@@ -14560,7 +12221,6 @@ Hash: SHA
    umero
    umido
    umlaut
-   un
    uncao
    uncial
    unesco
@@ -14577,12 +12237,8 @@ Hash: SHA
    uno
    uns
    untar
-   uo
-   up
    upa
    upload
-   uq
-   ur
    uranio
    urano
    urbana
@@ -14604,7 +12260,6 @@ Hash: SHA
    urubu
    uruca
    urupe
-   us
    usa
    usado
    usados
@@ -14617,24 +12272,16 @@ Hash: SHA
    usp
    usual
    usura
-   ut
    utero
    uti
    util
    utopia
-   uu
    uuu
    uuuu
-   uv
    uva
    uvula
    uvular
    uvw
-   uw
-   ux
-   uy
-   uz
-   v
    vaca
    vacas
    vacina
@@ -14690,10 +12337,6 @@ Hash: SHA
    vazar
    vazia
    vazio
-   vb
-   vc
-   vd
-   ve
    veado
    veda
    vedado
@@ -14766,10 +12409,6 @@ Hash: SHA
    vexar
    vez
    vezes
-   vf
-   vg
-   vh
-   vi
    via
    viacao
    viaduto
@@ -14850,12 +12489,6 @@ Hash: SHA
    vivido
    vivo
    vizir
-   vj
-   vk
-   vl
-   vm
-   vn
-   vo
    voador
    voar
    vocal
@@ -14890,56 +12523,18 @@ Hash: SHA
    voyeur
    voz
    vozes
-   vp
-   vq
-   vr
-   vs
-   vt
-   vu
    vulcao
    vulgar
    vulgo
    vulto
    vulva
    vupt
-   vv
    vvv
    vvvv
-   vw
    vwx
-   vx
-   vy
-   vz
-   w
-   wb
-   wc
-   wd
-   we
-   wf
-   wg
-   wh
-   wi
-   wj
-   wk
-   wl
-   wm
-   wn
-   wo
-   wp
-   wq
-   wr
-   ws
-   wt
-   wu
-   wv
-   ww
    www
    wwww
-   wx
    wxy
-   wy
-   wz
-   x
    xador
    xadrez
    xale
@@ -14950,10 +12545,6 @@ Hash: SHA
    xaual
    xaxado
    xaxim
-   xb
-   xc
-   xd
-   xe
    xepa
    xeque
    xereta
@@ -14961,10 +12552,6 @@ Hash: SHA
    xerife
    xerocar
    xerox
-   xf
-   xg
-   xh
-   xi
    xicara
    xiita
    xingar
@@ -14974,68 +12561,20 @@ Hash: SHA
    xis
    xisto
    xixi
-   xj
-   xk
-   xl
-   xm
-   xn
-   xo
    xodo
    xogum
-   xp
-   xq
-   xr
-   xs
-   xt
-   xu
    xua
    xucro
-   xv
-   xw
-   xx
    xxx
    xxxx
-   xy
    xyz
-   xz
-   y
-   yb
-   yc
-   yd
-   ye
-   yf
-   yg
-   yh
-   yi
-   yj
-   yk
-   yl
-   ym
-   yn
-   yo
-   yp
-   yq
-   yr
-   ys
-   yt
-   yu
-   yv
-   yw
-   yx
-   yy
    yyy
    yyyy
-   yz
-   z
    zaga
    zangao
    zanzar
    zarpar
    zas
-   zb
-   zc
-   zd
-   ze
    zebra
    zebu
    zefir
@@ -15050,21 +12589,11 @@ Hash: SHA
    zero
    zeta
    zeugma
-   zf
-   zg
-   zh
-   zi
    zigoma
    zigoto
    zinco
    ziper
    zippado
-   zj
-   zk
-   zl
-   zm
-   zn
-   zo
    zoada
    zoar
    zoeira
@@ -15077,12 +12606,6 @@ Hash: SHA
    zoo
    zoom
    zorra
-   zp
-   zq
-   zr
-   zs
-   zt
-   zu
    zulu
    zum
    zumbi
@@ -15092,222 +12615,8 @@ Hash: SHA
    zunzum
    zureta
    zurrar
-   zv
-   zw
-   zx
-   zy
-   zz
    zzz
    zzzz
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   !
-   !!
-   "
-   #
-   ##
-   $
-   $$
-   %
-   %%
-   &
-   (
-   ()
-   )
-   *
-   **
-   +
-   -
-   :
-   ;
-   =
-   ?
-   ??
-   @
 	aabe
 	aabits
 	aadam
@@ -15316,8 +12625,6 @@ Hash: SHA
 	aadlik
 	aaloe
 	aamen
-	aar
-	aas
 	aasama
 	aasima
 	aasta
@@ -15327,15 +12634,12 @@ Hash: SHA
 	abar
 	abee
 	abhaas
-	abi
 	abielu
 	abil
 	ablas
 	abort
 	absats
-	abt
 	abtiss
-	abu
 	action
 	adaa
 	adagio
@@ -15345,7 +12649,6 @@ Hash: SHA
 	aduma
 	advent
 	adverb
-	aed
 	aedik
 	aeduba
 	aeglus
@@ -15358,7 +12661,6 @@ Hash: SHA
 	aetis
 	afeel
 	afiks
-	aga
 	agaa
 	agaam
 	agaav
@@ -15374,12 +12676,10 @@ Hash: SHA
 	agoraa
 	agraar
 	agro
-	agu
 	agul
 	ahaa
 	ahan
 	ahas
-	ahe
 	ahel
 	ahend
 	aher
@@ -15390,8 +12690,6 @@ Hash: SHA
 	ahker
 	ahkima
 	ahkju
-	ahl
-	ahm
 	ahmama
 	ahmima
 	ahne
@@ -15404,7 +12702,6 @@ Hash: SHA
 	ahtuke
 	ahtuma
 	ahtus
-	ahv
 	ahvima
 	aiake
 	aiand
@@ -15431,7 +12728,6 @@ Hash: SHA
 	ainus
 	ainuti
 	airaan
-	ais
 	aist
 	aitama
 	aituma
@@ -15442,10 +12738,8 @@ Hash: SHA
 	ajama
 	ajatu
 	ajatus
-	aje
 	ajend
 	ajepuu
-	aju
 	ajuti
 	akad
 	akadi
@@ -15456,7 +12750,6 @@ Hash: SHA
 	aktiva
 	aktsia
 	aktus
-	aku
 	alaan
 	alal
 	alaldi
@@ -15477,11 +12770,9 @@ Hash: SHA
 	albilt
 	album
 	aldiin
-	ale
 	aleuut
 	alev
 	alfons
-	alg
 	algama
 	algarv
 	alge
@@ -15495,7 +12786,6 @@ Hash: SHA
 	algus
 	alias
 	alis
-	alk
 	alkaan
 	alkoov
 	allee
@@ -15508,7 +12798,6 @@ Hash: SHA
 	alluma
 	allvee
 	almus
-	alp
 	alpaka
 	alpi
 	alpid
@@ -15547,7 +12836,6 @@ Hash: SHA
 	amps
 	ampsti
 	ampull
-	and
 	andam
 	andeks
 	andetu
@@ -15592,7 +12880,6 @@ Hash: SHA
 	appi
 	aprett
 	aprill
-	aps
 	apsat
 	apsiid
 	aptsih
@@ -15601,7 +12888,6 @@ Hash: SHA
 	arapp
 	arbuja
 	ardenn
-	are
 	areaal
 	aredus
 	areldi
@@ -15609,7 +12895,6 @@ Hash: SHA
 	arest
 	aretis
 	aretus
-	arg
 	arglev
 	arglik
 	argne
@@ -15626,7 +12911,6 @@ Hash: SHA
 	armunu
 	armutu
 	aroom
-	arp
 	arpama
 	arpar
 	arpima
@@ -15638,21 +12922,18 @@ Hash: SHA
 	artell
 	arter
 	artist
-	aru
 	arukas
 	aruke
 	arukus
 	aruti
 	arutu
 	arutus
-	arv
 	arvama
 	arve
 	arvel
 	arvuti
 	arvutu
 	asbest
-	ase
 	aseema
 	asemel
 	asemik
@@ -15660,28 +12941,22 @@ Hash: SHA
 	aser
 	asetus
 	asfalt
-	asi
 	asiaat
 	asima
 	asine
 	asjake
 	asjatu
 	asjutu
-	ask
 	askees
 	askus
-	aso
 	aspekt
-	ass
 	assami
-	ast
 	astaat
 	aste
 	asteek
 	astel
 	astik
 	astuma
-	asu
 	asukas
 	asula
 	asuma
@@ -15689,34 +12964,26 @@ Hash: SHA
 	asund
 	asuu
 	asuur
-	ata
 	ateism
 	atlant
 	atlas
 	atlass
 	atleet
-	ato
 	atseet
 	atsihh
 	atskoo
-	att
-	atu
-	aua
 	auahne
 	auamet
 	auasi
 	auaste
 	audion
-	auh
 	auhind
-	auk
 	aukiri
 	auklik
 	aukoht
 	aula
 	aulik
 	auline
-	aur
 	aura
 	auraha
 	aurama
@@ -15730,7 +12997,6 @@ Hash: SHA
 	auster
 	austus
 	ausus
-	aut
 	autasu
 	auto
 	autor
@@ -15769,7 +13035,6 @@ Hash: SHA
 	babiit
 	bager
 	bagi
-	bai
 	baika
 	bait
 	bajaan
@@ -15792,10 +13057,8 @@ Hash: SHA
 	basta
 	bataav
 	batuut
-	bee
 	beebi
 	beetel
-	bei
 	beib
 	beit
 	bekaar
@@ -15817,7 +13080,6 @@ Hash: SHA
 	binoom
 	bireem
 	birma
-	bis
 	bisnis
 	bissa
 	bister
@@ -15834,7 +13096,6 @@ Hash: SHA
 	bobrik
 	bodi
 	boheem
-	boi
 	boiler
 	bojaar
 	boks
@@ -15949,7 +13210,6 @@ Hash: SHA
 	dombra
 	domeen
 	domra
-	don
 	dong
 	donna
 	doping
@@ -15969,29 +13229,24 @@ Hash: SHA
 	dublee
 	duell
 	duett
-	duo
 	durian
 	dust
 	dutaar
 	duubel
 	duuma
 	eakus
-	eal
 	ealine
 	eatu
-	eba
 	ebaaus
 	ebaedu
 	ebak
 	ebalus
 	ebausk
-	ebe
 	ebelus
 	ebola
 	edami
 	edasi
 	edasti
-	ede
 	edemus
 	edev
 	edevus
@@ -16005,7 +13260,6 @@ Hash: SHA
 	eeden
 	eefeu
 	eeh!
-	eel
 	eeldus
 	eele
 	eeli
@@ -16033,20 +13287,16 @@ Hash: SHA
 	eetsi
 	efeeb
 	efekt
-	ega
 	egas
 	egoism
 	egoist
-	ehe
 	ehedus
 	ehee
 	ehis
 	ehitis
 	ehitus
-	ehm
 	ehmes
 	ehmuma
-	eht
 	ehtima
 	ehtne
 	ehtsus
@@ -16056,11 +13306,9 @@ Hash: SHA
 	einoh
 	eirang
 	eiste
-	eit
 	eitama
 	ekker
 	ekloog
-	eks
 	eksakt
 	eksam
 	ekse
@@ -16081,7 +13329,6 @@ Hash: SHA
 	elejad
 	elev
 	elevus
-	elf
 	eliit
 	elik
 	eluaeg
@@ -16096,7 +13343,6 @@ Hash: SHA
 	eluots
 	elupuu
 	eluusk
-	ema
 	emaema
 	emaihu
 	email
@@ -16113,12 +13359,9 @@ Hash: SHA
 	emis
 	emme
 	empoor
-	emu
-	ena
 	enam
 	enamik
 	enamus
-	end
 	enda
 	endine
 	enelas
@@ -16129,16 +13372,13 @@ Hash: SHA
 	enne
 	ennegi
 	ennem
-	ent
 	eoliit
 	eoolne
-	eos
 	eosla
 	eostus
 	epakas
 	epohh
 	eputis
-	era
 	eraelu
 	erakas
 	erakla
@@ -16148,32 +13388,25 @@ Hash: SHA
 	erand
 	eraots
 	erbium
-	ere
 	eredus
 	erevil
-	erg
 	ergalt
 	ergo
 	ergult
 	erguti
-	eri
 	eriala
 	erim
 	erinev
 	erisus
 	eritis
 	eritus
-	erk
 	erkjas
 	erksus
 	erkuma
 	erkus
 	ersats
-	eru
 	erutus
-	ese
 	esemed
-	esi
 	esiaeg
 	esiema
 	esik
@@ -16192,7 +13425,6 @@ Hash: SHA
 	esmane
 	esmas
 	esprii
-	ess
 	essee
 	esseer
 	essiiv
@@ -16232,7 +13464,6 @@ Hash: SHA
 	farmer
 	farss
 	faun
-	fee
 	fellah
 	fenkol
 	fennek
@@ -16243,7 +13474,6 @@ Hash: SHA
 	fiasko
 	fifi
 	figuur
-	fii
 	fiiber
 	filee
 	filler
@@ -16325,13 +13555,11 @@ Hash: SHA
 	gavott
 	geel
 	geen
-	gei
 	geim
 	geiser
 	geko
 	gemm
 	geno
-	geo
 	geoid
 	gepard
 	geront
@@ -16371,7 +13599,6 @@ Hash: SHA
 	gupi
 	guru
 	gusli
-	haa
 	haab
 	haabne
 	haagis
@@ -16433,7 +13660,6 @@ Hash: SHA
 	hanila
 	hansa
 	hantel
-	hao
 	hapend
 	hapu
 	hapult
@@ -16461,7 +13687,6 @@ Hash: SHA
 	hauge
 	hausa
 	havai
-	hea
 	headus
 	heaks
 	heaolu
@@ -16469,7 +13694,6 @@ Hash: SHA
 	heeder
 	heeros
 	heft
-	hei
 	heidis
 	heie
 	heik
@@ -16517,7 +13741,6 @@ Hash: SHA
 	higi
 	higine
 	hihih
-	hii
 	hiib
 	hiid
 	hiigel
@@ -16553,7 +13776,6 @@ Hash: SHA
 	hmjaa
 	hobune
 	hoholl
-	hoi
 	hoiak
 	hoide
 	hoidis
@@ -16566,7 +13788,6 @@ Hash: SHA
 	homaar
 	homme
 	homo
-	hoo
 	hoob
 	hoog
 	hoogus
@@ -16597,9 +13818,7 @@ Hash: SHA
 	hubin
 	hudi
 	hudima
-	huh
 	huhuu
-	hui
 	huige
 	huik
 	huile
@@ -16628,16 +13847,13 @@ Hash: SHA
 	hurraa
 	hurt
 	husaar
-	huu
 	huug
 	huul
 	huulik
 	huumor
 	huupi
 	huvitu
-	ibe
 	ibesoo
-	ida
 	idand
 	idaosa
 	ideaal
@@ -16645,31 +13861,22 @@ Hash: SHA
 	ideetu
 	idem
 	idioot
-	ido
-	idu
-	iga
 	igal
 	igand
 	igati
 	igav
 	igavus
-	ige
-	igi
 	igine
 	iguaan
-	iha
 	ihane
 	ihar
 	iharus
-	ihe
 	ihes
 	ihitus
-	ihk
 	ihkama
 	ihkuma
 	ihmjas
 	ihmjus
-	ihn
 	ihnama
 	ihne
 	ihnelt
@@ -16677,18 +13884,15 @@ Hash: SHA
 	ihnur
 	ihnus
 	ihtuma
-	ihu
 	ihuma
 	ihun
 	ihusoe
 	iial
 	iibama
 	iibis
-	iid
 	iidid
 	iidne
 	iidol
-	iil
 	iileks
 	iilima
 	iiling
@@ -16697,21 +13901,16 @@ Hash: SHA
 	iiris
 	iisop
 	iive
-	ike
 	ikka
 	ikkagi
 	ikoon
-	iks
-	ila
 	ilane
 	ilgelt
 	ilgema
 	ilgus
 	ilkuma
-	ill
 	illama
 	illi
-	ilm
 	ilma
 	ilmama
 	ilme
@@ -16732,7 +13931,6 @@ Hash: SHA
 	imama
 	imar
 	imavus
-	imb
 	imbuma
 	imeasi
 	imehea
@@ -16740,13 +13938,11 @@ Hash: SHA
 	imelik
 	imema
 	imemaa
-	imi
 	imik
 	imikas
 	imiuss
 	import
 	inar
-	ind
 	indigo
 	indium
 	indri
@@ -16772,13 +13968,11 @@ Hash: SHA
 	irama
 	irask
 	irbis
-	ird
 	irdne
 	irdosa
 	iriit
 	irin
 	irrata
-	irv
 	irvi
 	irvima
 	isaarm
@@ -16789,15 +13983,12 @@ Hash: SHA
 	isand
 	isane
 	isas
-	ise
 	isegi
 	isekas
 	isetu
 	isetus
 	isik
 	isiku
-	ism
-	iso
 	issake
 	issand
 	issi
@@ -16807,20 +13998,15 @@ Hash: SHA
 	istu
 	istuli
 	istuma
-	isu
 	isukas
 	isune
 	isur
 	isuri
-	itk
 	itkema
-	its
-	iva
 	ivaja
 	ivakas
 	ivake
 	ivriit
-	jaa
 	jaal
 	jaala
 	jaam
@@ -16828,7 +14014,6 @@ Hash: SHA
 	jaatus
 	jabur
 	jada
-	jae
 	jagaja
 	jagama
 	jagu
@@ -17024,7 +14209,6 @@ Hash: SHA
 	kadett
 	kadu
 	kaduma
-	kae
 	kaebe
 	kaebus
 	kael
@@ -17038,7 +14222,6 @@ Hash: SHA
 	kaevis
 	kaftan
 	kagu
-	kah
 	kahama
 	kahar
 	kahe
@@ -17060,7 +14243,6 @@ Hash: SHA
 	kahur
 	kahv
 	kahver
-	kai
 	kaif
 	kaigas
 	kaige
@@ -17200,7 +14382,6 @@ Hash: SHA
 	karus
 	karva
 	karvik
-	kas
 	kasaar
 	kasahh
 	kasarm
@@ -17368,7 +14549,6 @@ Hash: SHA
 	kihn
 	kiht
 	kihv
-	kii
 	kiiam
 	kiiks
 	kiil
@@ -17527,7 +14707,6 @@ Hash: SHA
 	kodu
 	kodune
 	kodutu
-	koe
 	koelmu
 	koer
 	koeras
@@ -17897,7 +15076,6 @@ Hash: SHA
 	kutsuv
 	kutter
 	kutu
-	kuu
 	kuubik
 	kuuene
 	kuues
@@ -18039,7 +15217,6 @@ Hash: SHA
 	laokil
 	laos
 	laoti
-	lap
 	lape
 	lapi
 	lapik
@@ -18061,7 +15238,6 @@ Hash: SHA
 	larin
 	larp
 	larts
-	las
 	lase
 	laser
 	lasi
@@ -18185,7 +15361,6 @@ Hash: SHA
 	lesk
 	lest
 	letra
-	leu
 	levi
 	leviit
 	levima
@@ -18304,7 +15479,6 @@ Hash: SHA
 	lodev
 	lodin
 	lodu
-	loe
 	loend
 	loetav
 	loetu
@@ -18427,7 +15601,6 @@ Hash: SHA
 	luts
 	lutsi
 	lutt
-	luu
 	luud
 	luues
 	luuk
@@ -18438,7 +15611,6 @@ Hash: SHA
 	luuser
 	luusur
 	luutma
-	maa
 	maaala
 	maaelu
 	maag
@@ -18486,7 +15658,6 @@ Hash: SHA
 	mahuti
 	mahutu
 	mahv
-	mai
 	maia
 	maialt
 	maias
@@ -18524,7 +15695,6 @@ Hash: SHA
 	mammi
 	mammon
 	mammut
-	man
 	mana
 	manala
 	manama
@@ -18542,7 +15712,6 @@ Hash: SHA
 	manu
 	manul
 	manus
-	mao
 	maokas
 	maoli
 	maoori
@@ -18655,7 +15824,6 @@ Hash: SHA
 	miks
 	mikser
 	miksik
-	mil
 	miljon
 	mill
 	millal
@@ -18677,7 +15845,6 @@ Hash: SHA
 	mintai
 	mirgel
 	mirt
-	mis
 	miska
 	missis
 	misuke
@@ -18693,7 +15860,6 @@ Hash: SHA
 	modaal
 	modell
 	modern
-	moe
 	moeahv
 	moeasi
 	moekas
@@ -18803,7 +15969,6 @@ Hash: SHA
 	mutoon
 	mutt
 	mutter
-	muu
 	muua
 	muumia
 	muusa
@@ -18823,7 +15988,6 @@ Hash: SHA
 	naber
 	nabima
 	nabin
-	nad
 	nadi
 	nadiir
 	nadu
@@ -18891,7 +16055,6 @@ Hash: SHA
 	neet
 	neetu
 	nefron
-	neh
 	neim
 	neitsi
 	neiu
@@ -18904,7 +16067,6 @@ Hash: SHA
 	nelma
 	nelson
 	nemad
-	neo
 	neoon
 	nepali
 	nepp
@@ -18966,7 +16128,6 @@ Hash: SHA
 	nobe
 	nodi
 	nogai
-	noh
 	nohik
 	nohin
 	nohu
@@ -18981,7 +16142,6 @@ Hash: SHA
 	nolk
 	nomarh
 	nonoh
-	noo
 	noobel
 	noobil
 	nood
@@ -19020,7 +16180,6 @@ Hash: SHA
 	nugis
 	nugris
 	nuhk
-	nui
 	nuiama
 	nukits
 	nukk
@@ -19059,14 +16218,12 @@ Hash: SHA
 	objekt
 	oblast
 	obrok
-	oda
 	odajas
 	odav
 	odavus
 	oder
 	ofort
 	ofset
-	oga
 	ogajas
 	ogalik
 	ogar
@@ -19077,11 +16234,9 @@ Hash: SHA
 	ohelik
 	oherdi
 	ohhoo
-	ohi
 	ohkama
 	ohkima
 	ohoh
-	oht
 	ohter
 	ohtetu
 	ohtlik
@@ -19090,18 +16245,13 @@ Hash: SHA
 	ohutu
 	ohutus
 	ohver
-	oid
-	oih
-	oim
 	oimama
 	oimetu
 	oinas
 	oinik
 	oisu
-	oit
 	oiukas
 	oivik
-	oja
 	okaapi
 	okas
 	okis
@@ -19140,10 +16290,8 @@ Hash: SHA
 	ollus
 	olme
 	olmeek
-	olv
 	olvang
 	olve
-	oma
 	omaabi
 	omadus
 	omama
@@ -19156,23 +16304,17 @@ Hash: SHA
 	onkel
 	onko
 	onku
-	onn
-	ons
-	onu
 	oodatu
 	oode
 	oodus
-	ooh
 	ooker
 	ooleum
 	ooloog
-	oom
 	oomega
 	oomen
 	ooper
 	oopium
 	oopus
-	oos
 	ootama
 	ootvel
 	opaak
@@ -19180,31 +16322,23 @@ Hash: SHA
 	opakas
 	opiaat
 	opman
-	opp
 	optant
 	optika
-	ora
 	oras
 	orav
-	orb
 	orbuma
 	ordu
 	orel
 	organ
 	orgasm
-	ori
 	orient
 	orikas
 	orkaan
-	orm
 	ormus
 	ornaat
-	ort
 	orund
-	orv
 	orvand
 	orvu
-	osa
 	osadus
 	osake
 	osalt
@@ -19219,7 +16353,6 @@ Hash: SHA
 	osmik
 	osmium
 	osmoos
-	oss
 	ossa
 	osseet
 	ostjak
@@ -19243,9 +16376,6 @@ Hash: SHA
 	otsing
 	otsmik
 	otsuke
-	ott
-	otu
-	out
 	ovaal
 	ovaar
 	paabel
@@ -19282,7 +16412,6 @@ Hash: SHA
 	pagin
 	pagu
 	pagun
-	pah
 	paha
 	pahane
 	pahem
@@ -19295,7 +16424,6 @@ Hash: SHA
 	pahr
 	pahtel
 	pahv
-	pai
 	paiga
 	paigas
 	paik
@@ -19355,7 +16483,6 @@ Hash: SHA
 	palve
 	pampa
 	pampel
-	pan
 	panama
 	pand
 	pandan
@@ -19381,7 +16508,6 @@ Hash: SHA
 	pants
 	panu
 	panus
-	pao
 	paokil
 	paos
 	papa
@@ -19442,14 +16568,12 @@ Hash: SHA
 	patsti
 	patt
 	patune
-	pau
 	pauh
 	pauk
 	paun
 	pauper
 	paus
 	paut
-	pea
 	peaaju
 	peaasi
 	peaehe
@@ -19474,7 +16598,6 @@ Hash: SHA
 	pedant
 	pede
 	pedell
-	pee
 	peegel
 	peeker
 	peen
@@ -19522,7 +16645,6 @@ Hash: SHA
 	penn
 	penss
 	penta
-	peo
 	peoehe
 	peoleo
 	peoon
@@ -19734,11 +16856,9 @@ Hash: SHA
 	pobul
 	podest
 	podin
-	poe
 	poeet
 	poeg
 	pohl
-	poi
 	poise
 	poiss
 	poja
@@ -19779,7 +16899,6 @@ Hash: SHA
 	poorne
 	poos
 	poose
-	pop
 	popilt
 	popp
 	pops
@@ -19850,7 +16969,6 @@ Hash: SHA
 	pruut
 	psalm
 	psii
-	pst
 	ptii
 	ptrr
 	pubi
@@ -19870,7 +16988,6 @@ Hash: SHA
 	pugi
 	pugin
 	pugu
-	puh
 	puha
 	puhang
 	puhas
@@ -19968,7 +17085,6 @@ Hash: SHA
 	putkus
 	puto
 	putuk
-	puu
 	puuaed
 	puuass
 	puud
@@ -19986,7 +17102,6 @@ Hash: SHA
 	puute
 	puzzle
 	quasi
-	raa
 	raad
 	raada
 	raag
@@ -20007,7 +17122,6 @@ Hash: SHA
 	radar
 	radio
 	radist
-	rae
 	raffia
 	ragbi
 	ragin
@@ -20021,7 +17135,6 @@ Hash: SHA
 	rahule
 	rahutu
 	rahvas
-	rai
 	raibe
 	raidur
 	raie
@@ -20064,8 +17177,6 @@ Hash: SHA
 	rank
 	ranne
 	rant
-	rao
-	rap
 	rapiir
 	rapik
 	rapoor
@@ -20110,7 +17221,6 @@ Hash: SHA
 	redis
 	redu
 	reduut
-	ree
 	reebus
 	reede
 	reegel
@@ -20229,7 +17339,6 @@ Hash: SHA
 	rock
 	rodeo
 	rodu
-	roe
 	rogin
 	rohe
 	rohi
@@ -20263,7 +17372,6 @@ Hash: SHA
 	ronima
 	ronk
 	ront
-	roo
 	roobas
 	roog
 	roogne
@@ -20396,7 +17504,6 @@ Hash: SHA
 	sahtel
 	sahver
 	sahvt
-	sai
 	saia
 	saiake
 	saiga
@@ -20458,7 +17565,6 @@ Hash: SHA
 	sassi
 	satiir
 	sats
-	sau
 	saud
 	sauh
 	sauhti
@@ -20479,7 +17585,6 @@ Hash: SHA
 	sedasi
 	sedel
 	seder
-	see
 	seede
 	seega
 	seek
@@ -20566,7 +17671,6 @@ Hash: SHA
 	server
 	servi
 	servis
-	ses
 	sesoon
 	sestap
 	setiti
@@ -20651,7 +17755,6 @@ Hash: SHA
 	sips
 	sipsik
 	sipsti
-	sir
 	sira
 	sirbik
 	sire
@@ -20721,7 +17824,6 @@ Hash: SHA
 	sogama
 	sogane
 	soge
-	soh
 	sohik
 	sohk
 	sohva
@@ -20733,7 +17835,6 @@ Hash: SHA
 	soja
 	sokk
 	sokkel
-	sol
 	soldat
 	solge
 	solin
@@ -20745,7 +17846,6 @@ Hash: SHA
 	somp
 	song
 	sonn
-	soo
 	sooda
 	soodom
 	soodus
@@ -20854,7 +17954,6 @@ Hash: SHA
 	suhkar
 	suhkur
 	suht
-	sui
 	suige
 	suik
 	suine
@@ -21131,7 +18230,6 @@ Hash: SHA
 	teatis
 	techno
 	teder
-	tee
 	teenar
 	teene
 	teener
@@ -21193,7 +18291,6 @@ Hash: SHA
 	tenor
 	tensor
 	tent
-	teo
 	teokas
 	teokus
 	teotus
@@ -21262,7 +18359,6 @@ Hash: SHA
 	tingiv
 	tinin
 	tinna
-	tio
 	tipe
 	tipi
 	tipp
@@ -21280,7 +18376,6 @@ Hash: SHA
 	tits
 	titt
 	tivoli
-	toa
 	toaahi
 	toasoe
 	tobe
@@ -21288,7 +18383,6 @@ Hash: SHA
 	tobias
 	tobu
 	todi
-	toe
 	toekas
 	toekus
 	toend
@@ -21304,7 +18398,6 @@ Hash: SHA
 	toht
 	tohune
 	tohutu
-	toi
 	toigas
 	toim
 	toimne
@@ -21427,7 +18520,6 @@ Hash: SHA
 	trepp
 	tress
 	trett
-	tri
 	triaad
 	triias
 	triik
@@ -21471,7 +18563,6 @@ Hash: SHA
 	tsink
 	tsis
 	tsoon
-	tss
 	tsura
 	tsurr!
 	tubane
@@ -21497,7 +18588,6 @@ Hash: SHA
 	tuhnus
 	tuhud
 	tuhvel
-	tui
 	tuiam
 	tuiama
 	tuige
@@ -21618,34 +18708,26 @@ Hash: SHA
 	tuvike
 	tviid
 	tvist
-	uba
 	ubajas
 	ubima
 	ubin
 	udar
-	ude
 	udehe
-	udi
 	udima
 	udmurt
 	udras
-	udu
 	uduaur
 	udune
 	udusti
 	udusus
-	ufo
 	uhama
 	uhhaa
 	uhhuu
 	uhiuus
-	uhk
 	uhka
 	uhkama
 	uhkus
-	uhm
 	uhmer
-	uht
 	uhte
 	uhtjad
 	uhtma
@@ -21655,29 +18737,23 @@ Hash: SHA
 	uhuu
 	uibu
 	uide
-	uig
 	uiguur
-	uih
 	uijah
-	uim
 	uimama
 	uimane
 	uimus
 	uinuma
 	uinuti
 	uisk
-	uit
 	uitama
 	uitma
 	ujedus
-	uju
 	ujuk
 	ujula
 	ujum
 	ujuma
 	ujutus
 	ujuvus
-	uks
 	uksik
 	ulaan
 	ulaelu
@@ -21689,7 +18765,6 @@ Hash: SHA
 	uljas
 	uljus
 	ullike
-	ulm
 	ulme
 	ulpima
 	ultra
@@ -21697,7 +18772,6 @@ Hash: SHA
 	ulualt
 	uluk
 	uluss
-	umb
 	umbahi
 	umbe
 	umbes
@@ -21716,7 +18790,6 @@ Hash: SHA
 	ummik
 	unarul
 	unarus
-	und
 	undama
 	undiin
 	uneaeg
@@ -21726,7 +18799,6 @@ Hash: SHA
 	unetu
 	unetus
 	ungari
-	uni
 	uniaat
 	unisus
 	unka
@@ -21736,7 +18808,6 @@ Hash: SHA
 	untsu
 	untsus
 	unuma
-	upp
 	uppis
 	uppuja
 	uppuma
@@ -21745,22 +18816,15 @@ Hash: SHA
 	urama
 	urartu
 	uratus
-	urb
 	urbsus
 	urbuma
-	urg
 	urgas
 	urge
-	uri
 	urin
 	urjah
 	urjukk
 	urklik
-	urm
 	urmane
-	urn
-	uro
-	urr
 	urri
 	urris
 	usbeki
@@ -21770,29 +18834,23 @@ Hash: SHA
 	usjas
 	usklik
 	ussaed
-	ust
 	ustav
 	usuaal
 	usuisa
 	usund
 	usutav
-	ute
 	utiil
 	utik
 	utjama
 	utma
 	utmine
 	utsin
-	utt
-	utu
 	uude
 	uudis
 	uudsus
 	uuelt
 	uuesti
-	uuk
 	uulits
-	uur
 	uurak
 	uurija
 	uuring
@@ -21826,7 +18884,6 @@ Hash: SHA
 	vadima
 	vadin
 	vadja
-	vae
 	vaegur
 	vaegus
 	vaeras
@@ -21856,7 +18913,6 @@ Hash: SHA
 	vahva
 	vahvel
 	vahvus
-	vai
 	vaiama
 	vaid
 	vaie
@@ -21938,7 +18994,6 @@ Hash: SHA
 	vanune
 	vanus
 	vanuti
-	vao
 	vaoke
 	vaond
 	vapiti
@@ -21997,7 +19052,6 @@ Hash: SHA
 	vats
 	vatsk
 	vatt
-	vau
 	veatu
 	veatus
 	vedaja
@@ -22052,7 +19106,6 @@ Hash: SHA
 	venis
 	veniv
 	vennas
-	veo
 	veok
 	veotee
 	verb
@@ -22072,7 +19125,6 @@ Hash: SHA
 	vestma
 	veto
 	vets
-	via
 	viba
 	vibama
 	vibe
@@ -22215,16 +19267,13 @@ Hash: SHA
 	vits
 	vitsik
 	vitt
-	viu
 	viuh
 	viuks
 	vivace
 	vivat
 	vobla
 	vodka
-	voe
 	vogul
-	voh
 	voha
 	vohand
 	vokaal
@@ -22237,7 +19286,6 @@ Hash: SHA
 	volle
 	volt
 	vombat
-	von
 	vonn
 	vooder
 	voodus
@@ -22259,828 +19307,26 @@ Hash: SHA
 	vorm
 	vormel
 	vorp
-	vot
 	votjak
 	vrakk
 	vudima
 	vudin
-	vuh
-	vuha
 	vuhama
 	vuhin
 	vuhti
-	vuih
 	vulama
 	vulin
 	vulks
-	vunk
 	vuplid
-	vups
 	vupsti
-	vura
 	vurama
 	vurdi
 	vurhv
 	vurin
-	vurr
 	vusin
 	vussi
 	vussis
 	vutlar
-	vuuk
 	zlott
 	zombi
 	zombie
-	zoo
-	zoom
-	==
-	--
-	;;
-	::
-	!!
-	??
-	()
-	@@
-	$$
-	**
-	&&
-	##
-	%%
-	++
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	aa
-	aaaa
-	ab
-	abc
-	ac
-	ad
-	ae
-	af
-	ag
-	ah
-	ai
-	aj
-	ak
-	al
-	am
-	an
-	ao
-	ap
-	aq
-	ar
-	as
-	at
-	au
-	av
-	aw
-	ax
-	ay
-	az
-	b
-	bb
-	bbb
-	bbbb
-	bc
-	bcd
-	bd
-	be
-	bf
-	bg
-	bh
-	bi
-	bj
-	bk
-	bl
-	bm
-	bn
-	bo
-	bp
-	bq
-	br
-	bs
-	bt
-	bu
-	bv
-	bw
-	bx
-	by
-	bz
-	c
-	cb
-	cc
-	ccc
-	cccc
-	cd
-	cde
-	ce
-	cf
-	cg
-	ch
-	ci
-	cj
-	ck
-	cl
-	cm
-	cn
-	co
-	cp
-	cq
-	cr
-	cs
-	ct
-	cu
-	cv
-	cw
-	cx
-	cy
-	cz
-	d
-	db
-	dc
-	dd
-	ddd
-	dddd
-	de
-	def
-	df
-	dg
-	dh
-	di
-	dj
-	dk
-	dl
-	dm
-	dn
-	do
-	dp
-	dq
-	dr
-	ds
-	dt
-	du
-	dv
-	dw
-	dx
-	dy
-	dz
-	e
-	eb
-	ec
-	ed
-	ee
-	eee
-	eeee
-	ef
-	efg
-	eg
-	eh
-	ei
-	ej
-	ek
-	el
-	em
-	en
-	eo
-	ep
-	eq
-	er
-	es
-	et
-	eu
-	ev
-	ew
-	ex
-	ey
-	ez
-	f
-	fb
-	fc
-	fd
-	fe
-	ff
-	fff
-	ffff
-	fg
-	fgh
-	fh
-	fi
-	fj
-	fk
-	fl
-	fm
-	fn
-	fo
-	fp
-	fq
-	fr
-	fs
-	ft
-	fu
-	fv
-	fw
-	fx
-	fy
-	fz
-	g
-	gb
-	gc
-	gd
-	ge
-	gf
-	gg
-	ggg
-	gggg
-	gh
-	ghi
-	gi
-	gj
-	gk
-	gl
-	gm
-	gn
-	go
-	gp
-	gq
-	gr
-	gs
-	gt
-	gu
-	gv
-	gw
-	gx
-	gy
-	gz
-	h
-	hb
-	hc
-	hd
-	he
-	hf
-	hg
-	hh
-	hhh
-	hhhh
-	hi
-	hij
-	hj
-	hk
-	hl
-	hm
-	hn
-	ho
-	hp
-	hq
-	hr
-	hs
-	ht
-	hu
-	hv
-	hw
-	hx
-	hy
-	hz
-	i
-	ib
-	ic
-	id
-	ie
-	if
-	ig
-	ih
-	ii
-	iii
-	iiii
-	ij
-	ijk
-	ik
-	il
-	im
-	in
-	io
-	ip
-	iq
-	ir
-	is
-	it
-	iu
-	iv
-	iw
-	ix
-	iy
-	iz
-	j
-	jb
-	jc
-	jd
-	je
-	jf
-	jg
-	jh
-	ji
-	jj
-	jjj
-	jjjj
-	jk
-	jkl
-	jl
-	jm
-	jn
-	jo
-	jp
-	jq
-	jr
-	js
-	jt
-	ju
-	jv
-	jw
-	jx
-	jy
-	jz
-	k
-	kb
-	kc
-	kd
-	ke
-	kf
-	kg
-	kh
-	ki
-	kj
-	kk
-	kkk
-	kkkk
-	kl
-	klm
-	km
-	kn
-	ko
-	kp
-	kq
-	kr
-	ks
-	kt
-	ku
-	kv
-	kw
-	kx
-	ky
-	kz
-	l
-	lb
-	lc
-	ld
-	le
-	lf
-	lg
-	lh
-	li
-	lj
-	lk
-	ll
-	lll
-	llll
-	lm
-	lmn
-	ln
-	lo
-	lp
-	lq
-	lr
-	ls
-	lt
-	lu
-	lv
-	lw
-	lx
-	ly
-	lz
-	m
-	mb
-	mc
-	md
-	me
-	mf
-	mg
-	mh
-	mi
-	mj
-	mk
-	ml
-	mm
-	mmm
-	mmmm
-	mn
-	mno
-	mo
-	mp
-	mq
-	mr
-	ms
-	mt
-	mu
-	mv
-	mw
-	mx
-	my
-	mz
-	n
-	nb
-	nc
-	nd
-	ne
-	nf
-	ng
-	nh
-	ni
-	nj
-	nk
-	nl
-	nm
-	nn
-	nnn
-	nnnn
-	no
-	nop
-	np
-	nq
-	nr
-	ns
-	nt
-	nu
-	nv
-	nw
-	nx
-	ny
-	nz
-	o
-	ob
-	oc
-	od
-	oe
-	of
-	og
-	oh
-	oi
-	oj
-	ok
-	ol
-	om
-	on
-	oo
-	ooo
-	oooo
-	op
-	opq
-	oq
-	or
-	os
-	ot
-	ou
-	ov
-	ow
-	ox
-	oy
-	oz
-	p
-	pb
-	pc
-	pd
-	pe
-	pf
-	pg
-	ph
-	pi
-	pj
-	pk
-	pl
-	pm
-	pn
-	po
-	pp
-	ppp
-	pppp
-	pq
-	pqr
-	pr
-	ps
-	pt
-	pu
-	pv
-	pw
-	px
-	py
-	pz
-	q
-	qb
-	qc
-	qd
-	qe
-	qf
-	qg
-	qh
-	qi
-	qj
-	qk
-	ql
-	qm
-	qn
-	qo
-	qp
-	qq
-	qqq
-	qqqq
-	qr
-	qrs
-	qs
-	qt
-	qu
-	qv
-	qw
-	qx
-	qy
-	qz
-	r
-	rb
-	rc
-	rd
-	re
-	rf
-	rg
-	rh
-	ri
-	rj
-	rk
-	rl
-	rm
-	rn
-	ro
-	rp
-	rq
-	rr
-	rrr
-	rrrr
-	rs
-	rst
-	rt
-	ru
-	rv
-	rw
-	rx
-	ry
-	rz
-	s
-	sb
-	sc
-	sd
-	se
-	sf
-	sg
-	sh
-	si
-	sj
-	sk
-	sl
-	sm
-	sn
-	so
-	sp
-	sq
-	sr
-	ss
-	sss
-	ssss
-	st
-	stu
-	su
-	sv
-	sw
-	sx
-	sy
-	sz
-	t
-	tb
-	tc
-	td
-	te
-	tf
-	tg
-	th
-	ti
-	tj
-	tk
-	tl
-	tm
-	tn
-	to
-	tp
-	tq
-	tr
-	ts
-	tt
-	ttt
-	tttt
-	tu
-	tuv
-	tv
-	tw
-	tx
-	ty
-	tz
-	u
-	ub
-	uc
-	ud
-	ue
-	uf
-	ug
-	uh
-	ui
-	uj
-	uk
-	ul
-	um
-	un
-	uo
-	up
-	uq
-	ur
-	us
-	ut
-	uu
-	uuu
-	uuuu
-	uv
-	uvw
-	uw
-	ux
-	uy
-	uz
-	v
-	vb
-	vc
-	vd
-	ve
-	vf
-	vg
-	vh
-	vi
-	vj
-	vk
-	vl
-	vm
-	vn
-	vo
-	vp
-	vq
-	vr
-	vs
-	vt
-	vu
-	vv
-	vvv
-	vvvv
-	vw
-	vwx
-	vx
-	vy
-	vz
-	w
-	wb
-	wc
-	wd
-	we
-	wf
-	wg
-	wh
-	wi
-	wj
-	wk
-	wl
-	wm
-	wn
-	wo
-	wp
-	wq
-	wr
-	ws
-	wt
-	wu
-	wv
-	ww
-	www
-	wwww
-	wx
-	wxy
-	wy
-	wz
-	x
-	xb
-	xc
-	xd
-	xe
-	xf
-	xg
-	xh
-	xi
-	xj
-	xk
-	xl
-	xm
-	xn
-	xo
-	xp
-	xq
-	xr
-	xs
-	xt
-	xu
-	xv
-	xw
-	xx
-	xxx
-	xxxx
-	xy
-	xyz
-	xz
-	y
-	yb
-	yc
-	yd
-	ye
-	yf
-	yg
-	yh
-	yi
-	yj
-	yk
-	yl
-	ym
-	yn
-	yo
-	yp
-	yq
-	yr
-	ys
-	yt
-	yu
-	yv
-	yw
-	yx
-	yy
-	yyy
-	yyyy
-	yz
-	z
-	zb
-	zc
-	zd
-	ze
-	zf
-	zg
-	zh
-	zi
-	zj
-	zk
-	zl
-	zm
-	zn
-	zo
-	zp
-	zq
-	zr
-	zs
-	zt
-	zu
-	zv
-	zw
-	zx
-	zy
-	zz
-	zzz
-	zzzz

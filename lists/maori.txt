@@ -1,5 +1,4 @@
  aehiru
- aera
  ahakoa
  ahaku
  ahana
@@ -40,7 +39,6 @@
  ahirau
  ahiria
  ahiroa
- aho
  ahoiti
  ahopae
  ahopou
@@ -52,9 +50,6 @@
  ahoto
  ahotu
  ahowai
- ahu
- ahua
- ahue
  ahuka
  ahuku
  ahumai
@@ -73,20 +68,17 @@
  ahurua
  ahuta
  ahutia
- ai
  aiahi
  aianei
  aiari
  aihana
  aihihi
- aika
  aikini
  aimate
  ainei
  ainga
  aingoa
  ainini
- aio
  aiotai
  airaia
  airana
@@ -100,7 +92,6 @@
  aitua
  aiutu
  aiwene
- aka
  akahu
  akaia
  akaima
@@ -120,7 +111,6 @@
  akati
  akato
  akawai
- ake
  akeake
  akeke
  akena
@@ -141,10 +131,8 @@
  akitea
  akiti
  akitiu
- ako
  akohia
  akonga
- aku
  akuahi
  akuara
  akuira
@@ -155,14 +143,12 @@
  amari
  amatia
  amene
- ami
  amiami
  amini
  amira
  amiria
  amitai
  amiti
- amo
  amohau
  amohi
  amonga
@@ -170,9 +156,7 @@
  amoro
  amotai
  amoteo
- amu
  amuamu
- ana
  ananui
  anapai
  anarea
@@ -181,31 +165,22 @@
  anaria
  anaroa
  anaru
- anau
  anawai
  aneane
- anei
- anga
  aanga
  angawa
  angina
  angitu
- ani
  aniani
  anihau
  anika
  aniona
  aniwha
- ano
- anoa
  anohea
- anu
  anuanu
  anuhea
  anutai
- ao
  aoatea
- aoha
  aohiku
  aohuri
  aokehu
@@ -224,36 +199,28 @@
  aotea
  aotini
  aoturoa
- apa
  apahau
  apanga
  apanoa
  apanui
- ape
  apeta
- api
  apiama
  apiata
  apiha
- api
  apiti
  apiuru
- apo
  apohau
  apohia
  aponga
  apore
  aporo
- apu
  apuha
- apui
  apunga
  apungi
  apunui
  apuroa
  apuru
  aputea
- ara
  arahia
  araho
  araita
@@ -282,17 +249,12 @@
  areare
  arenga
  arepa
- ari
- aria
  ariata
  arihi
  ariki
  arioka
  ariro
- ariu
  ariuru
- aro
- aroa
  aroakapa
  aroaro
  aroera
@@ -311,7 +273,6 @@
  arotai
  arotau
  arotia
- aru
  aruaru
  aruhi
  aruhia
@@ -327,34 +288,23 @@
  ataru
  atatau
  atawha
- ate
  ateka
  aterea
  ateroa
  atete
- ati
- atia
  atiawa
- atio
  atiota
  atira
  atiria
  atiwae
- ato
  atohia
  atoki
  atonga
  atono
  atoru
- atu
- atua
  atunga
  atutae
  atutai
- au
- aau
- aua
- aue
  aueha
  auheke
  auharo
@@ -381,7 +331,6 @@
  auporo
  aupure
  auputa
- aura
  auraki
  aurara
  aurepo
@@ -393,7 +342,6 @@
  auroro
  auruha
  aururu
- auta
  autahi
  autahia
  autaki
@@ -402,7 +350,6 @@
  autara
  autaua
  autawa
- aute
  autere
  autini
  autoia
@@ -413,11 +360,9 @@
  auwahi
  auwaho
  auwehe
- awa
  awaha
  awahau
  awaho
- awai
  awaiti
  awana
  awake
@@ -431,56 +376,38 @@
  awaru
  awatea
  awatu
- awe
  awehou
- awha
  awhata
  awhatu
- awhe
  awhera
  awhero
  awheta
  awhetu
- awhi
  awhia
  awhina
  awhiti
  awhitu
- ea
- eara
- eata
  ehara
- ehea
  eheke
  ehera
- ehoa
- ehu
  ehuake
  ehunga
- eka
  ekare
- eke
  ekenga
  eketi
  ekieki
  emara
  emiemi
- ena
- ene
  eneti
  enanga
  engaio
  engari
- epa
- epai
  epaepa
  epaina
- era
  erangi
  erana
  erani
  erehua
- eria
  eriana
  eriapa
  eriara
@@ -489,25 +416,18 @@
  eriona
  eriota
  eriuru
- eru
- erua
  eruena
  eruera
  erueti
  eruia
  eruini
- ete
  eteete
- eti
  etieti
  etonia
- etu
  eturu
  ewhata
  ewhera
  ewhiro
- ha
- hae
  haeata
  haehae
  haenga
@@ -515,7 +435,6 @@
  haeroa
  haewa
  haerenga
- haha
  hahae
  hahaki
  hahana
@@ -523,20 +442,15 @@
  hahapa
  hahara
  hahari
- hahi
- haho
  hahore
  hahori
- hahu
  hahuka
  hahuna
  hahunga
  hahuru
- hai
  haika
  hainga
  haiona
- haka
  hakahaka
  hakahe
  hakama
@@ -550,20 +464,16 @@
  hakarua
  hakawaa
  hakawe
- hake
  hakehake
  hakena
  hakere
  haketa
  hakete
  haketi
- haki
  hakiki
- haki
  hakina
  hakini
  hakiri
- hako
  hakohako
  hakona
  hakoni
@@ -576,7 +486,6 @@
  hakota
  hakoto
  hakoua
- haku
  hakuae
  hakuai
  hakuhaku
@@ -584,7 +493,6 @@
  hakune
  hakura
  hakuri
- hama
  hamaia
  hamaka
  hamama
@@ -597,26 +505,20 @@
  hamata
  hamate
  hamau
- hame
  hameme
  hamene
  hamepa
  hamere
- hami
  hamihi
  hamiri
  hamiti
- hamo
  hamona
  hamono
  hamora
  hamore
- hamu
- hamu
  hamure
  hamuri
  hamuti
- hana
  hanahana
  hananga
  hanaia
@@ -628,26 +530,20 @@
  hanata
  hanati
  hanau
- hane
  hanea
  hanene
  hanepi
  haneti
  hanga
- hani
  hanihi
  hanitu
- hano
  hanoho
  hanoko
- hanu
  hanumi
  hanure
- hao
  haohao
  haonga
  haora
- hapa
  hapahi
  hapai
  hapaku
@@ -659,21 +555,18 @@
  haparu
  hapata
  hapati
- hape
  hapera
  hapere
  haperi
  hapero
  hapeta
  hapeti
- hapi
  hapihi
  hapini
  hapira
  hapiri
  hapiro
  hapita
- hapo
  hapoko
  hapohapo
  hapopo
@@ -681,14 +574,12 @@
  hapori
  haporo
  hapou
- hapu
  hapua
  hapuhia
  hapupu
  hapure
  hapuru
  haputia
- hara
  harae
  haraia
  haraka
@@ -706,7 +597,6 @@
  harato
  haratu
  harau
- hare
  hareka
  harema
  hareme
@@ -717,7 +607,6 @@
  hareti
  haretu
  harewa
- hari
  haria
  harihi
  harika
@@ -729,7 +618,6 @@
  haripu
  hariri
  hariru
- haro
  haroko
  haroma
  harome
@@ -747,30 +635,23 @@
  harure
  haruru
  haruta
- hata
  hatana
  hatara
  hatare
  hatari
- hate
  hatepe
  hatera
  hatere
  hatete
- hati
  hatini
  hatiri
- hato
  hatohia
  hatona
  hatope
  hatoro
- hatu
  hatua
  Hatupatu
  haturu
- hau
- haua
  hauaki
  hauapu
  hauara
@@ -812,7 +693,6 @@
  haututu
  hauwai
  hauwha
- hawa
  hawai
  hawaiki
  haware
@@ -826,11 +706,8 @@
  haweru
  hawete
  hawhe
- hawi
  hawini
  hawiwi
- he
- hea
  heaha
  heahea
  heanga
@@ -838,15 +715,12 @@
  hehepa
  hehewa
  hehipa
- hei
  heiaha
  heihei
  heinga
- heka
  hekana
  hekaua
  hekawa
- heke
  hekeao
  hekeki
  hekemai
@@ -861,23 +735,17 @@
  hekeri
  heketa
  hekeua
- heki
- heko
  hekona
  hekone
- heku
  hekuna
  hekuru
- hema
  hemahema
  hemana
  hemapo
  hemara
  hemea
  hemera
- hemi
  hemira
- hemo
  hemohemo
  henare
  henari
@@ -890,13 +758,11 @@
  heneti
  henga
  hengia
- heni
  henoheno
  henoko
  henowa
  henua
  henuapai
- hepa
  hepai
  hepara
  hepata
@@ -906,16 +772,12 @@
  heperu
  hepeta
  hepete
- hepi
- hepo
- hera
  herahi
  herama
  herani
  herapi
  herara
  heraro
- here
  herehere
  hereka
  heretu
@@ -931,7 +793,6 @@
  hereti
  heretu
  herewi
- heri
  heriata
  heriko
  heripo
@@ -941,11 +802,9 @@
  herora
  herota
  heroti
- heru
  heruheru
  herupa
  herupe
- heta
  hetapa
  hetata
  hetera
@@ -957,11 +816,8 @@
  heuheu
  heunga
  heuoro
- hewa
  hewahewa
  hewano
- hi
- hia
  hiahia
  hiainu
  hiakai
@@ -970,10 +826,8 @@
  hiango
  hiapai
  hiawai
- hiha
  hihana
  hihera
- hihi
  hihima
  hihini
  hihipa
@@ -981,11 +835,9 @@
  hihiri
  hihiwa
  hihona
- hiho
  hihopa
  hihore
  hiika
- hika
  hikaia
  hikaka
  hikamo
@@ -995,7 +847,6 @@
  hikatu
  hikawe
  hikera
- hiki
  hikina
  hikini
  hikiri
@@ -1005,15 +856,12 @@
  hikoko
  hikoro
  hikoti
- hiku
  hikua
  hikupa
  himaha
  himene
- himi
  himini
  himona
- hina
  hinaka
  hinaki
  hinapa
@@ -1021,7 +869,6 @@
  hinapo
  hinau
  hinawa
- hine
  hineau
  hinetu
  hinewa
@@ -1033,9 +880,7 @@
  hinohi
  hinona
  hinota
- hinu
  hinua
- hipa
  hipahipa
  hipakari
  hipane
@@ -1047,13 +892,10 @@
  hipera
  hiperi
  hiperu
- hipi
  hipihipi
  hipira
  hipiri
- hipo
  hipohipo
- hira
  hiraha
  hiraki
  hirako
@@ -1068,7 +910,6 @@
  hiremi
  hirene
  hirere
- hiri
  hiria
  hirihiri
  hirinaki
@@ -1079,7 +920,6 @@
  hiriri
  hiriwa
  hiriwi
- hiro
  hiroa
  hirohiro
  hirona
@@ -1087,7 +927,6 @@
  hirora
  hirori
  hiroti
- hita
  hitaka
  hitako
  hitama
@@ -1103,7 +942,6 @@
  hitimi
  hitina
  hitiri
- hito
  hitoka
  hitona
  hitoro
@@ -1111,27 +949,21 @@
  hitoro
  hitoru
  hituri
- hiwa
  hiwara
  hiweka
  hiwera
  hiwete
- hiwi
- hoa
  hoahoa
  hoanga
  hoariri
- hoe
  hoenga
  hoeroa
  hoeawai
- hoha
  hohaia
  hohana
  hohapa
  hohara
  hohata
- hohe
  hohema
  hohepa
  hoherea
@@ -1140,7 +972,6 @@
  hohina
  hohini
  hohipa
- hoho
  hohoia
  hohoki
  hohoka
@@ -1152,48 +983,36 @@
  hohotai
  hohotua
  hohoua
- hohu
- hoi
- hoia
  hoiho
  hoihoi
- hoka
  hokai
  hokari
  hokatea
- hoke
  hokere
  hokeri
  hokete
  hoketu
- hoki
  hokia
  hokina
  hokioi
- hoko
  hokohoko
  hokona
  hokura
  homai
  homaia
  homaitia
- hona
  honae
  honara
- hone
  honeke
  honera
  honere
  hongai
  hongi
  hongoi
- hono
  honoia
  honore
  honori
  honohono
- honu
- hopa
  hopahopa
  hopai
  hopane
@@ -1201,28 +1020,23 @@
  hopapa
  hopara
  hopata
- hope
  hopena
  hopehope
- hopi
  hopihi
  hopipi
  hopiri
  hopiro
  hopiwai
- hopu
  hopuhopu
  hopua
  hopuna
  hopupu
  hopura
  hoputu
- hora
  horaka
  horapa
  horahora
  horata
- hore
  horekau
  horera
  horere
@@ -1230,13 +1044,11 @@
  horete
  horeto
  horewa
- hori
  horihi
  horipi
  horipu
  horiri
  horite
- horo
  horoa
  horoma
  horomi
@@ -1249,7 +1061,6 @@
  hororo
  horota
  horoto
- hota
  hotama
  hotene
  hoteni
@@ -1260,7 +1071,6 @@
  hotiki
  hotiti
  hotoke
- hotu
  Hotuawhio
  hotuhotu
  hotuku
@@ -1268,16 +1078,13 @@
  hotuope
  Hotumatapu
  hoturoa
- hou
  houhea
  houhia
  houhu
  houmea
- hou
  houroa
  hourua
  howita
- hua
  huaha
  huahou
  huahua
@@ -1302,15 +1109,12 @@
  huauri
  huawai
  huawhenua
- hue
  huehue
- huha
  huhama
  huhana
  huhare
  huheka
  huhimi
- huhu
  huhuka
  huhunu
  huhure
@@ -1318,41 +1122,30 @@
  huhuta
  huhuti
  huhutu
- hui
- huia
  huinga
- huie
  huihui
  huirau
  huirua
  huitau
- huka
  hukahuka
  hukarere
- huke
  hukea
  hukehuke
  hukena
  hukeri
  hukeria
- huki
  hukihuki
  hukihukia
  hukuikui
  hukuia
- hume
  humeke
  humene
- humu
- huna
  hunahuna
- hune
  hunene
  hunga
  hungana
  hungoi
  hungui
- hunu
  hunua
  hunuku
  huoioi
@@ -1362,14 +1155,12 @@
  hupane
  hupara
  hupati
- hupe
  hupeka
  hupekapeka
  hupeke
  hupekepeke
  hupiro
  huputu
- hura
  hurahura
  hurai
  hurana
@@ -1378,21 +1169,17 @@
  hurere
  hurehure
  hurero
- huri
  huria
  huriao
  hurihuri
  huripo
  huritai
  huritau
- huro
  hurori
- huru
  huruhuru
  hurua
  hurupi
  hutane
- huti
  hutia
  hutihuti
  hutinga
@@ -1402,7 +1189,6 @@
  hutoke
  hutoketoke
  hutoto
- hutu
  hutuhutu
  hutuki
  hutukia
@@ -1411,11 +1197,8 @@
  hutukituki
  huwaki
  huware
- ia
  iaata
- iaha
  iahaora
- iaia
  iakura
  iamane
  ianama
@@ -1427,8 +1210,6 @@
  iapeke
  iapeka
  iapiri
- iapo
- iara
  iaratapu
  iaminiti
  iamarama
@@ -1442,36 +1223,27 @@
  iahuritau
  iatoka
  iatoto
- iawa
  iawaka
  iawiki
  iawenerei
  iawini
- iere
  ihaia
  ihenga
- ihi
  ihiihi
  ihina
  ihinga
- iho
  ihoiho
  ihonui
  ihorua
  ihowa
- ihu
  ihuihu
  ihunui
  ihunuiti
- ika
  ikapo
  ikanui
  ikaroa
  ikeike
  ikuiku
- imu
- imua
- ina
  inahia
  inaina
  inaka
@@ -1480,28 +1252,21 @@
  inanui
  inarua
  inati
- ine
  ineine
  inenga
  inerua
- ingo
  ingoa
- inia
  inihua
  inihuaina
  inihuanga
  initia
- inoa
- inoi
  inoano
  inoitia
  inoipoto
  inoiroa
- inu
  inuroa
  inuhou
  inuinu
- io
  iohere
  iomatua
  ionui
@@ -1511,10 +1276,8 @@
  iorupa
  iouru
  iotapu
- ipu
  ipuipu
  ipurau
- ira
  iraira
  iramoe
  iranga
@@ -1528,10 +1291,8 @@
  iratau
  ireaha
  ireneo
- iri
  irihia
  iringa
- iro
  iroiro
  irunga
  itaita
@@ -1539,7 +1300,6 @@
  itaupa
  itepo
  itewaa
- iti
  itinga
  itinia
  itinoa
@@ -1547,18 +1307,12 @@
  itumea
  ituria
  iuropa
- iwa
  iwara
  iwhara
- iwi
  iwihou
  iwinui
  iwirau
  iwiroa
- ka
- kae
- kaea
- kaha
  kahaho
  kahaka
  kahaki
@@ -1569,22 +1323,18 @@
  kahati
  kahatu
  kahawai
- kahe
  kaheke
  kahera
  kaheru
  kaheti
- kahi
  kahikahi
  kahiti
  kahiwi
- kaho
  kahokaho
  kahotapu
  kahora
  kahore
  kahoro
- kahu
  kahukahu
  kahuki
  kahuku
@@ -1596,8 +1346,6 @@
  kahuria
  kahuru
  kahutu
- kai
- kaia
  kaiahi
  kaiaka
  kaiako
@@ -1674,7 +1422,6 @@
  kaiwai
  kaiwea
  kaiwha
- kaka
  kakahi
  kakaho
  kakahu
@@ -1703,10 +1450,8 @@
  kakato
  kakawa
  kakawe
- kake
  kakere
  kaketu
- kaki
  kakioio
  kakipoto
  kakiroa
@@ -1714,7 +1459,6 @@
  kakopa
  kakuki
  kakura
- kama
  kamaea
  kamahi
  kamaka
@@ -1730,14 +1474,12 @@
  kametu
  kamira
  kamiti
- kamo
  kamokamo
  kamore
  kamura
  kamure
  kamuri
  kamutu
- kana
  kanakana
  kanahi
  kanaki
@@ -1751,7 +1493,6 @@
  kanata
  kanatu
  kanawa
- kane
  kanehe
  kanehi
  kaneke
@@ -1760,25 +1501,20 @@
  kanere
  kanewa
  kangia
- kani
  kanihi
  kanikani
- kano
  kanoa
  kanohi
  kanono
  kanoti
- kanu
  kanui
  kanuka
- kao
  kaokao
  kaonga
  kaora
  kaore
  kaoti
  kaotia
- kapa
  kapahaka
  kapahoia
  kapai
@@ -1786,7 +1522,6 @@
  kaparu
  kapata
  kapawa
- kape
  kapea
  kapeka
  kapene
@@ -1796,11 +1531,9 @@
  kapete
  kapeti
  kapeto
- kapi
  kapia
  kapiro
  kapiti
- kapo
  kapoia
  kapoke
  kapona
@@ -1808,7 +1541,6 @@
  kaponi
  kapono
  kapotu
- kapu
  kapua
  kapui
  kapuia
@@ -1820,7 +1552,6 @@
  kaputa
  kaputi
  kapuwai
- kara
  karae
  karaha
  karahe
@@ -1851,7 +1582,6 @@
  karauna
  karawa
  karawe
- kare
  kareao
  karehu
  kareka
@@ -1875,7 +1605,6 @@
  kareto
  karetu
  karewa
- kari
  karikari
  karihi
  karika
@@ -1892,7 +1621,6 @@
  karitane
  kariti
  karito
- karo
  karongia
  karohi
  karohia
@@ -1900,7 +1628,6 @@
  karori
  karoro
  karoti
- karu
  karua
  karuai
  karukaru
@@ -1910,7 +1637,6 @@
  karurua
  karute
  karuwha
- kata
  katahi
  kataka
  katake
@@ -1924,14 +1650,12 @@
  katere
  kateretere
  katete
- kati
  katikati
  katiki
  katipa
  katipo
  katipu
  katira
- kato
  katoa
  katoatoa
  katohe
@@ -1939,10 +1663,7 @@
  katore
  katorika
  katote
- katu
  katua
- kau
- kaua
  kauaka
  kauaki
  kauamo
@@ -1973,7 +1694,6 @@
  kauroa
  kautau
  kauwae
- kawa
  kawai
  kawaka
  kawakawa
@@ -1983,7 +1703,6 @@
  kawaru
  kawata
  kawati
- kawe
  kawea
  kaweha
  kawehe
@@ -2007,25 +1726,17 @@
  kawiria
  kawiti
  kawitu
- ke
- kea
  keakea
- keha
  kehakeha
  kehati
- kehe
- kehi
- kehu
  kehua
  kehukehu
- kei
  keikona
  keikonei
  keikora
  keitua
  keiroto
  keiwaho
- keke
  kekeho
  kekehona
  kekehora
@@ -2039,33 +1750,24 @@
  kemara
  kemari
  kemaru
- keme
  kemera
  kemihi
- kemu
  kemunui
  kemuroa
  kemuiti
- kena
  kenana
  kenara
  kenata
- kene
  kenekene
  keneti
  keniti
- keo
  keokeo
  keonga
- kepa
  kepakepa
- kera
  kerana
  kerapa
  kerawera
- kere
  kerehi
- kerei
  kerei
  kereia
  kerekere
@@ -2079,44 +1781,32 @@
  kereti
  keretu
  kerewa
- keri
  keria
  keringia
  kerina
  keringa
  keritia
- kero
  kerokero
  kerupa
- kete
  keteiti
  ketenui
  keteroa
  ketekianga
  ketetakopa
- keti
  ketipamu
- keu
  keukeu
  keunga
- ki
- kia
  kiakia
- kiki
  kiaora
  kiaoranga
  kiaria
  kiatu
- kie
  kiekie
  kihai
- kihi
  kihikihi
  kihini
  kihipa
- kihipa
  kihiroa
- kiki
  kikia
  kikiki
  kikina
@@ -2124,23 +1814,17 @@
  kikino
  kikiri
  kikiwa
- kiko
  kikokiko
  kikoka
  kikopu
- kimi
  kimihia
  kimikimi
- kina
  kinaki
  kinakina
  kinana
- kio
  kiokio
- kipo
  kirea
  kirehu
- kiri
  kiria
  kirika
  kiriki
@@ -2150,31 +1834,21 @@
  kirimi
  kirita
  kiriti
- kiro
- kita
  kitahi
- kite
  kitea
  kitekite
  kitini
- kiu
  kiukiu
- kiwa
  kiwaha
- ko
- koa
  koanga
  koangi
  koanui
  koauau
  koarea
- koe
- koea
  koeaea
  koekoe
  koekoea
  koeroa
- koha
  kohaiti
  kohanui
  kohaka
@@ -2189,7 +1863,6 @@
  kohatu
  kohatunui
  kohaturoa
- kohe
  koheke
  koheko
  kohekohe
@@ -2200,7 +1873,6 @@
  koheru
  koheta
  kohewa
- kohi
  kohia
  kohikohi
  kohinga
@@ -2224,7 +1896,6 @@
  kohoko
  kohore
  kohota
- kohu
  kohua
  kohuhu
  kohukohu
@@ -2240,8 +1911,6 @@
  kohuri
  kohuru
  kohuruhuru
- koi
- koia
  koikoia
  koiana
  koianei
@@ -2256,18 +1925,15 @@
  koiora
  koira
  koiti
- koka
  kokahu
  kokai
  kokako
  kokara
  kokari
  kokawa
- koke
  kokeke
  kokeko
  kokewa
- koki
  kokia
  kokiki
  kokikoki
@@ -2275,7 +1941,6 @@
  kokiri
  kokirikiri
  kokiro
- koko
  kokohi
  kokoho
  kokohu
@@ -2297,8 +1962,6 @@
  kokuhu
  kokura
  kokuta
- koma
- komahi
  komahi
  komako
  komama
@@ -2316,7 +1979,6 @@
  komiro
  komiromiro
  komiti
- komo
  komokomo
  komore
  komoro
@@ -2326,7 +1988,6 @@
  komuri
  komuru
  komutu
- kona
  konae
  konaka
  konaki
@@ -2345,18 +2006,15 @@
  koneti
  konewa
  kongi
- koni
  konihi
  konihinihi
  konini
- kono
  konokono
  konohi
  konoko
  kononi
  konumi
  konunu
- kopa
  kopakopa
  kopaki
  kopako
@@ -2370,7 +2028,6 @@
  koparu
  kopata
  kopatu
- kope
  kopengia
  kopehia
  kopenga
@@ -2388,7 +2045,6 @@
  kopere
  koperepere
  kopeti
- kopi
  kopia
  kopiko
  kopikopi
@@ -2399,7 +2055,6 @@
  kopito
  koporo
  kopoti
- kopu
  kopua
  kopuai
  kopuka
@@ -2412,7 +2067,6 @@
  kopuru
  koputa
  koputu
- kora
  korae
  koraka
  koraki
@@ -2427,7 +2081,6 @@
  korare
  korari
  korawa
- kore
  korehi
  korehu
  korekau
@@ -2444,7 +2097,6 @@
  korerorero
  koreti
  korewa
- kori
  koria
  koringia
  korini
@@ -2462,7 +2114,6 @@
  korita
  koriterite
  korito
- koro
  koroa
  koroi
  korou
@@ -2490,7 +2141,6 @@
  koroto
  korotu
  koroua
- koru
  korua
  korui
  korukoru
@@ -2518,10 +2168,8 @@
  kotari
  kotaru
  kotata
- kotata
  kotawa
  kotawe
- kote
  kotea
  kotehe
  kotehi
@@ -2533,7 +2181,6 @@
  kotero
  kotete
  koteti
- koti
  kotia
  kotihe
  kotihi
@@ -2570,8 +2217,6 @@
  koturi
  koturu
  kotutu
- kou
- koua
  kouaha
  kouaua
  kouka
@@ -2610,12 +2255,10 @@
  kowiriwiri
  kowiti
  kowiwi
- kua
  kuakai
  kuakua
  kuatau
  kuauau
- kuha
  kuhaka
  kuhana
  kuhara
@@ -2624,23 +2267,17 @@
  kuhere
  kuhete
  kuhia
- kuhu
  kuhua
- kui
- kuia
  kuikui
  kuirau
  kuiwai
- kuka
  kukama
  kukamo
  kukano
  kukari
  kukere
- kuki
  kukore
  kukoro
- kuku
  kukuku
  kukuma
  kukume
@@ -2666,46 +2303,35 @@
  kumera
  kumete
  kumeti
- kumi
  kumiti
  kumore
- kumu
- kuna
  kunanu
  kunari
  kunatu
- kune
  kunenga
  kungia
- kuni
  kupapa
  kupara
  kupare
  kupari
  kuparu
  kupata
- kupe
  kupeke
  kupika
  kupiki
  kupita
- kupu
  kupupa
- kura
  kurahi
  kuraki
  kurapa
  kurawa
  kurawi
- kure
  kurehu
  kurepe
  kurere
- kuri
  kuriri
  kuriti
  kuroto
- kuru
  kuruho
  kuruki
  kuruma
@@ -2719,17 +2345,14 @@
  kutere
  kutete
  kutoro
- kutu
  kuwaha
  kuware
  kuwaru
  kuwata
  kuwawa
  kuweto
- maea
  maemae
  maeroa
- maha
  mahaia
  mahaka
  mahake
@@ -2751,7 +2374,6 @@
  mahero
  mahetu
  mahewa
- mahi
  mahika
  mahiki
  mahiku
@@ -2768,7 +2390,6 @@
  mahori
  mahoro
  mahoui
- mahu
  mahue
  mahuka
  mahuki
@@ -2780,8 +2401,6 @@
  mahuru
  mahuta
  mahutu
- mai
- maia
  maieke
  maiere
  maihao
@@ -2804,7 +2423,6 @@
  mairoa
  maitai
  maiuta
- maka
  makahi
  makaho
  makahu
@@ -2825,7 +2443,6 @@
  makaue
  makawa
  makawe
- make
  makehu
  makeke
  makena
@@ -2837,7 +2454,6 @@
  makete
  maketu
  makewa
- maki
  makiki
  makina
  makini
@@ -2845,7 +2461,6 @@
  makiri
  makita
  makiti
- mako
  makoha
  makohe
  makohu
@@ -2857,14 +2472,12 @@
  makono
  makora
  makoro
- maku
  makuhu
  makuku
  makura
  makuri
  makuru
  makutu
- mama
  mamahi
  mamahu
  mamai
@@ -2878,7 +2491,6 @@
  mamau
  mamore
  mamori
- mana
  manahe
  manahi
  manaia
@@ -2890,7 +2502,6 @@
  manatu
  manawa
  manawatu
- mane
  manehu
  manene
  manewa
@@ -2911,26 +2522,20 @@
  manoao
  manohi
  manono
- manu
  manuao
  manuka
  manunu
  manunui
  manurewa
- mao
  maomao
  maonga
- mapa
  mapara
  mapau
  mapere
- mapi
  mapihi
  mapiri
- mapu
  mapuna
  mapura
- mara
  marae
  maraka
  marake
@@ -2953,7 +2558,6 @@
  mareia
  marena
  marewa
- mari
  maria
  marie
  marika
@@ -2966,7 +2570,6 @@
  marire
  mariri
  mariu
- maro
  maroa
  maroha
  marohi
@@ -2974,14 +2577,12 @@
  marore
  maroro
  maroto
- maru
  marua
  maruao
  marumaru
  marupo
  marure
  maruru
- mata
  mataaho
  matahae
  matahi
@@ -3002,14 +2603,12 @@
  matata
  matatu
  matawa
- mate
  matea
  matemate
  matenui
  matete
  matetoto
  matetu
- mati
  matia
  matihe
  matika
@@ -3021,24 +2620,19 @@
  matiraroa
  matiro
  matiu
- mato
  matoha
  matohe
  matohu
  matoke
  matoro
  matoru
- matu
  matua
  matuatua
  matuku
  maturu
  matutu
- mau
- maua
  mauao
  mauhoro
- maui
  mauiui
  maumau
  maunga
@@ -3055,13 +2649,11 @@
  mawana
  mawaru
  mawawa
- mawe
  mawehe
  mawera
  mawete
  mawewe
  mawhai
- mea
  meake
  meana
  meatia
@@ -3069,57 +2661,43 @@
  mehameha
  mehemea
  mehiko
- mei
  meiha
  meihi
  meika
  meinga
- meka
  mekari
  meekii
  memeha
  memeke
  memene
- mena
  menaka
- mene
  menea
  menenga
  mepara
- mera
  meraka
- mere
  mereni
  merenia
  meremere
- meri
  merika
  merino
- mero
  meroiti
  metara
  metera
  mewaro
- mia
  mianga
- miha
  mihaia
  mihamiha
  mihana
  miharo
- mihi
  mihimihi
  mihimai
  mihini
  mihingari
- mika
  mikara
  mikere
- miki
  mikia
  mikiape
  mikiapi
- mimi
  mimia
  mimiha
  mimimi
@@ -3131,10 +2709,8 @@
  mimiti
  mimitia
  mimititia
- mina
  minaka
  minanga
- mine
  minene
  minenga
  mineti
@@ -3144,37 +2720,28 @@
  mingiroa
  minita
  miniti
- mino
  minoa
- mira
  miraka
  mirara
  mireka
  mireta
- miri
  miria
  miriama
  mirimiri
  mirina
  miringa
  miriti
- miro
  miromiro
- mita
  mitai
  mitara
  mitera
- miti
  mitimiti
  mitipa
  mitipi
  mitiora
  mitora
- moa
  moaho
  moanui
- moe
- moea
  moeahi
  moeana
  moehau
@@ -3190,13 +2757,11 @@
  moetia
  moetoa
  moewai
- moha
  mohaka
  mohake
  mohaki
  mohani
  mohara
- mohe
  moheka
  moheke
  mohena
@@ -3204,32 +2769,27 @@
  moheni
  moheno
  mohera
- mohi
  mohina
  mohinu
  mohio
  mohiotia
  mohiti
- moho
  mohoao
  mohoau
  mohou
  mohoua
- moi
  moikau
  moimoi
  moinga
  moioio
  moiti
  moitia
- moka
  mokai
  mokapa
  mokapu
  mokara
  mokaru
  mokau
- moke
  mokeke
  mokemoke
  mokena
@@ -3237,13 +2797,11 @@
  mokenu
  mokere
  mokete
- moki
  mokia
  mokiki
  mokini
  mokiri
  mokito
- moko
  mokoa
  mokoi
  mokoia
@@ -3255,16 +2813,13 @@
  mokota
  mokoti
  mokotia
- moku
  mokura
  mokuru
  momipu
- momo
  momoa
  momoho
  momohoa
  momohotia
- momona
  momona
  momonatia
  momore
@@ -3277,14 +2832,11 @@
  momotu
  momotua
  momotutia
- mona
  monaka
  monaki
  monako
- mone
  monea
  moneatia
- moni
  monika
  monita
  monitatia
@@ -3293,14 +2845,11 @@
  monoao
  monoku
  monowa
- mora
  morae
  moraka
  morako
  morare
  moraro
- more
- more
  morehu
  moremore
  morena
@@ -3308,7 +2857,6 @@
  morere
  morerea
  moreretia
- mori
  morimori
  moriha
  morihi
@@ -3317,7 +2865,6 @@
  morina
  moriori
  moriroriro
- moro
  moroka
  moroki
  moroto
@@ -3325,17 +2872,14 @@
  moruka
  moruki
  moruru
- mota
  motana
  motata
- mote
  motea
  moteatea
  motera
  motere
  motero
  motete
- moti
  motihe
  motihi
  motika
@@ -3345,7 +2889,6 @@
  motiti
  motohe
  motoka
- motu
  motua
  motuiti
  motumotu
@@ -3356,7 +2899,6 @@
  motuti
  motuto
  motuwi
- mou
  moumou
  mourea
  mourei
@@ -3365,47 +2907,33 @@
  mowaru
  mowata
  mowiti
- mu
- mua
  muahi
- muha
  muhara
  muharu
  muheke
  muheni
- muhi
  muhia
  muhora
  muhoro
- muhu
  muhuna
  muhuru
- mui
- muia
  muimui
  muimuia
  muinga
- muka
  muketu
  mukoko
- muku
  mukua
  mukuau
  mukuta
- muma
  mumahi
  mumaru
- mumu
  mumuka
  mumuku
  mumura
  mumutu
- muna
  munuku
- mupi
  mupia
  mupimi
- mura
  murae
  murao
  murare
@@ -3413,14 +2941,9 @@
  murea
  mureke
  murere
- muri
  muria
  muriahi
  muriana
- muru
- mutu
- na
- nae
  naenae
  naenoa
  naeroa
@@ -3429,13 +2952,9 @@
  nahari
  nahanaha
  nahere
- naho
  nahora
- nahu
  nahumu
  nahuru
- nai
- naia
  nainai
  nainei
  nakahi
@@ -3444,15 +2963,10 @@
  nakaua
  nakiha
  nakihu
- nako
- naku
- nama
  namana
  namata
- namu
  namuna
  namunamu
- nana
  nangara
  nanahu
  nanaia
@@ -3467,7 +2981,6 @@
  nanati
  nanatu
  nanawe
- nani
  nanihi
  naomia
  naonao
@@ -3476,14 +2989,12 @@
  napuka
  narapa
  narihi
- nata
  natana
  natapa
  natari
  natone
  natura
  nature
- nau
  naumai
  naumia
  naunau
@@ -3491,52 +3002,37 @@
  nawai
  nawaia
  nawaki
- nawe
  nawera
- nehe
  nehenehe
  nehera
- neho
- nehu
  nehunehu
- nei
  neikoa
  neina
  neinei
- neke
  nekea
  nekeatu
  nekemai
  nemona
- nene
  nenea
  neneti
  nepara
  nepari
  nepata
- nepi
  nepia
- nepo
  neponepo
  nepora
  nepori
  neporo
  nepoui
- nera
- neri
  neriwa
  netaha
  netana
- nete
- neti
  netipaoro
  neumia
- newa
  newanewa
  newaro
  neweka
  newera
- ngae
  ngaeke
  ngaeki
  ngaere
@@ -3548,7 +3044,6 @@
  ngaho
  ngahu
  ngahue
- ngai
  ngaika
  ngaipu
  ngaire
@@ -3560,7 +3055,6 @@
  ngana
  nganga
  ngangi
- ngao
  ngaoa
  ngaoki
  ngaoko
@@ -3578,7 +3072,6 @@
  ngatea
  ngati
  ngatoa
- ngau
  ngaura
  ngauri
  ngawai
@@ -3587,7 +3080,6 @@
  ngawhi
  ngenge
  ngohi
- ngoi
  ngoia
  ngoitia
  ngona
@@ -3601,14 +3093,9 @@
  ngungu
  ngungua
  nguroa
- nia
  niania
- nihi
- niho
  nohoniho
- nika
  nikora
- nini
  ninia
  ninitia
  ninihi
@@ -3616,27 +3103,20 @@
  ninipa
  niniwa
  niwha
- no
- noa
  noaiho
  noatia
  nohema
- noho
  nohoa
  nohoia
  nohohia
  nohongia
- noku
  nomana
- nona
  nonahea
  nonawhea
  nonaka
- none
  nonea
  nonehia
  nonetia
- nono
  nonoho
  nonoke
  nonope
@@ -3648,24 +3128,18 @@
  nonotihia
  nonotitia
  nopera
- nora
  notona
  noumea
  nowhea
  nuhaka
- nui
  nuinui
  nuinga
- nuka
- nuku
  nukua
  nukuhia
  nukutia
- numa
  numano
  numapa
 numipa
- nunu
  nunui
  nunumi
  nupepa
@@ -3677,7 +3151,6 @@ numipa
  oaonui
  oarani
  oariki
- oha
  ohangia
  ohatia
  ohaha
@@ -3690,7 +3163,6 @@ numipa
  ohara
  ohari
  oharoa
- ohau
  ohaupo
  ohauru
  ohawai
@@ -3700,7 +3172,6 @@ numipa
  ohirea
  ohiwa
  ohiwia
- oho
  ohoake
  ohoeka
  ohoeua
@@ -3709,13 +3180,9 @@ numipa
  ohooho
  ohoroa
  ohotu
- ohu
- ohua
  ohunga
  ohuohu
  ohura
- oi
- oia
  oinuku
  okahu
  okaina
@@ -3737,7 +3204,6 @@ numipa
  okaweu
  okeoke
  okeroa
- oki
  okiara
  okiato
  okioki
@@ -3758,9 +3224,7 @@ numipa
  okunui
  okuoku
  okura
- oku
  okutu
- oma
  omaero
  omahau
  omaia
@@ -3777,7 +3241,6 @@ numipa
  omarae
  omata
  omatua
- omau
  omauri
  omeheu
  omeka
@@ -3786,7 +3249,6 @@ numipa
  omoana
  omoehau
  omokau
- ona
  onaero
  onaona
  onapua
@@ -3798,7 +3260,6 @@ numipa
  onetai
  onetea
  oneuku
- onga
  ongare
  ongari
  ongaru
@@ -3833,7 +3294,6 @@ numipa
  oporua
  opotiki
  opouri
- opua
  opuha
  opunga
  opunu
@@ -3841,7 +3301,6 @@ numipa
  opuru
  oputa
  oputea
- ora
  orakau
  orakei
  orakia
@@ -3858,7 +3317,6 @@ numipa
  oratau
  oratia
  oratou
- orau
  orauea
  orauta
  orawa
@@ -3869,8 +3327,6 @@ numipa
  oreore
  orewa
  orewha
- ori
- oria
  orihou
  oringi
  oriori
@@ -3891,7 +3347,6 @@ numipa
  orotai
  orotau
  orowha
- orua
  oruaka
  oruaki
  oruamo
@@ -3931,15 +3386,11 @@ numipa
  otawa
  otawae
  otawhi
- ote
- otea
  oteake
  otehei
  oterei
  otereo
  otewao
- oti
- otia
  otiere
  otingia
  otihoi
@@ -3956,12 +3407,10 @@ numipa
  otonga
  otoroa
  ototoa
- otu
  otuaha
  otuakau
  otueka
  otueta
- otui
  otuia
  otuiau
  otuiti
@@ -3998,10 +3447,7 @@ numipa
  owhiti
  owhiwa
  owhuia
- pae
- paea
  paeata
- paehau
  paehau
  paehua
  paekai
@@ -4023,7 +3469,6 @@ numipa
  paetau
  paewae
  paewai
- paha
  pahahu
  pahaka
  pahake
@@ -4038,7 +3483,6 @@ numipa
  pahato
  pahau
  pahaua
- pahe
  paheka
  paheke
  paheko
@@ -4046,7 +3490,6 @@ numipa
  pahera
  pahere
  pahewa
- pahi
  pahia
  pahika
  pahiki
@@ -4057,7 +3500,6 @@ numipa
  pahitu
  pahiwa
  pahiwi
- paho
  pahotia
  pahoi
  pahoia
@@ -4067,7 +3509,6 @@ numipa
  pahora
  pahore
  pahoro
- pahu
  pahua
  pahuka
  pahuki
@@ -4077,8 +3518,6 @@ numipa
  pahuri
  pahutia
  pahutu
- pai
- paia
  paiake
  paiare
  paiawa
@@ -4096,7 +3535,6 @@ numipa
  pairua
  paitia
  paiwai
- paka
  pakahi
  pakaka
  pakake
@@ -4114,7 +3552,6 @@ numipa
  pakaua
  pakaue
  pakawe
- pake
  pakeha
  pakehakeha
  pakehu
@@ -4125,7 +3562,6 @@ numipa
  paketi
  paketu
  pakewa
- paki
  pakia
  pakiki
  pakina
@@ -4135,7 +3571,6 @@ numipa
  pakiri
  pakite
  pakiti
- pako
  pakoha
  pakohi
  pakohu
@@ -4149,7 +3584,6 @@ numipa
  pakore
  pakoro
  pakoti
- paku
  pakua
  pakuka
  pakuku
@@ -4157,14 +3591,11 @@ numipa
  pakura
  pakuri
  pakuru
- pama
  pamai
  pamamao
  pamari
  pamaro
  pamoto
- pamu
- pana
  panaina
  panahi
  panaia
@@ -4178,7 +3609,6 @@ numipa
  panapa
  panara
  panata
- pane
  paneke
  panera
  paneta
@@ -4187,19 +3617,14 @@ numipa
  pangaina
  pangia
  pangu
- pani
  pania
  panihi
  panoho
  panoni
  panora
  panoti
- panu
  panumi
  panumu
- pa
- pao
- paoa
  paongia
  paonui
  paopao
@@ -4207,7 +3632,6 @@ numipa
  paoro
  paoroa
  paouru
- papa
  papae
  papaho
  papahu
@@ -4233,15 +3657,12 @@ numipa
  papau
  papeke
  papera
- papi
  papirona
  papita
  papori
- papu
  papuni
  papunia
  papura
- para
  parae
  paraha
  parahe
@@ -4267,7 +3688,6 @@ numipa
  paratii
  paratu
  parau
- pare
  parea
  parehe
  pareho
@@ -4280,25 +3700,21 @@ numipa
  parete
  pareti
  paareti
- pari
  paria
  parihaka
  parihi
  parihitia
  paritu
  parituu
- paro
  paaroo
  parohe
  parori
  parorirori
  paroro
- paru
  paruparu
  parure
  parurea
  parurehia
- pata
  patakia
  patahi
  patai
@@ -4313,7 +3729,6 @@ numipa
  paatata
  patate
  patatee
- pate
  patee
  patea
  pateko
@@ -4328,7 +3743,6 @@ numipa
  paterotia
  patete
  paateetee
- pati
  patii
  patiki
  paatiki
@@ -4343,7 +3757,6 @@ numipa
  patototia
  patotuhi
  patou
- patu
  paatu
  paatuu
  patua
@@ -4387,15 +3800,12 @@ numipa
  patupahe
  patupatu
  patuwai
- pau
- paua
  pauhu
  paukena
  pauku
  pauna
  paunga
  paupau
- pawa
  pawaha
  pawaroa
  pawati
@@ -4407,17 +3817,11 @@ numipa
  pawhati
  pawhera
  pawhiri
- pea
- peau
  pehea
  peehi
- peho
- pei
  peita
- peka
  pekapeka
  pekana
- peke
  paeke
  pekeha
  pekena
@@ -4426,32 +3830,21 @@ numipa
  pekerapu
  peketahi
  peketoru
- peki
- pema
- pena
  penahia
  penaka
  penapena
- pene
  penei
  peneki
  peneti
  penihana
  peniho
  penoni
- penu
- peo
- pepa
- pepe
  pepeha
  pepeke
  pepepe
- pepi
  pepuere
- pera
  perana
  peraro
- pere
  perea
  perehi
  perei
@@ -4460,34 +3853,25 @@ numipa
  pereti
  peeretia
  peretu
- peretu
- peri
  peria
  periki
  peringa
  peripi
- pero
  perori
- peru
  peruperu
- peta
  petapeta
  petaka
  petera
  peteri
  peeteri
  petini
- peto
  petopeto
  petone
- pewa
  pewera
  pewha
  pewhairangi
  pewhea
  peewhea
- pi
- pia
  piakaaka
  piakamo
  piakano
@@ -4506,14 +3890,12 @@ numipa
  piataata
  piiataata
  piatara
- piau
  piauau
  piawai
  piiawai
  pieke
  piere
  piereere
- piha
  pihaha
  pihaka
  pihama
@@ -4528,47 +3910,37 @@ numipa
  pihau
  piihau
  pihaua
- pihe
  pihepihe
  pihere
- pihi
  pihia
  pihikete
  pihinga
  pihipihi
  pihipihia
- piho
  pihoi
  pihoihoi
  pihopa
  pihore
  pihuka
- pii
- piia
- pika
  pikake
  pikara
  pikaratia
  pikari
  pikaru
  pikau
- piki
  pikitia
  pikitu
- piko
  pikoko
  pikoni
  pikopo
  pinaki
  pinati
  piinati
- pine
  pinea
  pineke
  pinene
  pinepine
  pingao
- pini
  pinohi
  pinohia
  pinohihia
